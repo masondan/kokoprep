@@ -870,7 +870,7 @@
     "category": "mathematics",
     "difficulty": "medium",
     "imagePath": "/images/diagrams/mathematics/math_diag_007.png",
-    "question": "The construction diagram illustrates an angle bisector ray. If the full original angle ∠ABC was 60°, what is the value of the bisected angle x?",
+    "question": "The diagram illustrates an angle bisector ray. If the full original angle ∠ABC was 60°, what is the value of the bisected angle x? Hint: 'bi' means two",
     "options": ["30°", "45°", "60°", "90°"],
     "correctIndex": 0,
     "explanation": "The diagram depicts geometry construction compass arcs showing an angle bisector dividing ∠ABC into two equal parts. Bisecting means dividing perfectly in half, so x = 60° ÷ 2 = 30°.",

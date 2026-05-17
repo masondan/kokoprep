@@ -107,7 +107,7 @@
 <div class="app-shell" style="--cat-color: {$categoryColor}">
 	<!-- Header -->
 	<header class="app-header">
-		<img src="/logos/logo-kokoprep-logototype.png" alt="KokoPrep" class="header-logo" />
+		<img src="/logos/logo-kokoprep-logotype.png" alt="KokoPrep" class="header-logo" />
 	</header>
 
 	<!-- Main content area -->
@@ -257,19 +257,18 @@
 	}
 
 	.app-header {
-		background: #f7f7f7;
-		padding: 16px 24px;
+		background: var(--color-primary);
+		padding: 24px 24px;
 		display: flex;
 		justify-content: center;
 		align-items: center;
 		position: sticky;
 		top: 0;
 		z-index: 10;
-		border-bottom: 1px solid var(--color-primary);
 	}
 
 	.header-logo {
-		height: 40px;
+		height: 48px;
 		width: auto;
 		object-fit: contain;
 	}
