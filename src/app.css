@@ -30,7 +30,13 @@
   box-sizing: border-box;
 }
 
-html,
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: var(--color-primary);
+}
+
 body {
   height: 100%;
   margin: 0;
