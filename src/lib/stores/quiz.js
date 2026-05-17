@@ -23,6 +23,7 @@ export const timerActive = writable(false); // is timer running
 // Persistence
 export const testHistory = writable([]);
 export const missedQuestionIds = writable([]);
+export const lastComprehensionPassage = writable(null); // Last used comprehension passage ID (English only)
 
 // Derived store: category color mapping
 const categoryColors = {
@@ -45,9 +46,10 @@ export const categoryColor = derived(category, $category => {
 // Initialize persistent data from localStorage
 export function initializeStorage() {
 	try {
-		const { history, missed } = loadFromStorage();
+		const { history, missed, lastCompPassage } = loadFromStorage();
 		testHistory.set(history);
 		missedQuestionIds.set(missed);
+		lastComprehensionPassage.set(lastCompPassage);
 	} catch (error) {
 		console.warn('Failed to load storage:', error);
 	}
@@ -107,7 +109,7 @@ export function saveSessionToHistory(correct, total, percentage) {
 		};
 
 		const updated = [newEntry, ...$history].slice(0, 15); // cap at 15, oldest dropped
-		saveToStorage(updated, get(missedQuestionIds));
+		saveToStorage(updated, get(missedQuestionIds), get(lastComprehensionPassage));
 		return updated;
 	});
 }
@@ -134,7 +136,7 @@ export function updateMissedQuestions(sessionAnswers, sessionQuestions, allQuest
 		});
 
 		const updated = Array.from(allMissedIds).slice(0, 50); // cap at 50
-		saveToStorage(get(testHistory), updated);
+		saveToStorage(get(testHistory), updated, get(lastComprehensionPassage));
 		return updated;
 	});
 }

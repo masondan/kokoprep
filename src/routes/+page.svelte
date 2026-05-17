@@ -12,6 +12,7 @@
 		answers,
 		testHistory,
 		missedQuestionIds,
+		lastComprehensionPassage,
 		questions,
 		initializeStorage,
 		resetSession,
@@ -58,13 +59,20 @@
 	};
 
 	function startSession() {
+		const updateLastPassage = (passageId) => {
+			lastComprehensionPassage.set(passageId);
+			saveToStorage(get(testHistory), get(missedQuestionIds), passageId);
+		};
+
 		const sessionQs = getSessionQuestions(
 			$questions,
 			$category,
 			$mode,
 			$questionCount,
 			$missedQuestionIds,
-			$timerMinutes
+			$timerMinutes,
+			$lastComprehensionPassage,
+			updateLastPassage
 		);
 
 		if (sessionQs.length === 0) {
@@ -83,7 +91,7 @@
 		// Remove this entry from history so it appears fresh when saved after the session
 		testHistory.update($history => {
 			const updated = $history.filter(e => e.date !== historyEntry.date);
-			saveToStorage(updated, get(missedQuestionIds));
+			saveToStorage(updated, get(missedQuestionIds), get(lastComprehensionPassage));
 			return updated;
 		});
 

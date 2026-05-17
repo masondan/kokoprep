@@ -2,17 +2,20 @@ import { getQuestionsByCategory, getWeightedEnglishQuestions } from '$lib/data/q
 
 /**
  * Get a shuffled session of questions based on category, mode, and missed tracking.
- * For English, applies subcategory weighting: 40% comprehension, 50% lexis-structure, 10% phonetics.
+ * For English Brain Gym: 5 questions = 0 comprehension + 4 lexis + 1 phonetics
+ *                       10 questions = 3 comprehension + 6 lexis + 1 phonetics
  *
  * @param {Array} allQuestions - All available questions (used for 'mix' fallback)
  * @param {string} category - Category key or 'mix'
  * @param {string} mode - 'braingym' | 'beattheclock'
  * @param {number} count - Number of questions for Brain Gym
  * @param {Array} missedIds - IDs of previously missed questions
- * @param {number} [timerMins=1] - Timer minutes (Beat the Clock only): 1 → 3 questions, 2 → 6 questions
+ * @param {number} [timerMins=1] - Timer minutes (Beat the Clock only): 1 → 5 questions, 2 → 10 questions
+ * @param {string|null} [lastCompPassage=null] - Last comprehension passage ID (English only)
+ * @param {function} [onUpdatePassage=null] - Callback to save the selected passage ID
  * @returns {Array} Shuffled array of session questions
  */
-export function getSessionQuestions(allQuestions, category, mode, count, missedIds = [], timerMins = 1) {
+export function getSessionQuestions(allQuestions, category, mode, count, missedIds = [], timerMins = 1, lastCompPassage = null, onUpdatePassage = null) {
 	// Beat the Clock: 5 questions for 1 min, 10 for 2 min
 	const btcTarget = timerMins === 2 ? 10 : 5;
 	const target = mode === 'braingym' ? count : btcTarget;
@@ -22,7 +25,7 @@ export function getSessionQuestions(allQuestions, category, mode, count, missedI
 		if (mode === 'beattheclock') {
 			return getBeatTheClockEnglishQuestions(target, missedIds);
 		}
-		const result = getWeightedEnglishQuestions(target, missedIds);
+		const result = getWeightedEnglishQuestions(target, missedIds, lastCompPassage, onUpdatePassage);
 		if (result.length === 0) {
 			console.warn('No English questions available.');
 		}

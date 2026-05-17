@@ -77,70 +77,87 @@ function sampleN(arr, n) {
 
 /**
  * English question counts per session size.
- * Ratios based on actual Common Entrance paper proportions:
- *   Comprehension: ~24% (5 of 21), Lexis & Structure: ~71% (15 of 21), Phonetics: ~5% (1 of 21)
+ * Updated distribution for better UX:
+ *   5 questions:  0 comprehension, 4 lexis-structure, 1 phonetics
+ *   10 questions: 3 comprehension (from 1 passage), 6 lexis-structure, 1 phonetics
  *
- * Simplified fixed counts:
- *   5 questions:  1 comprehension group, 3 lexis-structure, 1 phonetics
- *   10 questions: 2 comprehension groups, 6 lexis-structure, 2 phonetics
- *
- * For other counts, we scale proportionally and round.
+ * For Beat the Clock (larger sets), no comprehension questions.
  */
 function getEnglishCounts(target) {
 	if (target <= 5) {
-		return { comprehensionGroups: 1, lexis: 3, phonetics: 1 };
+		return { comprehensionQuestions: 0, lexis: 4, phonetics: 1 };
 	}
 	if (target <= 10) {
-		return { comprehensionGroups: 2, lexis: 6, phonetics: 2 };
+		return { comprehensionQuestions: 3, lexis: 6, phonetics: 1 };
 	}
-	// For larger sets (Beat the Clock), scale up proportionally
-	const comprehensionGroups = Math.max(1, Math.round(target * 0.2));
-	const phonetics = Math.max(1, Math.round(target * 0.1));
-	const lexis = target - (comprehensionGroups * 3) - phonetics; // each group = 3 questions
-	return { comprehensionGroups, lexis: Math.max(1, lexis), phonetics };
+	// For larger sets (Beat the Clock), no comprehension
+	return { comprehensionQuestions: 0, lexis: target - 1, phonetics: 1 };
 }
 
 /**
- * Get a weighted English question set with passage-grouped comprehension.
+ * Get a weighted English question set.
  *
- * Comprehension questions are selected as complete passage groups (all questions
- * sharing the same passageId are included together). This ensures students always
- * see the passage before answering related questions.
+ * For Brain Gym 5 questions: No comprehension, 4 lexis, 1 phonetics
+ * For Brain Gym 10 questions: 3 comprehension (from 1 fresh passage), 6 lexis, 1 phonetics
+ * For Beat the Clock: No comprehension, rest lexis+phonetics
+ *
+ * Comprehension questions are selected individually from a single passage,
+ * prioritising missed questions within that passage. The passage is rotated
+ * to ensure variety.
  *
  * @param {number} target - Total number of questions needed
  * @param {string[]} missedIds - IDs of previously missed questions (prioritised)
- * @returns {Array} Ordered array: comprehension groups first, then lexis, then phonetics
+ * @param {string|null} lastCompPassage - Last used comprehension passage ID (for rotation)
+ * @param {function} updateLastPassage - Callback to save the selected passage ID
+ * @returns {Array} Ordered array: comprehension questions (if any), then lexis, then phonetics
  */
-export function getWeightedEnglishQuestions(target, missedIds = []) {
+export function getWeightedEnglishQuestions(target, missedIds = [], lastCompPassage = null, updateLastPassage = null) {
 	const counts = getEnglishCounts(target);
 
-	// ── Comprehension: select by passage group ──────────────────────────────
-	const compQuestions = englishQuestions.filter(q => q.subcategory === 'comprehension');
+	let comprehensionSelected = [];
 
-	// Build a map of passageId → questions[]
-	const passageMap = {};
-	for (const q of compQuestions) {
-		if (!passageMap[q.passageId]) passageMap[q.passageId] = [];
-		passageMap[q.passageId].push(q);
+	// ── Comprehension: select 3 questions from a fresh passage ──────────────
+	if (counts.comprehensionQuestions > 0) {
+		const compQuestions = englishQuestions.filter(q => q.subcategory === 'comprehension');
+
+		// Build a map of passageId → questions[]
+		const passageMap = {};
+		for (const q of compQuestions) {
+			if (!passageMap[q.passageId]) passageMap[q.passageId] = [];
+			passageMap[q.passageId].push(q);
+		}
+
+		// Get all passage IDs except the last one (for rotation)
+		const allPassageIds = Object.keys(passageMap);
+		const availablePassageIds = lastCompPassage
+			? allPassageIds.filter(pid => pid !== lastCompPassage)
+			: allPassageIds;
+
+		// If all passages have been used, reset the cycle
+		const passageIds = availablePassageIds.length > 0 ? availablePassageIds : allPassageIds;
+
+		// Shuffle and pick one passage
+		const selectedPassageId = shuffle([...passageIds])[0];
+
+		// Get all questions from the selected passage
+		const passageQuestions = passageMap[selectedPassageId];
+
+		// Split into missed and fresh within this passage
+		const passMissed = passageQuestions.filter(q => missedIds.includes(q.id));
+		const passFresh = passageQuestions.filter(q => !missedIds.includes(q.id));
+
+		// Prioritise missed questions within the passage, then fill with fresh
+		shuffle(passMissed);
+		shuffle(passFresh);
+		const missedToUse = passMissed.slice(0, counts.comprehensionQuestions);
+		const freshToUse = passFresh.slice(0, counts.comprehensionQuestions - missedToUse.length);
+		comprehensionSelected = [...missedToUse, ...freshToUse];
+
+		// Update the last passage ID if callback provided
+		if (updateLastPassage) {
+			updateLastPassage(selectedPassageId);
+		}
 	}
-
-	// Get all available passage IDs, prioritising those with missed questions
-	const allPassageIds = Object.keys(passageMap);
-	const missedPassageIds = allPassageIds.filter(pid =>
-		passageMap[pid].some(q => missedIds.includes(q.id))
-	);
-	const freshPassageIds = allPassageIds.filter(pid => !missedPassageIds.includes(pid));
-
-	// Select passage groups (missed first, then fresh)
-	const shuffledMissed = shuffle([...missedPassageIds]);
-	const shuffledFresh = shuffle([...freshPassageIds]);
-	const selectedPassageIds = [
-		...shuffledMissed,
-		...shuffledFresh
-	].slice(0, counts.comprehensionGroups);
-
-	// Flatten selected passage groups into ordered question arrays
-	const comprehensionSelected = selectedPassageIds.flatMap(pid => passageMap[pid]);
 
 	// ── Lexis & Structure ───────────────────────────────────────────────────
 	const lexisPool = englishQuestions.filter(q => q.subcategory === 'lexis-structure');
@@ -160,9 +177,7 @@ export function getWeightedEnglishQuestions(target, missedIds = []) {
 	const phonFreshPick = sampleN(phonFresh, counts.phonetics - phonMissedPick.length);
 	const phonSelected = shuffle([...phonMissedPick, ...phonFreshPick]);
 
-	// ── Combine: comprehension groups first, then lexis, then phonetics ─────
-	// Comprehension groups stay in order (passage questions consecutive)
-	// Lexis and phonetics are shuffled together after
+	// ── Combine: comprehension first, then lexis + phonetics ─────
 	const nonComp = shuffle([...lexisSelected, ...phonSelected]);
 
 	return [...comprehensionSelected, ...nonComp];
