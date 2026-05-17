@@ -254,6 +254,7 @@
 		flex-direction: column;
 		min-height: 100vh;
 		background: var(--color-primary);
+		box-shadow: 4px 0 20px rgba(0, 0, 0, 0.2), -4px 0 20px rgba(0, 0, 0, 0.2);
 	}
 
 	.app-header {
