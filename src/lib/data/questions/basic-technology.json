@@ -1,0 +1,902 @@
+[
+  {
+    "id": "btech_001",
+    "category": "basic-technology",
+    "question": "Which item is used in the workshop to protect the eyes during welding?",
+    "options": ["Mask", "Helmet", "Gloves", "Goggles"],
+    "correctIndex": 3,
+    "explanation": "Goggles protect the eyes from sparks and bright light during welding. A helmet protects the head and gloves protect the hands.",
+    "extraKokoFact": "Welding goggles use special dark filters to block harmful ultraviolet (UV) and infrared (IR) rays."
+  },
+  {
+    "id": "btech_002",
+    "category": "basic-technology",
+    "question": "Which of the following is a hand tool used in woodwork for cutting across the grain of wood?",
+    "options": ["Crosscut saw", "Rip saw", "Tenon saw", "Keyhole saw"],
+    "correctIndex": 0,
+    "explanation": "A crosscut saw is specifically designed to cut across the grain of wood, whereas a rip saw is used to cut along or parallel to the grain.",
+    "extraKokoFact": "The teeth of a crosscut saw are shaped like small knife blades to slice through wood fibers cleanly."
+  },
+  {
+    "id": "btech_003",
+    "category": "basic-technology",
+    "question": "What is the primary function of a try square in a workshop?",
+    "options": ["To measure long distances", "To test squareness and right angles", "To cut straight lines in metals", "To drill clean holes"],
+    "correctIndex": 1,
+    "explanation": "A try square is a marking and testing tool used to check if a surface is flat or if two surfaces form a perfect 90-degree angle (squareness).",
+    "extraKokoFact": "It is called a 'try' square because it is used to 'try' or test the accuracy of a joint."
+  },
+  {
+    "id": "btech_004",
+    "category": "basic-technology",
+    "question": "Which of the following metals is most commonly used for domestic electrical wiring because it is an excellent conductor?",
+    "options": ["Copper", "Iron", "Lead", "Aluminum"],
+    "correctIndex": 0,
+    "explanation": "Copper is an exceptional conductor of electricity, highly ductile, and affordable, making it the standard choice for home electrical wiring.",
+    "extraKokoFact": "While silver is actually a slightly better conductor than copper, it is too expensive to be used for everyday wiring."
+  },
+  {
+    "id": "btech_005",
+    "category": "basic-technology",
+    "question": "What does the acronym CAD stand for in modern technical drawing and technology?",
+    "options": ["Computer-Aided Design", "Calculated Automated Drawing", "Control and Development", "Computerized Analog Drafting"],
+    "correctIndex": 0,
+    "explanation": "CAD stands for Computer-Aided Design. It refers to the use of computer software to create, modify, analyze, or optimize engineering drawings and designs.",
+    "extraKokoFact": "Software like AutoCAD has largely replaced traditional manual drawing boards in professional engineering firms across Nigeria."
+  },
+  {
+    "id": "btech_006",
+    "category": "basic-technology",
+    "question": "Which of the following is NOT a safe workshop practice?",
+    "options": ["Wearing loose clothing and dangling jewelry", "Keeping the floors dry and free from oil spills", "Using the correct tool for the specific job", "Knowing the location of the fire extinguisher"],
+    "correctIndex": 0,
+    "explanation": "Wearing loose clothing or jewelry is dangerous because they can easily get caught in moving machinery parts, leading to severe injuries.",
+    "extraKokoFact": "In a school workshop, it is mandatory to roll up long sleeves and tie back long hair before operating any machinery."
+  },
+  {
+    "id": "btech_007",
+    "category": "basic-technology",
+    "question": "Which type of wood joint is commonly used to join two pieces of wood securely at a right angle, such as in high-quality furniture and tables?",
+    "options": ["Mortise and tenon joint", "Butt joint", "Lap joint", "Scarf joint"],
+    "correctIndex": 0,
+    "explanation": "The mortise and tenon joint is one of the strongest and most reliable right-angle joints in woodwork, consisting of a projecting pin (tenon) fitting into a matching hole (mortise).",
+    "extraKokoFact": "Archaeologists have found mortise and tenon joints in ancient Egyptian furniture that survived for thousands of years."
+  },
+  {
+    "id": "btech_008",
+    "category": "basic-technology",
+    "question": "Which of the following metals is classified as a ferrous metal?",
+    "options": ["Mild steel", "Aluminum", "Copper", "Zinc"],
+    "correctIndex": 0,
+    "explanation": "Ferrous metals contain iron as their chief constituent, which makes them magnetic and prone to rust. Mild steel is a ferrous metal because it consists mostly of iron.",
+    "extraKokoFact": "The word 'ferrous' comes from 'ferrum', which is the Latin word for iron."
+  },
+  {
+    "id": "btech_009",
+    "category": "basic-technology",
+    "question": "What is the primary purpose of using a file in a metalworking workshop?",
+    "options": ["To cut thick steel bars apart", "To smooth, shape, and remove small amounts of material", "To punch accurate center holes", "To measure the thickness of wires"],
+    "correctIndex": 1,
+    "explanation": "A file is a hand tool with rows of sharp, parallel teeth used to rub down, smooth, or gradually shape metal workpieces.",
+    "extraKokoFact": "Files are made of high-carbon steel and are extremely hard, but they can snap if dropped or used as a lever."
+  },
+  {
+    "id": "btech_010",
+    "category": "basic-technology",
+    "question": "Which drawing instrument is explicitly designed for drawing accurate circles and arcs?",
+    "options": ["Pair of compasses", "Protractor", "T-square", "Set-square"],
+    "correctIndex": 0,
+    "explanation": "A pair of compasses has a needle point on one leg and a pencil/lead on the other, allowing it to pivot around a fixed center point to draw perfect circles.",
+    "extraKokoFact": "Dividers look similar to compasses but have two sharp needle points and are used to transfer measurements rather than draw lines."
+  },
+  {
+    "id": "btech_011",
+    "category": "basic-technology",
+    "question": "Which of the following is not a product of technology?",
+    "options": ["Car", "Gas cooker", "Stone", "Television"],
+    "correctIndex": 2,
+    "explanation": "A stone is a natural material that exists in nature without human modification. Cars, gas cookers, and televisions are manufactured items developed through technology.",
+    "extraKokoFact": "Technology refers to the practical application of scientific knowledge to solve human problems and create useful products."
+  },
+  {
+    "id": "btech_012",
+    "category": "basic-technology",
+    "question": "The following are examples of underdeveloped or traditional technology EXCEPT ________.",
+    "options": ["Hook and line", "Grinding stone", "Letter writing", "E-mail"],
+    "correctIndex": 3,
+    "explanation": "E-mail (electronic mail) represents modern, developed technology that relies on computers and internet networks. The other options are traditional, older methods.",
+    "extraKokoFact": "Underdeveloped technology usually requires more physical human effort and operates at a much slower speed than developed technology."
+  },
+  {
+    "id": "btech_013",
+    "category": "basic-technology",
+    "question": "Technology as a field of study is highly essential and should be studied by ________.",
+    "options": ["Boys alone", "Girls alone", "Everybody", "Students alone"],
+    "correctIndex": 2,
+    "explanation": "Technology affects every human being in modern society, regardless of gender or profession. Studying it helps everybody understand and safely live in our industrial world.",
+    "extraKokoFact": "Basic Technology is a core subject in the Nigerian junior secondary school curriculum for all students."
+  },
+  {
+    "id": "btech_014",
+    "category": "basic-technology",
+    "question": "Which of the following elements or substances cannot be used to extinguish a fire?",
+    "options": ["Air", "Water and detergents", "Fire extinguisher", "Sand"],
+    "correctIndex": 0,
+    "explanation": "Air contains oxygen, which is one of the three components of the fire triangle. Supplying air or oxygen to a fire feeds it and makes it burn stronger instead of putting it out.",
+    "extraKokoFact": "To put out a fire, you must remove at least one element of the fire triangle: heat, fuel, or oxygen."
+  },
+  {
+    "id": "btech_015",
+    "category": "basic-technology",
+    "question": "Accidents in a technical workshop can occur due to the following reasons EXCEPT ________.",
+    "options": ["Carelessness", "Broken ladder", "Regular maintenance of machines", "Oil spillage on workshop floor"],
+    "correctIndex": 2,
+    "explanation": "Regular maintenance of machines is a preventive safety measure. It ensures machines work correctly and safely, reducing the chances of failure and accidents.",
+    "extraKokoFact": "Oil spillages are a leading cause of slips, trips, and severe falls in industrial workshops."
+  },
+  {
+    "id": "btech_016",
+    "category": "basic-technology",
+    "question": "Examples of non-metallic materials include the following items EXCEPT ________.",
+    "options": ["Stone", "Wood", "Metal", "Plastic"],
+    "correctIndex": 2,
+    "explanation": "Metal is a specific class of inorganic, crystalline material known for electrical conductivity, distinct from non-metals like wood, stone, and plastic.",
+    "extraKokoFact": "Non-metals generally have low density and act as poor conductors of electricity and heat."
+  },
+  {
+    "id": "btech_017",
+    "category": "basic-technology",
+    "question": "Which of the following structural and fabrication materials is provided directly by nature?",
+    "options": ["Plastic", "Wood", "Ceramics", "Glass"],
+    "correctIndex": 1,
+    "explanation": "Wood is a natural material harvested directly from trees. Plastics, ceramics, and glass are synthetic or manufactured materials processed by man.",
+    "extraKokoFact": "Even though wood is natural, it must be properly dried or seasoned before it can be used for structural engineering work."
+  },
+  {
+    "id": "btech_018",
+    "category": "basic-technology",
+    "question": "The mechanical ability of a material to be stretched by an external force and return completely to its original shape when the force is removed is known as ________.",
+    "options": ["Elasticity", "Conductivity", "Ductility", "Malleability"],
+    "correctIndex": 0,
+    "explanation": "Elasticity is the physical property that allows materials like rubber or certain springs to deform under stress and snap back to their original configuration.",
+    "extraKokoFact": "If a material is stretched beyond its elastic limit, it suffers permanent deformation and will never return to its original shape."
+  },
+  {
+    "id": "btech_019",
+    "category": "basic-technology",
+    "question": "The broad type of timber woods which possess narrow, needle-like leaves and produce cones are classified as ________.",
+    "options": ["Hardwood", "Needlewood", "Softwood", "Simple wood"],
+    "correctIndex": 2,
+    "explanation": "Softwoods come from coniferous trees, which typically have needle-like leaves, remain evergreen, and carry their seeds in cones (e.g., pine trees).",
+    "extraKokoFact": "Despite the name, some softwoods can physically be harder than certain hardwoods. The classification is biological, based on seed and leaf structure."
+  },
+  {
+    "id": "btech_020",
+    "category": "basic-technology",
+    "question": "Which drawing tool provides a perfectly flat surface on which drawing sheets are secured for technical graphics?",
+    "options": ["T-square", "Drawing board", "Set-square", "Drawing clips"],
+    "correctIndex": 1,
+    "explanation": "The drawing board provides the solid, smooth, and flat base required to anchor papers and accurately align other drawing instruments.",
+    "extraKokoFact": "Standard drawing boards are made of seasoned softwood like pine to resist warping."
+  },
+  {
+    "id": "btech_021",
+    "category": "basic-technology",
+    "question": "Which instrument is used in conjunction with a drawing board to draw horizontal parallel lines?",
+    "options": ["T-square", "Protractor", "Divider", "Scale rule"],
+    "correctIndex": 0,
+    "explanation": "A T-square has a head that slides along the working edge of a drawing board, allowing its blade to guide the pencil in perfectly straight horizontal lines.",
+    "extraKokoFact": "The head and blade of a T-square are set at an exact 90-degree angle to each other."
+  },
+  {
+    "id": "btech_022",
+    "category": "basic-technology",
+    "question": "Which standard set-square angles are paired together on the two most common technical drawing triangles?",
+    "options": ["30/60 degrees and 45/45 degrees", "20/70 degrees and 40/50 degrees", "15/75 degrees and 35/55 degrees", "10/80 degrees and 60/60 degrees"],
+    "correctIndex": 0,
+    "explanation": "Technical drawings rely on two standard set-squares: one with angles of 30, 60, and 90 degrees, and another with angles of 45, 45, and 90 degrees.",
+    "extraKokoFact": "By combining these two set-squares together, draftspersons can draw lines at increments of 15, 75, or 105 degrees."
+  },
+  {
+    "id": "btech_023",
+    "category": "basic-technology",
+    "question": "Which scale is used to draw an object at its actual, real-life size on paper?",
+    "options": ["1:2", "2:1", "1:1", "1:5"],
+    "correctIndex": 2,
+    "explanation": "A scale of 1:1 indicates full-size or full scale, where one unit on the paper represents exactly one unit on the actual object.",
+    "extraKokoFact": "Scales like 1:2 are reduction scales used for large items, while 2:1 are enlargement scales used for tiny watch gears."
+  },
+  {
+    "id": "btech_024",
+    "category": "basic-technology",
+    "question": "Which type of line is represented by a thick, continuous line and used to show the visible borders of an object?",
+    "options": ["Construction line", "Hidden detail line", "Center line", "Visible outline"],
+    "correctIndex": 3,
+    "explanation": "Visible outlines must stand out clearly from all other geometric lines, so they are drawn as dark, thick, continuous paths.",
+    "extraKokoFact": "In pencil grades, an HB or 2B pencil is typically preferred for drawing final visible outlines."
+  },
+  {
+    "id": "btech_025",
+    "category": "basic-technology",
+    "question": "What type of line consists of short, evenly spaced dashes and is used to represent edges that cannot be seen from the outside?",
+    "options": ["Dimension line", "Hidden detail line", "Center line", "Extension line"],
+    "correctIndex": 1,
+    "explanation": "Hidden detail lines use dashed segments to indicate interior configurations, holes, or features obscured behind solid surfaces.",
+    "extraKokoFact": "These lines are drawn thin so they do not confuse the viewer looking at the outer structure."
+  },
+  {
+    "id": "btech_026",
+    "category": "basic-technology",
+    "question": "Which specific line type is drawn thin with alternating long and short dashes to show the axis of symmetrical shapes?",
+    "options": ["Center line", "Construction line", "Visible outline", "Border line"],
+    "correctIndex": 0,
+    "explanation": "Center lines mark the exact middle of symmetric profiles, circles, cylinders, and bolt hole circles.",
+    "extraKokoFact": "They are critical for machinists to identify where holes must be drilled."
+  },
+  {
+    "id": "btech_027",
+    "category": "basic-technology",
+    "question": "What technical drawing instrument is semi-circular or circular and explicitly used to measure or lay out angles?",
+    "options": ["Set-square", "T-square", "Protractor", "Compass"],
+    "correctIndex": 2,
+    "explanation": "A protractor features angular markings from 0 to 180 degrees (or up to 360), allowing quick verification or plotting of any angle.",
+    "extraKokoFact": "Most school protractors are made of transparent plastic to allow users to see lines underneath."
+  },
+  {
+    "id": "btech_028",
+    "category": "basic-technology",
+    "question": "Which grade of pencil is the hardest and is ideal for drawing light, thin construction lines?",
+    "options": ["2B", "HB", "2H", "4B"],
+    "correctIndex": 2,
+    "explanation": "Pencils with an 'H' rating indicate hardness. The higher the number preceding the H, the harder the graphite core and the lighter the line it produces. 2H is harder than HB.",
+    "extraKokoFact": "Conversely, 'B' pencils are soft and dark, which makes them perfect for freehand shading but poor for clean geometric layouts."
+  },
+  {
+    "id": "btech_029",
+    "category": "basic-technology",
+    "question": "What are lines called that end with arrowheads and have a numerical value placed above them to specify lengths?",
+    "options": ["Dimension lines", "Center lines", "Hidden lines", "Construction lines"],
+    "correctIndex": 0,
+    "explanation": "Dimension lines show the size or distance between points. The numerical measurement value is always placed cleanly above or centered in the line.",
+    "extraKokoFact": "Dimensioning must follow strict international standards so engineers worldwide interpret sizes identically."
+  },
+  {
+    "id": "btech_030",
+    "category": "basic-technology",
+    "question": "What color represents a standard safety sign for a 'Prohibition' or 'Stop' instruction in a workshop?",
+    "options": ["Green", "Blue", "Yellow", "Red"],
+    "correctIndex": 3,
+    "explanation": "Red is universally used for prohibition signs, danger warnings, and fire-fighting hardware indicators.",
+    "extraKokoFact": "Blue signs usually denote mandatory actions (like wearing safety boots), while green represents safety routes or first aid stations."
+  },
+  {
+    "id": "btech_031",
+    "category": "basic-technology",
+    "question": "Which class of fire involves burning solid materials like wood, paper, textiles, and organic rubbish?",
+    "options": ["Class A", "Class B", "Class C", "Class D"],
+    "correctIndex": 0,
+    "explanation": "Class A fires are fueled by ordinary combustible solids. They leave ash behind and can be cooled down and extinguished effectively with water.",
+    "extraKokoFact": "Never use water on Class B (flammable liquids) or Class C (electrical) fires, as it can spread the fuel or cause electrocution."
+  },
+  {
+    "id": "btech_032",
+    "category": "basic-technology",
+    "question": "Why is it highly dangerous to spray water onto an active electrical fire in a building?",
+    "options": ["Water acts as a conductor and can cause severe electrocution", "Water acts as a fuel for electrical circuits", "Water will freeze the wiring components", "Water creates toxic carbon dioxide gas instantly"],
+    "correctIndex": 0,
+    "explanation": "Unpurified water conducts electricity. If sprayed onto high-voltage gear, the electric current can travel up the stream of water and shock the operator.",
+    "extraKokoFact": "For electrical fires, a Carbon Dioxide (CO2) or dry powder extinguisher must be used instead."
+  },
+  {
+    "id": "btech_033",
+    "category": "basic-technology",
+    "question": "What is the very first step you should take if a classmate gets injured or has an accident in the workshop?",
+    "options": ["Run home to inform their parents", "Try to repair the damaged machine immediately", "Report the incident immediately to the teacher or supervisor", "Pack up your tools and leave the workshop"],
+    "correctIndex": 2,
+    "explanation": "The workshop instructor or supervisor is trained in emergency procedures and first aid. Quick reporting ensures the victim receives immediate care.",
+    "extraKokoFact": "Prompt reporting also prevents further hazards by allowing the supervisor to isolate power sources."
+  },
+  {
+    "id": "btech_034",
+    "category": "basic-technology",
+    "question": "What name is given to the immediate temporary care provided to an injured person before professional medical help arrives?",
+    "options": ["Final checkup", "First Aid", "Prescription", "Diagnosis"],
+    "correctIndex": 1,
+    "explanation": "First aid aims to preserve life, prevent the condition from worsening, and promote recovery using a dedicated box of medical supplies.",
+    "extraKokoFact": "A basic first aid box contains bandages, antiseptics, cotton wool, plasters, and burn creams."
+  },
+  {
+    "id": "btech_035",
+    "category": "basic-technology",
+    "question": "Which item inside a workshop first aid box is used to clean wounds and wipe away blood safely?",
+    "options": ["Methylated spirit and cotton wool", "Lubricating oil", "Solder paste", "Emery cloth"],
+    "correctIndex": 0,
+    "explanation": "Methylated spirit acts as an antiseptic disinfectant to kill germs around a wound, and soft cotton wool provides a clean, sterile wipe.",
+    "extraKokoFact": "Industrial workshop chemicals should never be used on human skin or open cuts."
+  },
+  {
+    "id": "btech_036",
+    "category": "basic-technology",
+    "question": "What is the core purpose of a safety helmet or hard hat when working on construction sites in cities like Lagos?",
+    "options": ["To keep the worker's hair clean", "To shield the head from falling objects and impacts", "To improve the worker's visibility at night", "To act as a storage container for small nails"],
+    "correctIndex": 1,
+    "explanation": "Hard hats are molded from rigid, high-impact plastics to redirect the energy of falling bricks, tools, or debris away from the skull.",
+    "extraKokoFact": "In Nigeria, the Federal Road Safety Corps (FRSC) mandates helmets for riders, while the Ministry of Works enforces them on construction sites."
+  },
+  {
+    "id": "btech_037",
+    "category": "basic-technology",
+    "question": "Which type of fire extinguisher is specifically marked with a black label or band?",
+    "options": ["Water extinguisher", "Foam extinguisher", "Carbon Dioxide (CO2) extinguisher", "Dry powder extinguisher"],
+    "correctIndex": 2,
+    "explanation": "Carbon Dioxide (CO2) extinguishers are color-coded with a black band. They work by displacing oxygen around the fire and leaving no messy residue.",
+    "extraKokoFact": "Water extinguishers have red bands, foam has cream, and dry powder has a blue band."
+  },
+  {
+    "id": "btech_038",
+    "category": "basic-technology",
+    "question": "What safety device is installed in electrical systems to automatically melt and break the circuit if the current becomes too high?",
+    "options": ["Switch", "Fuse", "Transformer", "Insulator"],
+    "correctIndex": 1,
+    "explanation": "A fuse contains a thin wire designed to melt safely when excessive electrical current passes through it, cutting off power before wires overheat and ignite.",
+    "extraKokoFact": "Modern buildings use circuit breakers that trip automatically and can be reset without replacing a wire."
+  },
+  {
+    "id": "btech_039",
+    "category": "basic-technology",
+    "question": "Which of the following describes a major human factor that contributes directly to industrial accidents?",
+    "options": ["Using a machine that has a safety guard installed", "Concentrating fully on a cutting operation", "Operating heavy machinery under extreme fatigue or tiredness", "Wearing tight, snug safety overalls"],
+    "correctIndex": 2,
+    "explanation": "Fatigue lowers coordination, slows down reflexes, and impairs judgment, making an operator highly susceptible to making critical errors.",
+    "extraKokoFact": "Over 80% of workshop mishaps are attributed to human errors like carelessness, playfulness, or exhaustion."
+  },
+  {
+    "id": "btech_040",
+    "category": "basic-technology",
+    "question": "What major structural layer of a tree trunk is responsible for carrying water and nutrients upward from the roots to the leaves?",
+    "options": ["Sapwood", "Heartwood", "Bark", "Pith"],
+    "correctIndex": 0,
+    "explanation": "Sapwood is the active living outer zone of wood through which sap rises. Over time, it hardens and darkens to become heartwood.",
+    "extraKokoFact": "Heartwood, located at the center, is dead wood that provides mechanical strength to the tree trunk."
+  },
+  {
+    "id": "btech_041",
+    "category": "basic-technology",
+    "question": "Which of the following trees is a well-known example of a hardwood found abundantly in Nigerian tropical rainforests?",
+    "options": ["Iroko", "Pine", "Cedar", "Spruce"],
+    "correctIndex": 0,
+    "explanation": "Iroko (Milicia excelsa) is a premium tropical hardwood celebrated for its exceptional strength, insect resistance, and density, making it popular for high-end carpentry in West Africa.",
+    "extraKokoFact": "Mahogany, Obeche, and Teak are other vital hardwoods native to or widely harvested in Nigeria."
+  },
+  {
+    "id": "btech_042",
+    "category": "basic-technology",
+    "question": "What term describes the controlled process of drying out fresh timber to reduce its moisture content?",
+    "options": ["Seasoning", "Felling", "Conversion", "Preservation"],
+    "correctIndex": 0,
+    "explanation": "Seasoning removes excess water trapped within wood cells, which stabilizes the wood against shrinking, cracking, warping, and fungal rot.",
+    "extraKokoFact": "The two primary methods of seasoning are air drying (natural) and kiln drying (artificial oven)."
+  },
+  {
+    "id": "btech_043",
+    "category": "basic-technology",
+    "question": "Which timber defect is characterized by a longitudinal crack or split that separates the wood fibers across the annual rings?",
+    "options": ["Shake", "Knot", "Bow", "Twist"],
+    "correctIndex": 0,
+    "explanation": "Shakes are severe splits or fractures in timber caused by internal stresses during growth or rapid, uneven drying.",
+    "extraKokoFact": "Knots occur where branches were originally attached to the main trunk, which interrupts the straight grain of the board."
+  },
+  {
+    "id": "btech_044",
+    "category": "basic-technology",
+    "question": "What chemical solution is painted or injected into timber to protect it from being destroyed by termites, beetles, and fungal rot?",
+    "options": ["Engine oil", "Wood preservative", "Cellulose thinner", "Caustic soda"],
+    "correctIndex": 1,
+    "explanation": "Wood preservatives (like creosote or copper compounds) make the wood toxic to pests, significantly extending the lifespan of outdoor structures.",
+    "extraKokoFact": "Termites are a major threat to structural timber in tropical climates like Nigeria."
+  },
+  {
+    "id": "btech_045",
+    "category": "basic-technology",
+    "question": "What is the primary commercial reason for using manufactured boards like plywood instead of natural solid timber planks?",
+    "options": ["Plywood is much heavier than natural wood", "Plywood resists splitting and is available in large, uniform sheets", "Plywood contains no glues or synthetic resins", "Plywood can only be cut with hand saws"],
+    "correctIndex": 1,
+    "explanation": "Plywood is engineered by gluing thin veneers of wood together in alternating grain directions, making it strong in all directions and resistant to splitting.",
+    "extraKokoFact": "Other common manufactured boards include MDF (Medium-Density Fibreboard) and particle board."
+  },
+  {
+    "id": "btech_046",
+    "category": "basic-technology",
+    "question": "The process of cutting down mature trees in a forest for commercial timber production is technically referred to as ________.",
+    "options": ["Felling", "Pruning", "Seasoning", "Shedding"],
+    "correctIndex": 0,
+    "explanation": "Felling is the act of cutting down a standing tree using axes, two-man crosscut saws, or modern mechanical chainsaws.",
+    "extraKokoFact": "Felling should be managed sustainably through reforestation to avoid environmental degradation and soil erosion."
+  },
+  {
+    "id": "btech_047",
+    "category": "basic-technology",
+    "question": "What structural component of a tree protects its delicate inner living tissue from weather, pests, and mechanical impacts?",
+    "options": ["Pith", "Bark", "Cambium layer", "Annual rings"],
+    "correctIndex": 1,
+    "explanation": "The bark forms an external protective armor around the trunk, shielding the inner cambium and sapwood layers from damage.",
+    "extraKokoFact": "The inner bark or phloem also transports food made in the leaves down to the roots."
+  },
+  {
+    "id": "btech_048",
+    "category": "basic-technology",
+    "question": "How can you determine the approximate age of a felled hardwood tree by examining its cross-section?",
+    "options": ["By measuring the total height of the tree", "By counting the number of concentric annual growth rings", "By weighing the total mass of the root system", "By checking the darkness of the outer bark"],
+    "correctIndex": 1,
+    "explanation": "Trees add a new layer of wood to their girth each growing season, which shows up as a distinct concentric ring in a cross-sectional cut.",
+    "extraKokoFact": "In temperate regions, these rings represent one year. In tropical areas, rings can correlate with wet and dry seasonal cycles."
+  },
+  {
+    "id": "btech_049",
+    "category": "basic-technology",
+    "question": "Which of the following is a prominent property of softwoods that distinguishes them from most hardwoods?",
+    "options": ["They generally grow much slower than hardwoods", "They have broad leaves that drop every autumn", "They are generally less dense, lighter, and easier to work with", "They cannot be cut using hand tools"],
+    "correctIndex": 2,
+    "explanation": "Softwoods generally have a simpler cellular layout, making them lighter, less dense, and easier to nail, screw, and saw compared to dense hardwoods.",
+    "extraKokoFact": "Obeche is an exception—it is a biological hardwood that is physically quite soft and light."
+  },
+  {
+    "id": "btech_050",
+    "category": "basic-technology",
+    "question": "What name is given to a blend or solid solution of two or more metals, mixed to achieve superior physical properties?",
+    "options": ["Alloy", "Polymer", "Composite", "Ceramic"],
+    "correctIndex": 0,
+    "explanation": "An alloy combines multiple elements (like copper and zinc to form brass) to enhance attributes like hardness, corrosion resistance, or tensile strength.",
+    "extraKokoFact": "Bronze, brass, and stainless steel are widely used industrial alloys."
+  },
+  {
+    "id": "btech_051",
+    "category": "basic-technology",
+    "question": "Which chemical element is added to iron in controlled amounts to turn it into steel?",
+    "options": ["Carbon", "Sulfur", "Copper", "Aluminum"],
+    "correctIndex": 0,
+    "explanation": "Carbon is the essential hardening agent combined with iron. Low carbon creates mild, malleable steel, while high carbon creates brittle, tool-grade steel.",
+    "extraKokoFact": "Adding carbon alters the atomic grid of iron, preventing layers of atoms from sliding past each other easily."
+  },
+  {
+    "id": "btech_052",
+    "category": "basic-technology",
+    "question": "Which of the following is a non-ferrous metal that does not contain iron and is highly resistant to atmospheric rusting?",
+    "options": ["Cast iron", "Wrought iron", "Aluminum", "Mild steel"],
+    "correctIndex": 2,
+    "explanation": "Aluminum is completely non-ferrous, lightweight, and forms a protective oxide skin that stops deep environmental rusting.",
+    "extraKokoFact": "Cast iron and mild steel contain high percentages of iron and will rust quickly if exposed to moisture and oxygen."
+  },
+  {
+    "id": "btech_053",
+    "category": "basic-technology",
+    "question": "What alloy is formed by melting copper and zinc together, often used for plumbing fixtures and musical instruments?",
+    "options": ["Bronze", "Brass", "Solder", "Stainless steel"],
+    "correctIndex": 1,
+    "explanation": "Brass is a golden-hued alloy of copper and zinc known for low friction, acoustic resonance, and corruption resistance.",
+    "extraKokoFact": "Bronze, by contrast, is an alloy of copper and tin."
+  },
+  {
+    "id": "btech_054",
+    "category": "basic-technology",
+    "question": "The capacity of a metal to be beaten, hammered, or rolled into thin flat sheets without fracturing is called ________.",
+    "options": ["Malleability", "Ductility", "Brittleness", "Elasticity"],
+    "correctIndex": 0,
+    "explanation": "Malleability is a physical property that allows a metal to deform plastically under compressive force, such as hammering gold or aluminum into thin foils.",
+    "extraKokoFact": "Lead and gold are examples of highly malleable metals."
+  },
+  {
+    "id": "btech_055",
+    "category": "basic-technology",
+    "question": "What property describes a metal's capacity to be pulled or drawn out into long, thin wires without snapping?",
+    "options": ["Brittleness", "Ductility", "Hardness", "Conductivity"],
+    "correctIndex": 1,
+    "explanation": "Ductility is the property that allows a material to sustain plastic deformation under tensile stress, which is essential for making electrical wires.",
+    "extraKokoFact": "Copper and aluminum are selected for wiring due to their high electrical conductivity and excellent ductility."
+  },
+  {
+    "id": "btech_056",
+    "category": "basic-technology",
+    "question": "Which metal property causes it to shatter or snap instantly when subjected to a sudden shock or impact without deforming first?",
+    "options": ["Ductility", "Malleability", "Brittleness", "Toughness"],
+    "correctIndex": 2,
+    "explanation": "Brittleness is the lack of ductility. Brittle materials break easily when dropped or struck because they cannot absorb energy through bending.",
+    "extraKokoFact": "Glass, ceramics, and cast iron are well-known brittle materials."
+  },
+  {
+    "id": "btech_057",
+    "category": "basic-technology",
+    "question": "What type of furnace is used in industrial metallurgy to extract molten pig iron from raw iron ore?",
+    "options": ["Blast furnace", "Open-hearth furnace", "Electric arc furnace", "Baking oven"],
+    "correctIndex": 0,
+    "explanation": "A blast furnace uses high-temperature chemical reduction with coke, limestone, and iron ore to yield liquid pig iron.",
+    "extraKokoFact": "The pig iron is later refined into steel or cast iron in secondary steelmaking furnaces."
+  },
+  {
+    "id": "btech_058",
+    "category": "basic-technology",
+    "question": "Which alloy of lead and tin has a low melting point and is used to join electronic components onto circuit boards?",
+    "options": ["Bronze", "Solder", "Steel", "Duralumin"],
+    "correctIndex": 1,
+    "explanation": "Solder melts at a relatively low temperature, allowing technicians to melt it with a heated iron to establish strong electrical and mechanical joints.",
+    "extraKokoFact": "Modern electronic assembly uses lead-free solder formulations for environmental safety."
+  },
+  {
+    "id": "btech_059",
+    "category": "basic-technology",
+    "question": "What distinct physical property makes iron and steel easy to separate mechanically from piles of mixed plastic and glass waste?",
+    "options": ["They are highly transparent", "They are strongly magnetic", "They dissolve easily in fresh water", "They float on the surface of water"],
+    "correctIndex": 1,
+    "explanation": "Ferrous materials exhibit strong ferromagnetism. Large electro-magnets can lift steel cans and iron parts directly out of mixed municipal waste.",
+    "extraKokoFact": "Plastics, aluminum, and glass do not respond to magnetic fields."
+  },
+  {
+    "id": "btech_060",
+    "category": "basic-technology",
+    "question": "What group of plastics can be repeatedly melted by heat and reshaped into new forms upon cooling?",
+    "options": ["Thermosetting plastics", "Thermoplastics", "Elastomers", "Ceramics"],
+    "correctIndex": 1,
+    "explanation": "Thermoplastics consist of linear polymer chains that soften when heated and solidify when cooled, allowing them to be recycled easily.",
+    "extraKokoFact": "Examples of thermoplastics include nylon, PVC, and polyethylene."
+  },
+  {
+    "id": "btech_061",
+    "category": "basic-technology",
+    "question": "Which type of plastic undergoes a permanent chemical change when heated during molding and cannot be remelted or recycled?",
+    "options": ["Thermoplastics", "Thermosetting plastics", "Polystyrene", "Acrylic"],
+    "correctIndex": 1,
+    "explanation": "Thermosetting plastics form rigid cross-linked polymer networks during curing. If reheated, they will burn or char rather than melt.",
+    "extraKokoFact": "Bakelite, urea-formaldehyde, and epoxy resins are examples of thermosetting materials."
+  },
+  {
+    "id": "btech_062",
+    "category": "basic-technology",
+    "question": "What raw material is tapped as a milky fluid from specific trees to produce natural rubber?",
+    "options": ["Crude oil", "Latex", "Resin", "Sap"],
+    "correctIndex": 1,
+    "explanation": "Latex is harvested by cutting shallow grooves into the bark of the Hevea brasiliensis tree, collecting the white liquid in small cups.",
+    "extraKokoFact": "The latex is then coagulated with acid, rolled into sheets, and dried for manufacturing."
+  },
+  {
+    "id": "btech_063",
+    "category": "basic-technology",
+    "question": "What industrial process heats raw rubber with sulfur to make it tougher, more elastic, and resistant to temperature changes?",
+    "options": ["Vulcanization", "Seasoning", "Galvanization", "Alloying"],
+    "correctIndex": 0,
+    "explanation": "Vulcanization creates sulfur cross-links between polymer strands, which stops rubber from getting sticky in the summer heat and brittle in winter cold.",
+    "extraKokoFact": "Charles Goodyear discovered vulcanization in 1839, paving the way for modern automotive tires."
+  },
+  {
+    "id": "btech_064",
+    "category": "basic-technology",
+    "question": "What earth material is mixed with water, shaped, and fired at high temperatures in a kiln to produce ceramics?",
+    "options": ["Sand", "Clay", "Limestone", "Gypsum"],
+    "correctIndex": 1,
+    "explanation": "Clay contains fine-grained minerals that become plastic and malleable when wet, but bake into stone-hard, heat-resistant ceramic when fired.",
+    "extraKokoFact": "Ceramic items include traditional clay pots, modern floor tiles, bricks, and high-voltage insulators."
+  },
+  {
+    "id": "btech_065",
+    "category": "basic-technology",
+    "question": "What primary mineral substance is melted at extremely high temperatures to produce transparent commercial glass?",
+    "options": ["Silica sand", "Alumina clay", "Crude petroleum", "Charcoal dust"],
+    "correctIndex": 0,
+    "explanation": "Glass is manufactured by heating silica sand (silicon dioxide) combined with soda ash and limestone until it liquefies into an amorphous structure.",
+    "extraKokoFact": "Glass is valued in technology for its optical transparency, hardness, and resistance to chemical corrosion."
+  },
+  {
+    "id": "btech_066",
+    "category": "basic-technology",
+    "question": "Which characteristic is a major limitation or weakness of structural glass and traditional ceramic products?",
+    "options": ["They conduct electricity too easily", "They have very low resistance to heat", "They are highly brittle and shatter under impact", "They rust quickly when exposed to rain"],
+    "correctIndex": 2,
+    "explanation": "While ceramics and glass handle compressive loads and high heat well, they lack tensile toughness and crack easily from sudden shocks.",
+    "extraKokoFact": "Specialized tempered glass and advanced ceramics are engineered to overcome this brittleness for heavy-duty applications."
+  },
+  {
+    "id": "btech_067",
+    "category": "basic-technology",
+    "question": "Why are ceramic materials widely used to make cooking pots and spark plug insulators?",
+    "options": ["They are soft and melt at low temperatures", "They are excellent thermal and electrical insulators that withstand high temperatures", "They bend easily without breaking", "They dissolve in acidic food preparations"],
+    "correctIndex": 1,
+    "explanation": "Ceramics maintain their strength and shape at extreme temperatures while blocking heat and electrical current.",
+    "extraKokoFact": "This makes them ideal for isolating electrical sparks in car engines and lining industrial furnaces."
+  },
+  {
+    "id": "btech_068",
+    "category": "basic-technology",
+    "question": "Which of the following items is an example of a synthetic (man-made) rubber used where oil resistance is required?",
+    "options": ["Para rubber", "Neoprene", "Latex juice", "Chewing gum"],
+    "correctIndex": 1,
+    "explanation": "Neoprene is a synthetic rubber produced by polymerizing chloroprene. It resists degradation from oils, chemicals, and heat far better than natural rubber.",
+    "extraKokoFact": "Natural rubber tends to soften and break down when soaked in automotive oil or gasoline."
+  },
+  {
+    "id": "btech_069",
+    "category": "basic-technology",
+    "question": "What type of plastic is widely used to manufacture domestic water pipes and electrical conduits in Nigeria?",
+    "options": ["PVC (Polyvinyl Chloride)", "Bakelite", "Polystyrene", "Urea-formaldehyde"],
+    "correctIndex": 0,
+    "explanation": "PVC is durable, lightweight, chemically unreactive, and easy to cut and solvent-weld, making it the industry standard for plumbing conduits.",
+    "extraKokoFact": "PVC stands for Polyvinyl Chloride, a highly versatile thermoplastic polymer."
+  },
+  {
+    "id": "btech_070",
+    "category": "basic-technology",
+    "question": "Which specialized wood saw features a stiff brass or steel spine along its back to keep the blade perfectly straight during fine joinery cuts?",
+    "options": ["Rip saw", "Tenon saw", "Fret saw", "Compass saw"],
+    "correctIndex": 1,
+    "explanation": "The tenon saw (or back saw) has a reinforced upper edge that prevents the thin blade from flexing, ensuring clean, flat-sided cuts for joints.",
+    "extraKokoFact": "Tenon saws are paired with a miter box to make accurate angled cuts in wooden moldings."
+  },
+  {
+    "id": "btech_071",
+    "category": "basic-technology",
+    "question": "What woodwork tool is used to shave off thin curls of wood, smoothing boards down to an exact thickness?",
+    "options": ["Jack plane", "Chisel", "Rasp file", "Mallet"],
+    "correctIndex": 0,
+    "explanation": "A jack plane holds a sharp steel iron blade at an angle within a flat-bottomed body, slicing off high spots as it is pushed across a wooden board.",
+    "extraKokoFact": "The jack plane is typically used first to rough-size wood, followed by a smoothing plane for the final finish."
+  },
+  {
+    "id": "btech_072",
+    "category": "basic-technology",
+    "question": "Which striking tool must be used to drive wood chisels, as a steel hammer would split or destroy the wooden handle?",
+    "options": ["Ball-peen hammer", "Sledgehammer", "Wooden mallet", "Claw hammer"],
+    "correctIndex": 2,
+    "explanation": "Mallets have large heads made of wood or rubber. They deliver a softer, distributed impact that pushes a chisel forward without chewing up its handle.",
+    "extraKokoFact": "Steel hammers are reserved for striking steel nails, punches, and cold chisels."
+  },
+  {
+    "id": "btech_073",
+    "category": "basic-technology",
+    "question": "What hand tool features a curved, V-shaped notch on its head used for pulling bent nails out of timber planks?",
+    "options": ["Ball-peen hammer", "Claw hammer", "Cross-peen hammer", "Mallet"],
+    "correctIndex": 1,
+    "explanation": "The claw hammer is a dual-purpose carpentry tool: the flat face drives nails in, and the curved claw provides leverage to extract nails.",
+    "extraKokoFact": "When pulling nails, placing a small scrap wood block under the claw protects the finished surface from bruising."
+  },
+  {
+    "id": "btech_074",
+    "category": "basic-technology",
+    "question": "Which marking tool has a sharp steel pin and an adjustable fence used to scratch a line parallel to a flat edge on a wooden board?",
+    "options": ["Marking gauge", "Try square", "Center punch", "Steel rule"],
+    "correctIndex": 0,
+    "explanation": "A marking gauge uses a sliding stem locked with a thumb screw to hold a sharp pin at a set distance from its stock face, scoring lines along the grain.",
+    "extraKokoFact": "A mortise gauge is a variation that features two pins to scribe parallel lines for joints simultaneously."
+  },
+  {
+    "id": "btech_075",
+    "category": "basic-technology",
+    "question": "What woodwork tool consists of a sharp, flat beveled blade used for paring away waste wood and chopping out mortise recesses?",
+    "options": ["Plane", "Chisel", "Gimlet", "Spoke shave"],
+    "correctIndex": 1,
+    "explanation": "Wood school chisels are driven by mallets or pushed by hand to carve out precise interlocking joints and clean up square corners.",
+    "extraKokoFact": "Chisel blades are sharpened to a fine, keen edge, typically at a 25 to 30-degree bevel angle."
+  },
+  {
+    "id": "btech_076",
+    "category": "basic-technology",
+    "question": "Which small, hand-operated boring tool has a screw-threaded tip and is used to twist small pilot holes into wood for screws?",
+    "options": ["Gimlet", "Brace", "Center punch", "Hacksaw"],
+    "correctIndex": 0,
+    "explanation": "A gimlet is a T-handled tool with a small screw thread at the end that pulls itself into the wood, clearing out wood chips as it turns.",
+    "extraKokoFact": "For larger holes in wood, a carpenter uses a brace fitted with auger bits."
+  },
+  {
+    "id": "btech_077",
+    "category": "basic-technology",
+    "question": "What metalwork tool has a sharp, hardened steel point used to scratch fine, visible layout lines onto the surface of metal sheets?",
+    "options": ["Scriber", "Pencil", "Chalk", "Center punch"],
+    "correctIndex": 0,
+    "explanation": "Graphite pencils smudge and rub off smooth metals easily, so metalworkers use a hardened steel scriber to scratch fine, permanent lines into the surface oxide.",
+    "extraKokoFact": "Engineers often apply a blue layout dye to the metal first so the scratched scriber lines show up clearly."
+  },
+  {
+    "id": "btech_078",
+    "category": "basic-technology",
+    "question": "Which metal tool is struck with a hammer to make a small conical indentation, preventing drill bits from wandering off target?",
+    "options": ["Scriber", "Center punch", "Cold chisel", "Dividers"],
+    "correctIndex": 1,
+    "explanation": "A center punch creates a physical pocket that guides the point of a rotating twist drill bit into the metal at the exact marked intersection.",
+    "extraKokoFact": "Center punches are made of hardened tool steel and ground to a 60 or 90-degree tip angle."
+  },
+  {
+    "id": "btech_079",
+    "category": "basic-technology",
+    "question": "What frame tool uses a thin, replaceable serrated blade under tension to saw through steel pipes and bars?",
+    "options": ["Crosscut saw", "Tenon saw", "Hacksaw", "Bow saw"],
+    "correctIndex": 2,
+    "explanation": "A hacksaw features a rigid frame that holds a high-speed steel blade with fine teeth (usually 18 to 32 teeth per inch) designed to slice through metals.",
+    "extraKokoFact": "Hacksaw blades must be installed with the teeth pointing forward, cutting on the forward stroke."
+  },
+  {
+    "id": "btech_080",
+    "category": "basic-technology",
+    "question": "What holding tool is bolted onto the top of a workshop bench to clamp metal bars securely in place while sawing or filing them?",
+    "options": ["Bench vice", "G-clamp", "Pliers", "Spanner"],
+    "correctIndex": 0,
+    "explanation": "The bench vice consists of a fixed jaw and a movable jaw driven by a screw lever, providing the immense clamping pressure needed to hold workpieces steady.",
+    "extraKokoFact": "Vices used for woodwork have smooth wooden or soft jaw faces to avoid crushing delicate timber grain."
+  },
+  {
+    "id": "btech_081",
+    "category": "basic-technology",
+    "question": "Which metal cutting tool is struck with a hammer to slice through cold sheet metal, rivets, and rusted bolts without using heat?",
+    "options": ["Hacksaw", "Cold chisel", "File", "Scriber"],
+    "correctIndex": 1,
+    "explanation": "Cold chisels are forged from hardened carbon steel with a heavy, wedge-shaped edge designed to shear through unheated, softer metals.",
+    "extraKokoFact": "They are called 'cold' chisels to distinguish them from blacksmiths' hot chisels used on red-hot iron."
+  },
+  {
+    "id": "btech_082",
+    "category": "basic-technology",
+    "question": "Which file type has a flat face on one side and a curved face on the other, making it ideal for smoothing out concave interior curves?",
+    "options": ["Flat file", "Round file", "Half-round file", "Triangular file"],
+    "correctIndex": 2,
+    "explanation": "The half-round file is a highly versatile tool because its flat profile surfaces flat metal, while its curved back shapes internal cylindrical sweeps.",
+    "extraKokoFact": "A triangular file, by contrast, is used to clean out sharp internal corners and sharpen saw teeth."
+  },
+  {
+    "id": "btech_083",
+    "category": "basic-technology",
+    "question": "What hand tool is designed with adjustable or fixed jaws used to grip, turn, or tighten hexagonal nuts and bolts?",
+    "options": ["Spanner (Wrench)", "Pliers", "Screwdriver", "Hammer"],
+    "correctIndex": 0,
+    "explanation": "Spanners match the standard millimeter or inch sizes of bolt heads, providing leverage to tighten fasteners securely without stripping the edges.",
+    "extraKokoFact": "Using the wrong size spanner slips and rounds off the bolt head corners, ruining the fastener."
+  },
+  {
+    "id": "btech_084",
+    "category": "basic-technology",
+    "question": "Which tool is specifically engineered to drive and tighten screws with slotted or cross-shaped (Phillips) heads into materials?",
+    "options": ["Screwdriver", "Spanner", "Pliers", "Chisel"],
+    "correctIndex": 0,
+    "explanation": "Screwdrivers feature a tip shaped to fit matching recessed slots on screw heads, turning rotational hand force into high torque torque.",
+    "extraKokoFact": "Using a flat-head screwdriver on a cross-recessed Phillips screw slips out and damages the screw head."
+  },
+  {
+    "id": "btech_085",
+    "category": "basic-technology",
+    "question": "What tool features two hinged handles and serrated jaws used for gripping small components, bending wires, and cutting thin cables?",
+    "options": ["Vice", "Pliers", "G-clamp", "Spanner"],
+    "correctIndex": 1,
+    "explanation": "Pliers use a mechanical pivot to multiply hand force, allowing the user to clamp down tightly onto small items or shear wires with built-in cutting edges.",
+    "extraKokoFact": "Combination pliers are a staple in both electrical work and mechanical assembly across Nigeria."
+  },
+  {
+    "id": "btech_086",
+    "category": "basic-technology",
+    "question": "What hand tool is used to clean out wood fibers and metal filings that get packed tightly between the fine teeth of a file?",
+    "options": ["Wire brush (File card)", "Soap and water", "Screwdriver tip", "Sandpaper"],
+    "correctIndex": 0,
+    "explanation": "A file card is a specialized stiff wire brush that grooms out debris trapped between file teeth, restoring the file's cutting efficiency.",
+    "extraKokoFact": "When file teeth become clogged with waste material, the condition is called 'pinning', which scratches the workpiece."
+  },
+  {
+    "id": "btech_087",
+    "category": "basic-technology",
+    "question": "What tool is used to check if a horizontal surface is perfectly level or if a vertical wall is straight (plumb)?",
+    "options": ["Spirit level", "Try square", "Steel rule", "Plumb bob"],
+    "correctIndex": 0,
+    "explanation": "A spirit level contains a sealed glass tube filled with alcohol and a small air bubble; when the bubble centers between the index lines, the surface is level.",
+    "extraKokoFact": "Plumb bobs use a weighted line on a string to verify true vertical alignments for walls and structures."
+  },
+  {
+    "id": "btech_088",
+    "category": "basic-technology",
+    "question": "Which measuring instrument consists of a thin, flexible steel ribbon wrapped inside a spring-loaded casing, used for long distances?",
+    "options": ["Steel rule", "Caliper", "Pocket tape measure", "Micrometer"],
+    "correctIndex": 2,
+    "explanation": "Tape measures allow builders and carpenters to measure several meters of length accurately while remaining compact enough to clip onto a work belt.",
+    "extraKokoFact": "Most tape measures used in Nigeria feature metric layouts (millimeters, centimeters, meters) alongside imperial inches."
+  },
+  {
+    "id": "btech_089",
+    "category": "basic-technology",
+    "question": "Which type of hammer features a flat face on one side of the head and a round sphere on the other, used primarily to shape sheet metal and rivets?",
+    "options": ["Claw hammer", "Ball-peen hammer", "Sledgehammer", "Brick hammer"],
+    "correctIndex": 1,
+    "explanation": "The ball-peen hammer is a standard metalworking hammer; the ball end is used for peening (spreading and shaping) rivets and hardening metals.",
+    "extraKokoFact": "Cross-peen and straight-peen hammers have wedge-shaped profiles instead of a ball sphere."
+  },
+  {
+    "id": "btech_090",
+    "category": "basic-technology",
+    "question": "What form of energy is stored within the chemical bonds of substances like petroleum, coal, and food batteries?",
+    "options": ["Kinetic energy", "Chemical energy", "Thermal energy", "Nuclear energy"],
+    "correctIndex": 1,
+    "explanation": "Chemical energy is potential energy locked in molecular bonds, which is released during chemical reactions like burning fuel or digesting food.",
+    "extraKokoFact": "When gasoline burns inside a car engine, its chemical energy transforms into thermal energy, then kinetic energy."
+  },
+  {
+    "id": "btech_091",
+    "category": "basic-technology",
+    "question": "What type of energy does a moving object possess due to its physical velocity and mass?",
+    "options": ["Potential energy", "Kinetic energy", "Electrical energy", "Solar energy"],
+    "correctIndex": 1,
+    "explanation": "Kinetic energy is the energy of motion. Any object that has mass and is traveling at a speed possesses kinetic energy.",
+    "extraKokoFact": "The formula for kinetic energy is 0.5 * mass * velocity squared, meaning speeding up an object drastically increases its kinetic energy."
+  },
+  {
+    "id": "btech_092",
+    "category": "basic-technology",
+    "question": "Which of the following is an example of a clean, renewable energy resource that never runs out?",
+    "options": ["Crude oil", "Solar energy", "Coal", "Natural gas"],
+    "correctIndex": 1,
+    "explanation": "Solar energy harvests sunlight using photovoltaic panels or thermal collectors, providing an inexhaustible, clean source of power.",
+    "extraKokoFact": "Fossil fuels like petroleum and coal are non-renewable because they take millions of years to form and are consumed much faster than they regenerate."
+  },
+  {
+    "id": "btech_093",
+    "category": "basic-technology",
+    "question": "Which basic machine component consists of a wheel with a grooved rim holding a rope or belt, used to lift heavy loads or change force direction?",
+    "options": ["Gear", "Pulley", "Lever", "Screw"],
+    "correctIndex": 1,
+    "explanation": "A pulley channels a flexible cable along its tracks. A single fixed pulley changes the direction of pull, while a system of moving pulleys multiplies lifting force.",
+    "extraKokoFact": "Pulleys are key mechanisms inside construction cranes and engine belt drives."
+  },
+  {
+    "id": "btech_094",
+    "category": "basic-technology",
+    "question": "What mechanical transmission component consists of a wheel with cut teeth that mesh with another toothed wheel to change speed and torque?",
+    "options": ["Gear", "Pulley", "Clutch", "Shaft"],
+    "correctIndex": 0,
+    "explanation": "Gears transfer mechanical power between shafts without slipping, thanks to interlocking teeth. A small gear driving a large gear reduces speed but multiplies turning force (torque).",
+    "extraKokoFact": "Bicycles and automotive gearboxes rely heavily on gear ratios to navigate different speeds and terrain slopes."
+  },
+  {
+    "id": "btech_095",
+    "category": "basic-technology",
+    "question": "What simple mechanism consists of a rigid bar that pivots around a fixed support point called a fulcrum?",
+    "options": ["Wheel and axle", "Inclined plane", "Lever", "Pulley"],
+    "correctIndex": 2,
+    "explanation": "A lever magnifies input force based on the relative distances from the pivot point (fulcrum) to the effort and load placements.",
+    "extraKokoFact": "Crowbars, scissors, and see-saws are common everyday examples of levers."
+  },
+  {
+    "id": "btech_096",
+    "category": "basic-technology",
+    "question": "What do we call the force that opposes the relative sliding motion between two solid surfaces in physical contact?",
+    "options": ["Gravity", "Friction", "Magnetism", "Tension"],
+    "correctIndex": 1,
+    "explanation": "Friction acts parallel to the contact boundary, resisting motion and converting kinetic energy into thermal heat waste.",
+    "extraKokoFact": "While friction wears down machine parts, it is also essential for braking cars and allowing shoes to grip the floor without slipping."
+  },
+  {
+    "id": "btech_097",
+    "category": "basic-technology",
+    "question": "What fluid substance is applied between moving machine parts to reduce destructive friction, heat generation, and wear?",
+    "options": ["Water", "Lubricant (Oil/Grease)", "Acid", "Adhesive glue"],
+    "correctIndex": 1,
+    "explanation": "Lubricants create a thin, protective fluid barrier that keeps solid metal surfaces from grinding directly against one another.",
+    "extraKokoFact": "Regular lubrication is a cornerstone of planned machine maintenance in workshops to ensure smooth operation and prevent component lockups."
+  },
+  {
+    "id": "btech_098",
+    "category": "basic-technology",
+    "question": "Which basic electrical component is designed to open or close an electrical circuit, turning appliances on or off?",
+    "options": ["Resistor", "Switch", "Battery", "Capacitor"],
+    "correctIndex": 1,
+    "explanation": "A switch acts as a mechanical gatekeeper in a circuit: closing it completes the pathway so current flows, while opening it breaks the path to stop operation.",
+    "extraKokoFact": "Wall switches and device power buttons are practical configurations of this mechanism."
+  },
+  {
+    "id": "btech_099",
+    "category": "basic-technology",
+    "question": "What material is wrapped around copper electrical wires to safely prevent short circuits and shield humans from electric shocks?",
+    "options": ["Aluminum foil", "Iron mesh", "Insulator (like Plastic or Rubber)", "Copper plating"],
+    "correctIndex": 2,
+    "explanation": "Insulators possess tightly bound valence electrons that do not permit electric current to pass through them, trapping the high voltage safely inside the metal core.",
+    "extraKokoFact": "PVC and rubber are standard coatings used for consumer electrical lines because they are flexible and excellent electrical insulators."
+  },
+  {
+    "id": "btech_100",
+    "category": "basic-technology",
+    "question": "Which system uses pressurized air to transmit power and operate mechanical components like workshop lifts or automated doors?",
+    "options": ["Hydraulic system", "Pneumatic system", "Mechanical system", "Electrical system"],
+    "correctIndex": 1,
+    "explanation": "Pneumatic systems utilize compressed or pressurized air to perform work, distinct from hydraulic systems which use pressurized liquid (oil or water).",
+    "extraKokoFact": "The word 'pneumatic' comes from the Greek word 'pneuma', which means breath or wind."
+  }
+]

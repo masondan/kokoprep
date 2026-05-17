@@ -1,0 +1,902 @@
+[
+  {
+    "id": "agric_001",
+    "category": "agriculture-science",
+    "question": "Agriculture can be defined as the art of cultivation of crops and rearing of animals for human benefit. The area dealing with honey bees is called:",
+    "options": ["Agriculture", "Cuniculture", "Sericulture", "Apiculture"],
+    "correctIndex": 3,
+    "explanation": "Apiculture is the keeping and management of honey bees. Sericulture is the rearing of silkworms for silk production.",
+    "extraKokoFact": "Cuniculture is the rearing of rabbits! Agriculture has special names for every type of farming."
+  },
+  {
+    "id": "agric_002",
+    "category": "agriculture-science",
+    "question": "A monocotyledon plant has:",
+    "options": ["Two seed leaves", "One seed leaf", "No seed leaves", "Three seed leaves"],
+    "correctIndex": 1,
+    "explanation": "Mono means one. A monocotyledon (monocot) has one seed leaf (cotyledon). Examples include maize, rice and grass.",
+    "extraKokoFact": "Di means two. Dicotyledons (dicots) have two seed leaves. Examples include beans, mango and cashew."
+  },
+  {
+    "id": "agric_003",
+    "category": "agriculture-science",
+    "question": "The use of simple tools like cutlass and hoes is common among:",
+    "options": ["Traditional farmers", "Commercial farmers", "Wildlife farmers", "All of the above"],
+    "correctIndex": 0,
+    "explanation": "Traditional (subsistence) farmers use simple hand tools like cutlasses and hoes. Commercial farmers use machines like tractors and harvesters.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_004",
+    "category": "agriculture-science",
+    "question": "All of these are of importance to agriculture EXCEPT:",
+    "options": ["Provision of food", "Source of income", "Provision of shelters", "Poor farm tools"],
+    "correctIndex": 3,
+    "explanation": "Poor farm tools are a problem for agriculture, not a benefit. Agriculture provides food, income, raw materials and employment — not poor tools.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_005",
+    "category": "agriculture-science",
+    "question": "Which type of soil is the most fertile and best for farming?",
+    "options": ["Sandy soil", "Clay soil", "Loamy soil", "Rocky soil"],
+    "correctIndex": 2,
+    "explanation": "Loamy soil is the best for farming because it contains a good balance of sand, silt and clay, holds moisture well, and is rich in nutrients.",
+    "extraKokoFact": "Sandy soil drains too quickly. Clay soil holds too much water. Loamy soil is just right — like Goldilocks!"
+  },
+  {
+    "id": "agric_006",
+    "category": "agriculture-science",
+    "question": "Which of the following is a cash crop grown in Nigeria?",
+    "options": ["Yam", "Cassava", "Cocoa", "Maize"],
+    "correctIndex": 2,
+    "explanation": "Cocoa is Nigeria's main cash crop — it is grown mainly for export and earning foreign income. Yam, cassava and maize are food crops grown for eating.",
+    "extraKokoFact": "Nigeria was once the world's largest producer of cocoa! Cocoa beans are used to make chocolate."
+  },
+  {
+    "id": "agric_007",
+    "category": "agriculture-science",
+    "question": "The rearing of fish in controlled conditions is called:",
+    "options": ["Apiculture", "Aquaculture", "Poultry farming", "Cuniculture"],
+    "correctIndex": 1,
+    "explanation": "Aquaculture (also called fish farming or pisciculture) is the controlled rearing of fish and other aquatic animals. It is increasingly important in Nigeria.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_008",
+    "category": "agriculture-science",
+    "question": "Which of the following is a leguminous crop?",
+    "options": ["Maize", "Cassava", "Groundnut", "Yam"],
+    "correctIndex": 2,
+    "explanation": "Groundnut (peanut) is a leguminous crop — it belongs to the legume family, along with beans, soya beans and cowpeas. Legumes are special because their roots add nitrogen to the soil.",
+    "extraKokoFact": "Farmers sometimes plant groundnuts between other crops to improve the soil — this is called crop rotation!"
+  },
+  {
+    "id": "agric_009",
+    "category": "agriculture-science",
+    "question": "What is the process of turning over soil before planting called?",
+    "options": ["Ploughing", "Weeding", "Harvesting", "Pruning"],
+    "correctIndex": 0,
+    "explanation": "Ploughing (or tilling) is the process of loosening and turning over the soil before planting seeds. It helps break up compacted soil, improves air and water movement, and buries weeds.",
+    "extraKokoFact": "Ploughing can be done using hand hoes, animal-drawn ploughs, or large tractors with disc ploughs!"
+  },
+  {
+    "id": "agric_010",
+    "category": "agriculture-science",
+    "question": "Which of the following is a method of preserving farm produce?",
+    "options": ["Dehydration (Drying)", "Leaching", "Overwatering", "Tillage"],
+    "correctIndex": 0,
+    "explanation": "Dehydration or drying removes water from farm produce like maize, beans, or fish, which prevents bacteria and fungi from growing and spoiling the food.",
+    "extraKokoFact": "Sun-drying is one of the oldest and cheapest ways Nigerian farmers preserve crops after harvest."
+  },
+  {
+    "id": "agric_011",
+    "category": "agriculture-science",
+    "question": "What is the name for the practice of growing two or more crops on the same piece of land at the same time?",
+    "options": ["Mixed cropping", "Monocapping", "Crop rotation", "Shifting cultivation"],
+    "correctIndex": 0,
+    "explanation": "Mixed cropping (or intercropping) involves growing two or more different crops simultaneously on the same plot, such as planting maize and yams together.",
+    "extraKokoFact": "This practice acts as insurance for the farmer; if one crop fails due to pests or weather, the other crop can still be harvested!"
+  },
+  {
+    "id": "agric_012",
+    "category": "agriculture-science",
+    "question": "Which of the following is a common insect pest that attacks grains in storage?",
+    "options": ["Weevil", "Earthworm", "Grasshopper", "Aphid"],
+    "correctIndex": 0,
+    "explanation": "Weevils are notorious beetle pests that bore into stored grains like maize, beans, and rice, causing massive damage and hollow seeds if left unchecked.",
+    "extraKokoFact": "Farmers often dry grains thoroughly and store them in airtight bags or silos to prevent weevil infestations."
+  },
+  {
+    "id": "agric_013",
+    "category": "agriculture-science",
+    "question": "What is the main function of fertiliser in farming?",
+    "options": ["To supply essential nutrients to the soil", "To kill weeds around the crops", "To provide water to dry land", "To cure fungal diseases in crops"],
+    "correctIndex": 0,
+    "explanation": "Fertilisers (organic or inorganic) supply missing or depleted essential nutrients like Nitrogen, Phosphorus, and Potassium (NPK) to the soil to improve plant growth and yield.",
+    "extraKokoFact": "Organic fertilisers include poultry manure and compost, while chemical fertilisers are manufactured in factories."
+  },
+  {
+    "id": "agric_014",
+    "category": "agriculture-science",
+    "question": "Which of the following animals is classified as poultry?",
+    "options": ["Turkey", "Rabbit", "Goat", "Catfish"],
+    "correctIndex": 0,
+    "explanation": "Poultry refers to domesticated birds kept for meat and eggs. Examples include turkeys, chickens, ducks, geese, and guinea fowls.",
+    "extraKokoFact": "The guinea fowl is a very popular local poultry bird in Nigeria, especially in the northern regions."
+  },
+  {
+    "id": "agric_015",
+    "category": "agriculture-science",
+    "question": "What is irrigation in farming?",
+    "options": ["The artificial supply of water to land or crops", "The removal of excess water from waterlogged soil", "The application of chemical sprays to kill pests", "The process of clearing dense forests for farming"],
+    "correctIndex": 0,
+    "explanation": "Irrigation is the artificial application of water to soil or land to assist in the growth of crops, especially during the dry season or in areas with low rainfall.",
+    "extraKokoFact": "In northern Nigeria, the fadama areas rely heavily on irrigation to grow vegetables all year round."
+  },
+  {
+    "id": "agric_016",
+    "category": "agriculture-science",
+    "question": "Which farm tool is best suited for transplanting young seedlings from a nursery to the main farm?",
+    "options": ["Hand trowel", "Spade", "Pick-axe", "Garden rake"],
+    "correctIndex": 0,
+    "explanation": "A hand trowel is a small curved tool used for digging small holes and safely scooping up delicate young seedlings with soil around their roots during transplanting.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_017",
+    "category": "agriculture-science",
+    "question": "The practice of cutting down trees in a forest without replacing them is called:",
+    "options": ["Deforestation", "Afforestation", "Reforestation", "Selective exploitation"],
+    "correctIndex": 0,
+    "explanation": "Deforestation is the permanent clearing of forests or trees without replanting them, which leads to soil erosion, destruction of wildlife habitats, and loss of forest products.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_018",
+    "category": "agriculture-science",
+    "question": "Which of the following animal products is primarily used to make leather shoes, bags, and belts?",
+    "options": ["Hides and skins", "Feathers and down", "Horns and hooves", "Bones and marrow"],
+    "correctIndex": 0,
+    "explanation": "Hides (from large animals like cattle) and skins (from small animals like goats and sheep) are tanned in factories to produce leather, which is widely used to manufacture footwear, bags, and apparel.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_019",
+    "category": "agriculture-science",
+    "question": "What type of animal is a goat classified as based on its stomach structure and eating habits?",
+    "options": ["Ruminant", "Non-ruminant", "Omnivore", "Carnivore"],
+    "correctIndex": 0,
+    "explanation": "Goats are ruminants. They have a complex four-compartment stomach (rumen, reticulum, omasum, and abomasum) that allows them to chew the cud and efficiently digest tough plant fibers.",
+    "extraKokoFact": "Ruminants swallow forage quickly and bring it back up to chew it properly later when they are resting!"
+  },
+  {
+    "id": "agric_020",
+    "category": "agriculture-science",
+    "question": "Which farm record is used to list all the assets, buildings, machinery, and tools owned by a farmer at a specific time?",
+    "options": ["Farm inventory", "Production record", "Farm diary", "Labor record"],
+    "correctIndex": 0,
+    "explanation": "A farm inventory is a detailed list of all items, properties, livestock, and materials owned by the farm, along with their estimated cash values at a particular point in time.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_021",
+    "category": "agriculture-science",
+    "question": "The process of removing unwanted, unhealthy, or crowded parts of a plant to improve its growth and fruit yield is known as:",
+    "options": ["Pruning", "Thinning", "Supplying", "Mulching"],
+    "correctIndex": 0,
+    "explanation": "Pruning is the selective cutting away of dead, diseased, or overgrown branches and parts of a plant. This helps improve air circulation, sunlight penetration, and fruit production.",
+    "extraKokoFact": "Pruning cocoa trees is highly important in West African farms to reduce black pod disease by allowing airflow."
+  },
+  {
+    "id": "agric_022",
+    "category": "agriculture-science",
+    "question": "Which of the following is a major disadvantage of traditional subsistence farming methods?",
+    "options": ["Low yield and low profit", "High expenditure on heavy machinery", "Excessive production leading to waste", "High dependence on professional farm managers"],
+    "correctIndex": 0,
+    "explanation": "Traditional subsistence farming relies on simple hand tools and manual labor, resulting in low crop yields that mostly feed the farmer's family, leaving little or no surplus profit.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_023",
+    "category": "agriculture-science",
+    "question": "The chemical substance used specifically to kill unwanted plants or weeds on the farm is called a/an:",
+    "options": ["Herbicide", "Insecticide", "Nematicide", "Fungicide"],
+    "correctIndex": 0,
+    "explanation": "Herbicides are chemical compounds formulated to destroy or inhibit the growth of unwanted plants (weeds) without permanently damaging the primary crops if applied correctly.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_024",
+    "category": "agriculture-science",
+    "question": "Which of the following farm animals is primarily reared for the commercial production of table eggs?",
+    "options": ["Layer chicken", "Broiler chicken", "Cockerel", "Nanny goat"],
+    "correctIndex": 0,
+    "explanation": "Layer chickens are specialized breeds of poultry raised specifically for high-volume egg production, whereas broilers and cockerels are raised for meat.",
+    "extraKokoFact": "A good layer chicken can lay up to 300 eggs in a single year!"
+  },
+  {
+    "id": "agric_025",
+    "category": "agriculture-science",
+    "question": "The washing away of the fertile topsoil by agents like heavy rain or strong wind is called:",
+    "options": ["Soil erosion", "Soil leaching", "Soil weathering", "Soil salinization"],
+    "correctIndex": 0,
+    "explanation": "Soil erosion occurs when natural forces like running water or wind detach and carry away the nutrient-rich topmost layer of soil, leaving the land barren and difficult to farm.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_026",
+    "category": "agriculture-science",
+    "question": "What is the primary purpose of applying mulch (like dry grass or palm fronds) around the bases of crops?",
+    "options": ["To conserve soil moisture and suppress weed growth", "To add artificial chemical colors to the crops", "To attract beneficial insect pests to the farm", "To harden the soil and make it compact"],
+    "correctIndex": 0,
+    "explanation": "Mulch forms a protective blanket over the soil surface, reducing water evaporation from the sun, conserving moisture, regulating soil temperature, and blocking sunlight from weed seeds.",
+    "extraKokoFact": "As organic mulch decays, it turns into rich humus which naturally boosts soil fertility!"
+  },
+  {
+    "id": "agric_027",
+    "category": "agriculture-science",
+    "question": "Which of the following crops is classified as a cereal crop?",
+    "options": ["Maize", "Yam", "Groundnut", "Pepper"],
+    "correctIndex": 0,
+    "explanation": "Cereals are grain-producing grasses grown for their edible seeds. Examples include maize, rice, millet, sorghum, and wheat. Yam is a tuber, groundnut is a legume, and pepper is a spice or fruit vegetable.",
+    "extraKokoFact": "Maize and rice are the two most widely consumed cereal grains across all Nigerian households."
+  },
+  {
+    "id": "agric_028",
+    "category": "agriculture-science",
+    "question": "A farmer notices that the leaves of his cassava crops are showing yellow mosaic patterns and are curling up. This disease is most likely caused by a:",
+    "options": ["Virus", "Fungus", "Bacterium", "Nematode"],
+    "correctIndex": 0,
+    "explanation": "Cassava Mosaic Disease is a widespread viral infection transmitted by whiteflies. It causes distinctive yellow or light green mottling, distortion, and curling of cassava leaves.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_029",
+    "category": "agriculture-science",
+    "question": "Which farm tool consists of a long wooden handle with a series of metal teeth at the end, used for gathering loose grass and leveling nursery beds?",
+    "options": ["Garden rake", "Hand hoe", "Digging fork", "Spade"],
+    "correctIndex": 0,
+    "explanation": "A garden rake has a horizontal head fitted with short metal prongs or teeth. It is used to clear debris, collect dry leaves/weeds, and break up and level the soil surface of seedbeds.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_030",
+    "category": "agriculture-science",
+    "question": "The branch of agriculture that deals with the scientific study, cultivation, and management of field crops like grains and roots is called:",
+    "options": ["Agronomy", "Horticulture", "Animal Science", "Forestry"],
+    "correctIndex": 0,
+    "explanation": "Agronomy is the science and technology of producing and using plants for food, fuel, fiber, and land reclamation. It focuses heavily on large-scale field crops and soil management.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_031",
+    "category": "agriculture-science",
+    "question": "Which of the following is an example of a non-ruminant farm animal?",
+    "options": ["Pig", "Sheep", "Goat", "Cow"],
+    "correctIndex": 0,
+    "explanation": "Pigs are non-ruminant animals (monogastric) because they possess a simple, single-compartment stomach, unlike ruminants (sheep, goats, cows) which have four compartments.",
+    "extraKokoFact": "Pigs cannot digest cellulose as efficiently as ruminants, which is why they eat grains and concentrates instead of just grass."
+  },
+  {
+    "id": "agric_032",
+    "category": "agriculture-science",
+    "question": "What is the name of the special structure built with raised wooden platforms or mesh floors used for housing domestic rabbits?",
+    "options": ["Rabbit hutch", "Poultry deep litter", "Cattle kraal", "Pig sty"],
+    "correctIndex": 0,
+    "explanation": "A rabbit hutch is an enclosed cage structure, typically constructed with wooden frames and wire mesh, designed to provide safe, clean, and well-ventilated housing for rabbits.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_033",
+    "category": "agriculture-science",
+    "question": "Which agricultural method involves moving livestock from one grazing pasture to another in a planned sequence to give the grass time to grow back?",
+    "options": ["Rotational grazing", "Overgrazing", "Continuous stocking", "Nomadic herding"],
+    "correctIndex": 0,
+    "explanation": "Rotational grazing divides pasture land into smaller paddocks. Animals graze in one paddock at a time while other sections rest and regenerate their forage cover.",
+    "extraKokoFact": "This method prevents soil compaction and stops animals from eating grass all the way down to the roots!"
+  },
+  {
+    "id": "agric_034",
+    "category": "agriculture-science",
+    "question": "The practice of planting a forest in an area where trees have never grown before, or have been absent for a long time, is known as:",
+    "options": ["Afforestation", "Deforestation", "Reforestation", "Selective logging"],
+    "correctIndex": 0,
+    "explanation": "Afforestation is the establishment of a completely new forest on lands that historically did not contain forest cover. Reforestation is replanting trees where a forest recently existed.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_035",
+    "category": "agriculture-science",
+    "question": "Which component of the soil is made up of decayed plant and animal remains that make the soil rich, dark, and fertile?",
+    "options": ["Organic matter (Humus)", "Mineral matter", "Soil water", "Soil air"],
+    "correctIndex": 0,
+    "explanation": "Organic matter, which decomposes into humus, is composed of dead plant tissues and animal wastes. It enhances soil structure, retains moisture, and provides crucial plant nutrients.",
+    "extraKokoFact": "Humus gives topsoil its deep brown or black color. If soil is dark, it's usually great for farming!"
+  },
+  {
+    "id": "agric_036",
+    "category": "agriculture-science",
+    "question": "Which farm tool has a sharp steel blade attached to a long wooden or metal handle, primarily used in West Africa for clearing bush, cutting firewood, and harvesting cocoa pods?",
+    "options": ["Cutlass (Machete)", "Axe", "Sickle", "Pick-axe"],
+    "correctIndex": 0,
+    "explanation": "The cutlass (or machete) is an indispensable, versatile hand tool used by traditional farmers across West Africa for cutting weeds, clearing thick brush, and general light harvesting.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_037",
+    "category": "agriculture-science",
+    "question": "The process by which green plants manufacture their own food using sunlight, water, and carbon dioxide in the presence of chlorophyll is called:",
+    "options": ["Photosynthesis", "Respiration", "Transpiration", "Absorption"],
+    "correctIndex": 0,
+    "explanation": "Photosynthesis is the vital biological mechanism through which green plants convert solar energy into chemical energy (sugar/starch), releasing oxygen as a byproduct.",
+    "extraKokoFact": "Without photosynthesis, there would be no food for humans or animals anywhere on earth!"
+  },
+  {
+    "id": "agric_038",
+    "category": "agriculture-science",
+    "question": "Which of the following is a subterranean rodent pest that causes severe damage by feeding on underground root tubers like yams and cassava?",
+    "options": ["Grasscutter", "Weevil", "Aphid", "Locust"],
+    "correctIndex": 0,
+    "explanation": "The grasscutter (greater cane rat) is a large wild rodent in Nigeria that frequently invades farms, chewing through crop stems and digging up tubers like cassava and yams for food.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_039",
+    "category": "agriculture-science",
+    "question": "What is the primary benefit of including a leguminous crop like cowpea in a crop rotation program?",
+    "options": ["It fixes atmospheric nitrogen into the soil via root nodules", "It absorbs excessive moisture to dry out the soil", "It produces large wooden stems that can be sold as timber", "It acts as a natural chemical pesticide to kill all insect pests"],
+    "correctIndex": 0,
+    "explanation": "Legumes live in a symbiotic relationship with Rhizobium bacteria in their root nodules. These bacteria capture nitrogen gas from the air and convert it into a form plants can use, enriching the soil naturally.",
+    "extraKokoFact": "Smart Nigerian farmers plant cowpeas or groundnuts along with maize to keep their soil naturally fertile without buying expensive chemical fertilizers."
+  },
+  {
+    "id": "agric_040",
+    "category": "agriculture-science",
+    "question": "Which of the following is a byproduct of cattle rearing that can be processed and used by crop farmers to improve soil fertility?",
+    "options": ["Animal manure", "Leather hide", "Gelatin", "Tallow fat"],
+    "correctIndex": 0,
+    "explanation": "Cattle dung and urine form rich organic manure. When applied to crop fields, it introduces organic nutrients, encourages microbial activity, and improves the water-holding capacity of the soil.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_041",
+    "category": "agriculture-science",
+    "question": "The specialized practice of rearing snails under controlled environmental conditions for food or commercial sale is known as:",
+    "options": ["Heliciculture", "Apiculture", "Sericulture", "Floriculture"],
+    "correctIndex": 0,
+    "explanation": "Heliciculture is the technical term for snail farming, focusing on rearing land snails (like the African Giant Snail) for their highly nutritious, low-cholesterol meat.",
+    "extraKokoFact": "Snails are hermaphrodites, meaning every individual snail has both male and female reproductive organs!"
+  },
+  {
+    "id": "agric_042",
+    "category": "agriculture-science",
+    "question": "Which type of soil has the largest particle sizes, feels gritty when rubbed between fingers, and cannot hold water effectively?",
+    "options": ["Sandy soil", "Clay soil", "Silty soil", "Loamy soil"],
+    "correctIndex": 0,
+    "explanation": "Sandy soil particles range from 0.05mm to 2.0mm. Because the particles are large, there are large spaces between them, allowing water to drain away very rapidly, carrying nutrients with it.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_043",
+    "category": "agriculture-science",
+    "question": "What farm record keeps a day-to-day account of all major events, operations, and observations that happen on the farm throughout the season?",
+    "options": ["Farm diary", "Labor record", "Cash book", "Yield record"],
+    "correctIndex": 0,
+    "explanation": "A farm diary is a chronological journal where a farmer writes daily entries about farm operations (e.g., dates of planting, fertilizer application, rainfall, or disease outbreaks).",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_044",
+    "category": "agriculture-science",
+    "question": "Which of the following crops requires a nursery stage where seedlings are closely cared for before being transplanted into the permanent field?",
+    "options": ["Tomato", "Maize", "Cassava", "Groundnut"],
+    "correctIndex": 0,
+    "explanation": "Tomatoes have small, delicate seeds that require optimal protection from pests and harsh weather in a nursery bed. Once they grow into strong seedlings, they are transplanted. Maize, cassava, and groundnuts are planted directly.",
+    "extraKokoFact": "Other crops that need a nursery include peppers, onions, oil palm, and cocoa."
+  },
+  {
+    "id": "agric_045",
+    "category": "agriculture-science",
+    "question": "What is the name of the farm tool with a heavy, double-sided head (one side pointed, the other a narrow chisel) used for breaking up hard, rocky soil or digging out old tree stumps?",
+    "options": ["Pick-axe", "Spade", "Shears", "Garden line"],
+    "correctIndex": 0,
+    "explanation": "A pick-axe is designed for heavy-duty earthwork. The pointed end easily breaks through concrete-hard soils, stones, and compacted gravel, while the flat blade slices through roots.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_046",
+    "category": "agriculture-science",
+    "question": "Which of the following farm animals is classified as an avian species?",
+    "options": ["Duck", "Rabbit", "Pig", "Sheep"],
+    "correctIndex": 0,
+    "explanation": "Avian refers to birds. Ducks are domestic waterfowl belonging to the poultry family, possessing feathers, wings, and beaks, which distinguish them from mammals like rabbits, pigs, and sheep.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_047",
+    "category": "agriculture-science",
+    "question": "The practice of cutting down only mature trees in a forest while leaving younger trees to grow and preserve the forest canopy is called:",
+    "options": ["Selective logging", "Clear-cutting", "Deforestation", "Bush burning"],
+    "correctIndex": 0,
+    "explanation": "Selective logging (or selective exploitation) is a sustainable forest management practice where only specific trees meeting certain age or size criteria are harvested, reducing environmental degradation.",
+    "extraKokoFact": "This practice allows the forest to naturally regenerate and protects endangered plants and animals."
+  },
+  {
+    "id": "agric_048",
+    "category": "agriculture-science",
+    "question": "Which of the following is a major source of vegetable oil commonly produced and consumed in Nigeria?",
+    "options": ["Oil palm", "Yam", "Sugarcane", "Ginger"],
+    "correctIndex": 0,
+    "explanation": "The oil palm tree (Elaeis guineensis) produces large bunches of red fruits from which palm oil (from the mesocarp) and palm kernel oil (from the seed) are extracted, serving as major cooking oils.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_049",
+    "category": "agriculture-science",
+    "question": "What type of farm tool is a 'wheelbarrow' classified as based on its operational function?",
+    "options": ["Lifting and transportation tool", "Digging tool", "Cutting tool", "Processing tool"],
+    "correctIndex": 0,
+    "explanation": "A wheelbarrow is a small, hand-propelled vehicle with one wheel, designed to carry, lift, and transport heavy loads like fertilizer, harvested crops, or soil across short distances on the farm.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_050",
+    "category": "agriculture-science",
+    "question": "The specific agricultural practice of planting seeds to replace those that failed to germinate on the farm is called:",
+    "options": ["Supplying", "Thinning", "Pruning", "Weeding"],
+    "correctIndex": 0,
+    "explanation": "Supplying (or filling blanks) is done a week or two after planting. The farmer inspects the rows and plants new seeds or seedlings in spots where the original seeds failed to sprout, ensuring a full plant population.",
+    "extraKokoFact": "Supplying ensures that no farm space or sunlight goes to waste, maximizing total yield at harvest time."
+  },
+  {
+    "id": "agric_051",
+    "category": "agriculture-science",
+    "question": "Which of the following is an example of a root and tuber crop?",
+    "options": ["Sweet potato", "Sorghum", "Cowpea", "Okra"],
+    "correctIndex": 0,
+    "explanation": "Sweet potato is a root tuber crop, storing its food reserves in swollen underground roots. Sorghum is a cereal, cowpea is a legume, and okra is a vegetable crop.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_052",
+    "category": "agriculture-science",
+    "question": "Which of the following is a harmful effect of weeds on a crop farm?",
+    "options": ["They compete with crops for nutrients, sunlight, and space", "They add beneficial vitamins directly into the crop roots", "They help the crop grow faster by providing shades", "They prevent insects from visiting the farm entirely"],
+    "correctIndex": 0,
+    "explanation": "Weeds are aggressive plants growing where they are not wanted. They compete intensely with primary crops for essential survival elements: soil nutrients, water, space, and sunlight, leading to stunted crop growth.",
+    "extraKokoFact": "Some weeds also act as secret hideouts or hosts for dangerous insect pests and plant viruses!"
+  },
+  {
+    "id": "agric_053",
+    "category": "agriculture-science",
+    "question": "The process of removing the fibrous husk and hard outer shell from a coconut or oil palm seed is known as:",
+    "options": ["Dehusking", "Shelling", "Milling", "Grateful"],
+    "correctIndex": 0,
+    "explanation": "Dehusking is the mechanical or manual removal of the outer fibrous layer (husk) from certain crops, such as coconuts or rice paddy grains, prior to further processing or consumption.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_054",
+    "category": "agriculture-science",
+    "question": "Which farm building or structure is specially designed with mesh or slats to store harvested maize cobs, allowing air to flow through and dry them out?",
+    "options": ["Maize crib", "Silo", "Warehouse", "Cold room"],
+    "correctIndex": 0,
+    "explanation": "A crib is a traditional or modernized farm storage structure with ventilated slatted walls that uses natural air currents to dry out and preserve harvested maize cobs while protecting them from rain and rodents.",
+    "extraKokoFact": "Cribs are usually raised high off the ground on wooden stilts fitted with metal rat-guards to stop rodents from climbing up."
+  },
+  {
+    "id": "agric_055",
+    "category": "agriculture-science",
+    "question": "What is the gestation period of a domestic sow (female pig)?",
+    "options": ["114 days (3 months, 3 weeks, 3 days)", "283 days", "150 days", "21 days"],
+    "correctIndex": 0,
+    "explanation": "The gestation period (pregnancy duration) of a sow is famous for being exactly 114 days, which is easy to remember as 3 months, 3 weeks, and 3 days.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_056",
+    "category": "agriculture-science",
+    "question": "Which water-dwelling farm organism is commonly cultivated in Nigerian commercial aquaculture ponds?",
+    "options": ["Catfish", "Tilapia", "Crab", "Oyster"],
+    "correctIndex": 0,
+    "explanation": "African Catfish (Clarias gariepinus) is the most widely farmed aquatic species in Nigeria due to its high market demand, rapid growth rate, and extreme tolerance to poor water quality conditions.",
+    "extraKokoFact": "Catfish can breathe atmospheric air directly using an accessory breathing organ, allowing them to survive out of water for short periods!"
+  },
+  {
+    "id": "agric_057",
+    "category": "agriculture-science",
+    "question": "Which farm tool has a long, sharp, curved blade attached to a handle, used specifically for harvesting tall cereal crops like rice or cutting forage grass?",
+    "options": ["Sickle", "Shears", "Secateur", "Mattock"],
+    "correctIndex": 0,
+    "explanation": "A sickle is a hand-held agricultural tool with a distinctively curved blade. It allows the farmer to hook a bundle of grain stems or grass together and cut them efficiently near the ground line.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_058",
+    "category": "agriculture-science",
+    "question": "The addition of lime (calcium carbonate) to a farm soil is primarily done to:",
+    "options": ["Reduce soil acidity (raise the pH level)", "Increase the sand content of clay soils", "Kill underground earthworms and microorganisms", "Prevent water from draining out of the soil"],
+    "correctIndex": 0,
+    "explanation": "Agricultural lime is basic. When added to highly acidic soils, it undergoes a chemical reaction that neutralizes the acid, bringing the soil pH closer to neutral, which optimizes nutrient availability for crops.",
+    "extraKokoFact": "Many tropical soils in high-rainfall regions of southern Nigeria become highly acidic over time due to heavy nutrient leaching."
+  },
+  {
+    "id": "agric_059",
+    "category": "agriculture-science",
+    "question": "Which of the following is a macro-nutrient required by farm crops in very large quantities for leafy green growth?",
+    "options": ["Nitrogen", "Zinc", "Copper", "Boron"],
+    "correctIndex": 0,
+    "explanation": "Nitrogen (N) is a primary macronutrient essential for plant cell division, chlorophyll formation, and rapid vegetative growth. Micronutrients like Zinc, Copper, and Boron are needed only in trace amounts.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_060",
+    "category": "agriculture-science",
+    "question": "The destructive agricultural practice of clearing a patch of forest, farming it until the soil loses fertility, and then moving to a new forest patch is called:",
+    "options": ["Shifting cultivation", "Continuous cropping", "Mixed farming", "Terracing"],
+    "correctIndex": 0,
+    "explanation": "Shifting cultivation is an old traditional farming system where land is abandoned after its nutrients are depleted, allowing it to return to natural bush fallow while the farmer moves to clear a fresh, fertile plot.",
+    "extraKokoFact": "While sustainable when human populations were low, shifting cultivation is now discouraged because it destroys natural forests rapidly."
+  },
+  {
+    "id": "agric_061",
+    "category": "agriculture-science",
+    "question": "Which type of farm animal is specialized for heavy physical labor, such as pulling heavy carts or drawing ploughs across fields?",
+    "options": ["Beast of burden", "Dairy animal", "Poultry bird", "Aquatic animal"],
+    "correctIndex": 0,
+    "explanation": "Beasts of burden are working animals trained to carry heavy loads or perform traction tasks. Examples include oxen, donkeys, horses, and camels, which are highly utilized in northern Nigerian agriculture.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_062",
+    "category": "agriculture-science",
+    "question": "Which specialized cutting tool is used by gardeners for delicate pruning operations, such as trimming thin twigs and harvesting flowers or small fruits?",
+    "options": ["Secateur", "Axe", "Sickle", "Mattock"],
+    "correctIndex": 0,
+    "explanation": "A secateur (or hand pruner) is a small, spring-loaded pair of scissors designed to make clean, precise cuts through thin woody plant stems without tearing the plant tissue.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_063",
+    "category": "agriculture-science",
+    "question": "Which of the following is a dangerous parasitic worm that lives in the intestines of farm animals like pigs and cattle, stealing nutrients and causing weight loss?",
+    "options": ["Tapeworm", "Earthworm", "Caterpillar", "Maggot"],
+    "correctIndex": 0,
+    "explanation": "Tapeworms are internal parasites (endoparasites) that anchor themselves inside the digestive tracts of livestock, absorbing digested nutrients directly through their skins, which weakens the host animal.",
+    "extraKokoFact": "Livestock get infected by swallowing tapeworm eggs while grazing on grass contaminated with infected fecal matter."
+  },
+  {
+    "id": "agric_064",
+    "category": "agriculture-science",
+    "question": "What is the term used to describe the total population of young birds hatched at the same time by a poultry hen?",
+    "options": ["Brood", "Flock", "Herd", "Litter"],
+    "correctIndex": 0,
+    "explanation": "A brood refers to a family of young birds or chicks hatched from a single clutch of eggs. A group of adult birds is called a flock, a group of pigs born together is a litter, and cattle form a herd.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_065",
+    "category": "agriculture-science",
+    "question": "Which method of fish preservation involves exposing fish to heat and chemical compounds from burning wood to reduce moisture and add flavor?",
+    "options": ["Smoking", "Salting", "Freezing", "Canning"],
+    "correctIndex": 0,
+    "explanation": "Smoking preserves fish by partially drying it out with heat, while the smoke chemicals (like phenols) act as natural preservatives and impart a distinct, highly desired smoky flavor popular in Nigerian dishes.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_066",
+    "category": "agriculture-science",
+    "question": "A soil sample that forms a long, shiny, sticky ribbon when rolled with water between the palms and retains its shape completely is high in:",
+    "options": ["Clay", "Sand", "Silt", "Gravel"],
+    "correctIndex": 0,
+    "explanation": "Clay soil consists of tiny, microscopic particles (less than 0.002mm) with high plasticity. When wet, clay particles stick tightly together, making the soil moldable, sticky, and highly water-retentive.",
+    "extraKokoFact": "Because clay particles compress tightly, clay soil easily becomes waterlogged and heavy to work with tools."
+  },
+  {
+    "id": "agric_067",
+    "category": "agriculture-science",
+    "question": "Which of the following farm records acts as a financial ledger that tracks all monetary income earned and cash expenditures spent by the farm business?",
+    "options": ["Cash book", "Farm inventory", "Labor record", "Production record"],
+    "correctIndex": 0,
+    "explanation": "A cash book is an essential financial accounting record used to log all cash receipts (money flowing into the farm) and cash payments (money flowing out), allowing the farmer to calculate net profit or loss.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_068",
+    "category": "agriculture-science",
+    "question": "The agricultural process of removing excess, closely packed seedlings from a stand to leave behind the strongest, well-spaced plants is called:",
+    "options": ["Thinning", "Supplying", "Pruning", "Staking"],
+    "correctIndex": 0,
+    "explanation": "Thinning is performed when too many seeds germinate in one spot. The farmer carefully pulls out weaker seedlings to prevent overcrowding, ensuring the remaining plants have adequate access to nutrients and light.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_069",
+    "category": "agriculture-science",
+    "question": "Which of the following crops is primarily grown to provide long, tough fibers used in making ropes, sacks, and mats?",
+    "options": ["Jute", "Rubber", "Cocoa", "Yam"],
+    "correctIndex": 0,
+    "explanation": "Jute, cotton, and sisal are fiber crops. Jute stems yield strong, durable fibers used worldwide to manufacture burlap sacks, industrial twine, ropes, and traditional floor mats.",
+    "extraKokoFact": "Burlap sacks made from jute are excellent for transporting cocoa beans because they let the beans breathe!"
+  },
+  {
+    "id": "agric_070",
+    "category": "agriculture-science",
+    "question": "What is the name of the management practice where a wooden or bamboo stick is placed next to a climbing crop like yam to support its heavy vines?",
+    "options": ["Staking", "Mulching", "Mounding", "Pruning"],
+    "correctIndex": 0,
+    "explanation": "Staking involves driving a strong stick into the ground next to vining plants (like yams or tomatoes) so the crop can climb up toward sunlight, keeping leaves and fruits off the damp ground where they might rot.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_071",
+    "category": "agriculture-science",
+    "question": "Which of the following farm animals produces milk that can be processed into a popular local cheese known as 'Wara' in Nigeria?",
+    "options": ["Cow", "Sow (Pig)", "Hen (Poultry)", "Ewe (Sheep)"],
+    "correctIndex": 0,
+    "explanation": "Fresh cow milk collected from cattle herds (often by Fulani pastoralists) is boiled and curdled using local plant extracts to make 'wara', a nutritious and widely consumed traditional cheese curd.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_072",
+    "category": "agriculture-science",
+    "question": "The chemical substance used to kill or repel destructive rodent pests like rats, mice, and grasscutters on the farm is called a/an:",
+    "options": ["Rodenticide", "Nematicide", "Acaricide", "Fungicide"],
+    "correctIndex": 0,
+    "explanation": "Rodenticides are specialized chemical poisons designed to eliminate harmful rodents that chew through structural storage facilities and destroy growing field crops or stored grains.",
+    "extraKokoFact": "Rodenticides must be handled with extreme care because they are highly toxic to humans and domestic farm animals too."
+  },
+  {
+    "id": "agric_073",
+    "category": "agriculture-science",
+    "question": "Which soil type has a mixture of sand, silt, and clay, and drains water at a moderate rate while retaining ample nutrients for optimal plant growth?",
+    "options": ["Loamy soil", "Sandy soil", "Clay soil", "Laterite soil"],
+    "correctIndex": 0,
+    "explanation": "Loamy soil is considered the gold standard for crop farming. Its balanced composition combines the drainage capabilities of sand with the nutritional and moisture retention qualities of clay and silt.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_074",
+    "category": "agriculture-science",
+    "question": "The branch of forestry that deals with the active establishment, growth, and structural conservation of forest trees for human utilization is known as:",
+    "options": ["Silviculture", "Olericulture", "Floriculture", "Pomology"],
+    "correctIndex": 0,
+    "explanation": "Silviculture is the specialized branch of forestry dealing with the cultivation, health, and management of forest trees to produce quality timber and preserve forest ecosystems.",
+    "extraKokoFact": "Olericulture is vegetable production, floriculture is flower farming, and pomology is the study of fruit cultivation!"
+  },
+  {
+    "id": "agric_075",
+    "category": "agriculture-science",
+    "question": "Which of the following is a stimulant beverage crop widely cultivated in southwestern Nigeria?",
+    "options": ["Cocoa", "Cassava", "Rice", "Groundnut"],
+    "correctIndex": 0,
+    "explanation": "Cocoa is a major economic beverage crop grown extensively in the tropical rain forest zones of southwestern Nigeria. Its processed seeds produce cocoa powder, chocolate, and beverages.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_076",
+    "category": "agriculture-science",
+    "question": "Which tool consists of a heavy metal blade attached to a handle at a right angle, used by African traditional farmers for breaking soil, making heaps, and weeding?",
+    "options": ["Hand hoe", "Cutlass", "Spade", "Garden rake"],
+    "correctIndex": 0,
+    "explanation": "The hand hoe is the primary digging and mounding tool across traditional African agriculture. Its blade is set at an angle to the handle, enabling the farmer to pull soil toward them to build seed beds or mounds.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_077",
+    "category": "agriculture-science",
+    "question": "What is the scientific term used to describe a disease-causing organism, such as a bacterium, virus, or fungus, that infects farm crops?",
+    "options": ["Pathogen", "Vector", "Predator", "Parasite"],
+    "correctIndex": 0,
+    "explanation": "A pathogen is any biological agent that induces disease or illness in a host organism. On farms, fungal, viral, and bacterial pathogens cause massive crop losses annually.",
+    "extraKokoFact": "Fungi are responsible for more than 70% of all major plant diseases on agricultural farms!"
+  },
+  {
+    "id": "agric_078",
+    "category": "agriculture-science",
+    "question": "Which of the following is an external parasite (ectoparasite) that attaches to the skin of cattle and sucks blood, transmitting dangerous tick-borne fever?",
+    "options": ["Tick", "Roundworm", "Liver fluke", "Tapeworm"],
+    "correctIndex": 0,
+    "explanation": "Ticks are blood-sucking ectoparasites that attach to the outer hide of cattle and sheep. They cause skin irritation, blood loss (anemia), and transmit dangerous pathogens like heartwater or babesiosis.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_079",
+    "category": "agriculture-science",
+    "question": "What is the primary purpose of a farm 'silo' structure?",
+    "options": ["Long-term airtight storage for large volumes of loose grains", "A housing shelter for keeping commercial broiler chickens", "An extraction tank used for processing palm oil fruits", "A nursery greenhouse for raising delicate vegetable seeds"],
+    "correctIndex": 0,
+    "explanation": "Silos are tall, cylindrical tower structures built of steel or concrete. They provide highly controlled, airtight environments for the bulk storage of dried grains like maize and wheat, safeguarding them from moisture and pests.",
+    "extraKokoFact": "Modern strategic grain reserves owned by governments use enormous battery networks of steel silos to ensure national food security."
+  },
+  {
+    "id": "agric_080",
+    "category": "agriculture-science",
+    "question": "The modern farming system where a farmer integrates both crop cultivation and livestock rearing together on the same farm unit is called:",
+    "options": ["Mixed farming", "Mono-cropping", "Mixed cropping", "Pastoral nomadism"],
+    "correctIndex": 0,
+    "explanation": "Mixed farming combines crops and animals on a single farm. The crops feed the animals, while the animal wastes provide organic fertilizer for the crops, creating an efficient, sustainable cycle.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_081",
+    "category": "agriculture-science",
+    "question": "Which of the following is a fruit vegetable crop?",
+    "options": ["Tomato", "Cabbage", "Lettuce", "Onion"],
+    "correctIndex": 0,
+    "explanation": "Tomatoes are classified botanically as fruit vegetables because the edible portion is the fleshy seed-bearing structure developed from a flower, even though it is prepared and consumed as a savory vegetable.",
+    "extraKokoFact": "Other common fruit vegetables include peppers, garden eggs, okras, and cucumbers."
+  },
+  {
+    "id": "agric_082",
+    "category": "agriculture-science",
+    "question": "What is the term for the process of separating grains (like rice or millet) from their inedible outer chaff by throwing them into the air and letting the wind blow the light husks away?",
+    "options": ["Winnowing", "Threshing", "Milling", "Shelling"],
+    "correctIndex": 0,
+    "explanation": "Winnowing is an ancient, effective agricultural method for separating heavy grain seeds from light outer chaff by utilizing air currents or natural wind to carry the lighter impurities away.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_083",
+    "category": "agriculture-science",
+    "question": "Which of the following is an example of a perennial crop that lives for many years, producing harvests season after season?",
+    "options": ["Rubber", "Maize", "Cowpea", "Yam"],
+    "correctIndex": 0,
+    "explanation": "Perennial crops have a life span exceeding two years. Rubber trees, cocoa, and oil palms live for decades, providing continuous yields, unlike annual crops (maize, cowpeas) which die after one season.",
+    "extraKokoFact": "A commercial rubber tree can be actively tapped for latex for up to 25 to 30 years!"
+  },
+  {
+    "id": "agric_084",
+    "category": "agriculture-science",
+    "question": "Which agricultural tool features a broad, flat metal blade attached straight down to a long handle, operated by pressing down with the foot to slice through soil or dig rectangular trenches?",
+    "options": ["Spade", "Hand hoe", "Pick-axe", "Sickle"],
+    "correctIndex": 0,
+    "explanation": "A spade is specialized for slicing, edge-cutting, and lifting rectangular chunks of earth. It has a flat blade that allows the farmer to use their body weight by stepping on the top edge to drive it into the ground.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_085",
+    "category": "agriculture-science",
+    "question": "What do we call an insect or animal that does not cause a crop disease itself, but carries and transmits a pathogen from an infected plant to a healthy one?",
+    "options": ["Vector", "Host", "Prey", "Parasite"],
+    "correctIndex": 0,
+    "explanation": "A vector is a carrier organism. For example, the whitefly is a vector that carries the Cassava Mosaic Virus from sick cassava plants and injects it into healthy plants during feeding.",
+    "extraKokoFact": "Controlling the insect vector is often the most effective way for a farmer to stop a virus from destroying an entire farm."
+  },
+  {
+    "id": "agric_086",
+    "category": "agriculture-science",
+    "question": "Which of the following farm animals is classified as a monogastric animal with a single simple stomach?",
+    "options": ["Rabbit", "Cow", "Sheep", "Goat"],
+    "correctIndex": 0,
+    "explanation": "Rabbits, pigs, and humans are monogastric or non-ruminant organisms possessing a single-compartment stomach, whereas cows, sheep, and goats possess complex four-chambered ruminant stomachs.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_087",
+    "category": "agriculture-science",
+    "question": "The intentional entry into a forest reserve to cut down trees or hunt animals illegally without official government permission is called:",
+    "options": ["Poaching and illegal logging", "Forest reservation", "Afforestation", "Taungya farming"],
+    "correctIndex": 0,
+    "explanation": "Poaching (illegal hunting) and illegal logging violate forestry conservation laws and threaten wildlife and premium timber reserves by bypassing sustainable management regulations.",
+    "extraKokoFact": "Forest guards are employed by governments to patrol reserves and arrest poachers and illegal loggers."
+  },
+  {
+    "id": "agric_088",
+    "category": "agriculture-science",
+    "question": "Which important mineral component makes up approximately 45 percent of a typical, healthy agricultural topsoil?",
+    "options": ["Inorganic mineral matter", "Organic matter", "Soil water", "Soil air"],
+    "correctIndex": 0,
+    "explanation": "Standard agricultural loam soil contains roughly 45% inorganic mineral matter (derived from weathered rocks), 5% organic matter, 25% soil water, and 25% soil air.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_089",
+    "category": "agriculture-science",
+    "question": "What is the primary purpose of a 'dipping tank' or 'spray race' structure on a livestock cattle ranch?",
+    "options": ["To apply liquid chemical acaricides to kill ticks and lice on animals", "To store clean drinking water for the cattle during droughts", "To wash the cattle before they are milked by dairy workers", "To force the cows to swim for physical muscle exercise"],
+    "correctIndex": 0,
+    "explanation": "Dipping tanks or spray races are biosecurity structures through which livestock walk or submerge to receive full body coatings of anti-parasitic chemicals, effectively destroying ticks, lice, and mites.",
+    "extraKokoFact": "Regular dipping is vital in tropical areas to prevent tick-borne cattle losses."
+  },
+  {
+    "id": "agric_090",
+    "category": "agriculture-science",
+    "question": "The process of removing the mature corn seeds from a dry harvested maize cob is known as:",
+    "options": ["Shelling", "Threshing", "Winnowing", "Milling"],
+    "correctIndex": 0,
+    "explanation": "Shelling is the specific term for detaching seeds from a solid core, such as stripping corn grains off a cob or opening groundnut pods to release the peanuts inside.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_091",
+    "category": "agriculture-science",
+    "question": "Which of the following is a common liquid product obtained from the rubber tree (Hevea brasiliensis) that is processed to make tires, boots, and elastics?",
+    "options": ["Latex", "Resin", "Gum Arabic", "Tannin"],
+    "correctIndex": 0,
+    "explanation": "Latex is a milky, sticky fluid tapped from the bark of the rubber tree. It undergoes chemical coagulation and processing to manufacture natural rubber products.",
+    "extraKokoFact": "Tapping rubber requires making precise diagonal cuts on the bark so that latex drips into small collecting cups without killing the tree."
+  },
+  {
+    "id": "agric_092",
+    "category": "agriculture-science",
+    "question": "Which tool consists of a three-pronged or four-pronged heavy iron fork attached to a long wooden handle, used for turning over manure and digging up root crops like yams?",
+    "options": ["Digging fork", "Garden rake", "Hand trowel", "Secateur"],
+    "correctIndex": 0,
+    "explanation": "A digging fork (or garden fork) is designed with thick, sturdy tines that can penetrate hard soils, lift heavy blocks of composted manure, or lift tubers out of the earth without slicing them in half like a spade would.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_093",
+    "category": "agriculture-science",
+    "question": "What type of crop is grown specifically to protect bare soil from water and wind erosion, usually planted between cropping seasons?",
+    "options": ["Cover crop", "Cash crop", "Fiber crop", "Beverage crop"],
+    "correctIndex": 0,
+    "explanation": "Cover crops (like sweet potato or low-growing legumes) grow fast and form a dense mat over bare soil. They absorb the impact of raindrops and bind soil particles with their roots, preventing erosion.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_094",
+    "category": "agriculture-science",
+    "question": "Which of the following is an internal organ parasite commonly found infecting the liver channels of sheep and cattle, causing a disease called liver rot?",
+    "options": ["Liver fluke", "Roundworm", "Tick", "Louse"],
+    "correctIndex": 0,
+    "explanation": "The liver fluke (Fasciola hepatica) is a flat, parasitic worm that migrates into the bile ducts and liver tissue of grazing ruminants, causing severe tissue damage, internal bleeding, and liver rot.",
+    "extraKokoFact": "The liver fluke relies on water snails as intermediate hosts to complete its complex biological life cycle!"
+  },
+  {
+    "id": "agric_095",
+    "category": "agriculture-science",
+    "question": "Which simple farm record keeps track of the number of workers employed, the hours they worked, and the specific daily wages paid to them?",
+    "options": ["Labor record", "Production record", "Farm diary", "Inventory record"],
+    "correctIndex": 0,
+    "explanation": "A labor record logs human resource data, ensuring the farm manager knows exactly how much manual labor was utilized for tasks like weeding or harvesting, and how much money was spent on wages.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_096",
+    "category": "agriculture-science",
+    "question": "The scientific system of cultivating forest trees alongside food crops together on the same piece of land is called:",
+    "options": ["Agro-forestry", "Monoculture", "Taungya system", "Shifting cultivation"],
+    "correctIndex": 0,
+    "explanation": "Agro-forestry combines agricultural crops and forestry trees on the same plot to maximize land productivity, protect biodiversity, and provide multiple income streams (food and timber) for the farmer.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_097",
+    "category": "agriculture-science",
+    "question": "Which fishing tool consists of a woven mesh fabric attached to heavy weights, thrown by hand into shallow water to trap schooling fish?",
+    "options": ["Cast net", "Fish trap", "Harpoon", "Hook and line"],
+    "correctIndex": 0,
+    "explanation": "A cast net (or throw net) is a circular net with weights along its edge. When cast by a fisherman, it spreads out on the water surface and sinks rapidly, trapping fish underneath.",
+    "extraKokoFact": "Using extremely tiny mesh sizes in nets is illegal in Nigeria because it traps baby fish, destroying future fish populations."
+  },
+  {
+    "id": "agric_098",
+    "category": "agriculture-science",
+    "question": "What is the primary function of the agricultural practice known as 'tillage'?",
+    "options": ["To prepare the soil bed to make it suitable for seed germination", "To apply liquid chemical weed killers across the farm rows", "To dry harvested crop grains under the direct heat of the sun", "To sort livestock animals into different pens based on their ages"],
+    "correctIndex": 0,
+    "explanation": "Tillage is the physical manipulation of soil (by digging, ploughing, or harrowing) to create a fine tilth, break up compaction, bury weeds, and make the soil perfectly loose and receptive for seed sowing.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_099",
+    "category": "agriculture-science",
+    "question": "Which of the following crops is categorized as an oil crop because its seeds or fruits yield premium commercial oils?",
+    "options": ["Groundnut", "Yam", "Cassava", "Millet"],
+    "correctIndex": 0,
+    "explanation": "Groundnut seeds contain high oil content (about 40-50%), which is commercially crushed and extracted to produce groundnut cooking oil. Yam and cassava provide starch, while millet is a cereal grain.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_100",
+    "category": "agriculture-science",
+    "question": "Which farm tool features long handles and two sharp overlapping blades, designed specifically for trimming ornamental hedges and cutting back overgrown pasture grass?",
+    "options": ["Garden shears", "Secateurs", "Hand trowel", "Mattock"],
+    "correctIndex": 0,
+    "explanation": "Garden shears resemble giant scissors and are operated with both hands to trim large sections of foliage, grass, or decorative hedges uniformly.",
+    "extraKokoFact": "Always wipe metal blades down with oil after use to prevent rust from forming!"
+  }
+]

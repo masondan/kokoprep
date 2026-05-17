@@ -1,0 +1,67 @@
+{
+  "name": "KokoPrep",
+  "short_name": "KokoPrep",
+  "description": "A revision buddy to help young stars sparkle in their Nigerian JSS Common Entrance examination.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#D946EF",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/logos/favicon-kokoprep.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/logos/logo-kokoprep-gen.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logos/logo-kokoprep-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/logos/logo-kokoprep-touch.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/logos/logo-kokoprep-gen.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/logos/logo-kokoprep-gen.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "shortcuts": [
+    {
+      "name": "Start Quiz",
+      "short_name": "Quiz",
+      "description": "Begin a new quiz session",
+      "url": "/?tab=0",
+      "icons": [
+        {
+          "src": "/logos/logo-kokoprep-gen.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}

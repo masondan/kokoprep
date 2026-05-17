@@ -1,0 +1,902 @@
+[
+  {
+    "id": "sstu_001",
+    "category": "social-studies",
+    "question": "What is described as the sum total way of life of a people?",
+    "options": ["Family", "Socialization", "Enculturation", "Culture"],
+    "correctIndex": 3,
+    "explanation": "Culture is the complete way of life of a group of people — including their language, food, clothing, traditions, values and beliefs.",
+    "extraKokoFact": "Nigeria has over 250 ethnic groups, each with their own culture! This makes Nigeria one of the most culturally diverse countries in the world."
+  },
+  {
+    "id": "sstu_002",
+    "category": "social-studies",
+    "question": "The major concern of Social Studies is to study:",
+    "options": ["Society", "Plants", "Man", "Animals"],
+    "correctIndex": 0,
+    "explanation": "Social Studies is primarily concerned with the study of society — how people live together, relate to each other, and organise themselves.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_003",
+    "category": "social-studies",
+    "question": "Children perform the following roles and responsibilities in the family EXCEPT:",
+    "options": ["Help in domestic chores", "Running errands for their parents", "Providing food for their parents", "Taking care of their young ones"],
+    "correctIndex": 2,
+    "explanation": "Providing food for parents is not the responsibility of children in the family — that is the role of the parents. Children help with chores, run errands, and help with younger siblings.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_004",
+    "category": "social-studies",
+    "question": "The family is an example of a _______ social group.",
+    "options": ["Secondary", "Tertiary", "Informal", "Primary"],
+    "correctIndex": 3,
+    "explanation": "The family is a primary social group — it is the first group a person belongs to, and relationships within it are close and personal.",
+    "extraKokoFact": "A secondary group is a larger, less personal group like a school or workplace."
+  },
+  {
+    "id": "sstu_005",
+    "category": "social-studies",
+    "question": "The components of culture are grouped as _________ and _________.",
+    "options": ["Man and Woman", "Material and Food", "Material and Non-material", "Man and Food"],
+    "correctIndex": 2,
+    "explanation": "Culture is divided into material culture (physical objects like tools, clothing, buildings) and non-material culture (ideas, beliefs, language, values).",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_006",
+    "category": "social-studies",
+    "question": "The working together of people to achieve collective goals is known as:",
+    "options": ["Values", "Honesty", "Cooperation", "Self-reliance"],
+    "correctIndex": 2,
+    "explanation": "Cooperation is the act of working together towards a shared goal. It is a key civic value and makes communities stronger.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_007",
+    "category": "social-studies",
+    "question": "A group of people who are related by blood or adoption is called:",
+    "options": ["Community", "Primary social group", "Family", "Parents"],
+    "correctIndex": 2,
+    "explanation": "A family is a group connected by blood (biological relatives) or by adoption. It is the basic unit of society.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_008",
+    "category": "social-studies",
+    "question": "Which of the following is NOT a natural resource?",
+    "options": ["Water", "Forests", "Livestock", "Cars"],
+    "correctIndex": 3,
+    "explanation": "Cars are manufactured by humans — they are not natural resources. Water, forests and livestock exist in nature.",
+    "extraKokoFact": "Nigeria's most important natural resource is crude oil, but it also has natural gas, solid minerals, and fertile farmland."
+  },
+  {
+    "id": "sstu_009",
+    "category": "social-studies",
+    "question": "Which of the following is NOT part of the material components of culture?",
+    "options": ["Language", "Dressing", "Baskets", "Food"],
+    "correctIndex": 0,
+    "explanation": "Language is a non-material component of culture — you cannot touch or hold it. Dressing, baskets and food are all physical, material things.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_010",
+    "category": "social-studies",
+    "question": "The following are common agents of socialisation EXCEPT:",
+    "options": ["Peer group", "Family", "Animals", "Mass media"],
+    "correctIndex": 2,
+    "explanation": "Agents of socialisation are groups or institutions that teach us how to behave in society. Animals do not do this. Family, peers and mass media all shape our behaviour.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_011",
+    "category": "social-studies",
+    "question": "Nigeria gained independence in which year?",
+    "options": ["1957", "1960", "1963", "1966"],
+    "correctIndex": 1,
+    "explanation": "Nigeria gained independence from Britain on 1st October 1960. This date is celebrated every year as Nigeria's Independence Day.",
+    "extraKokoFact": "Nigeria became a Republic in 1963, which means the head of state changed from the British Queen to a Nigerian President."
+  },
+  {
+    "id": "sstu_012",
+    "category": "social-studies",
+    "question": "What is the name of Nigeria's highest law-making body?",
+    "options": ["National Assembly", "Federal Executive Council", "Supreme Court", "State House of Assembly"],
+    "correctIndex": 0,
+    "explanation": "The National Assembly is Nigeria's highest federal law-making branch (legislature). It is composed of two chambers: the Senate and the House of Representatives.",
+    "extraKokoFact": "The National Assembly complex is located in the Three Arms Zone of the Federal Capital Territory, Abuja."
+  },
+  {
+    "id": "sstu_013",
+    "category": "social-studies",
+    "question": "Which of the following is an example of a push factor in migration?",
+    "options": ["Lack of jobs", "Better educational opportunities", "Good health facilities", "Favourable climate"],
+    "correctIndex": 0,
+    "explanation": "Push factors are negative situations or conditions that force people to leave their original homes, such as a severe shortage of jobs, famine, conflicts, or poverty.",
+    "extraKokoFact": "Rural-to-urban migration is highly common in Nigeria as many citizens leave agrarian villages for larger commercial hubs like Lagos and Port Harcourt."
+  },
+  {
+    "id": "sstu_014",
+    "category": "social-studies",
+    "question": "What is the term for the process by which a child learns the norms of their society?",
+    "options": ["Socialisation", "Migration", "Urbanisation", "Industrialisation"],
+    "correctIndex": 0,
+    "explanation": "Socialisation is the lifelong process through which individuals absorb values, cultures, regulations, and acceptable behaviors of their native community.",
+    "extraKokoFact": "The family setup serves as the primary and most vital agent of socialisation for every growing child."
+  },
+  {
+    "id": "sstu_015",
+    "category": "social-studies",
+    "question": "Which of the following best describes a nuclear family?",
+    "options": ["Parents and their children", "Grandparents, parents, and children", "Uncles, aunts, and cousins", "A large community of relatives"],
+    "correctIndex": 0,
+    "explanation": "A nuclear family consists strictly of a father, mother, and their biological or legally adopted children living together.",
+    "extraKokoFact": "In contrast to Western societies, the extended family network remains a vital safety net and social structure across Nigeria."
+  },
+  {
+    "id": "sstu_016",
+    "category": "social-studies",
+    "question": "Which of the following is NOT a responsibility of parents in a family?",
+    "options": ["Provision of quality education", "Provision of food and shelter", "Inculcating good moral values", "Forcing children to choose specific careers"],
+    "correctIndex": 3,
+    "explanation": "While parents must guide and educate their children, forcing them into career paths like Law or Medicine against their will is not an appropriate parental role. Proper roles include feeding, clothing, housing, and character building.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_017",
+    "category": "social-studies",
+    "question": "What is the name of the family type that includes parents, children, grandparents, uncles, and aunts living together?",
+    "options": ["Extended family", "Nuclear family", "Single-parent family", "Foster family"],
+    "correctIndex": 0,
+    "explanation": "An extended family spans beyond immediate nuclear components to encompass grandparents, aunts, uncles, cousins, and other blood relations.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_018",
+    "category": "social-studies",
+    "question": "What are the two main components that make up our physical environment?",
+    "options": ["Natural and man-made features", "Social and cultural groups", "Primary and secondary groups", "Religious and economic institutions"],
+    "correctIndex": 0,
+    "explanation": "The physical environment contains natural features created by God (like hills, oceans, and weather patterns) and man-made features built by humans (like houses and highways).",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_019",
+    "category": "social-studies",
+    "question": "Which of the following is an example of a man-made feature in our physical environment?",
+    "options": ["River Niger", "Zuma Rock", "Kainji Dam", "Idanre Hills"],
+    "correctIndex": 2,
+    "explanation": "Kainji Dam was structurally built by engineers to generate electrical power, making it a man-made feature. River Niger, Zuma Rock, and Idanre Hills are natural geographic formations.",
+    "extraKokoFact": "Kainji Dam is situated across the River Niger in Niger State and provides a massive portion of Nigeria's electricity."
+  },
+  {
+    "id": "sstu_020",
+    "category": "social-studies",
+    "question": "Which of the following best defines the term 'social environment'?",
+    "options": ["The physical buildings around us", "The interaction between man and other people in society", "The weather and climate conditions", "The plants and animals in a forest"],
+    "correctIndex": 1,
+    "explanation": "The social environment centers on human relationships, community networks, and institutional frameworks like schools, churches, mosques, and administrative clubs.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_021",
+    "category": "social-studies",
+    "question": "Which of the following is considered an agent of secondary socialisation?",
+    "options": ["The family", "The school", "The mother", "The father"],
+    "correctIndex": 1,
+    "explanation": "The family serves as the exclusive bedrock of primary socialisation. Secondary socialisation occurs outside the home, principally led by schools, religious bodies, and mass media.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_022",
+    "category": "social-studies",
+    "question": "What is a major benefit of living in a peaceful and harmonious social environment?",
+    "options": ["Frequent conflicts and arguments", "Rapid community development", "Increase in criminal activities", "Lack of social interaction"],
+    "correctIndex": 1,
+    "explanation": "Peaceful co-existence eliminates panic and fosters mutual support, which naturally invites commercial investments and rapid regional infrastructure growth.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_023",
+    "category": "social-studies",
+    "question": "What term is used to describe the transmission of cultural practices from one generation to another?",
+    "options": ["Cultural adaptation", "Cultural lag", "Cultural preservation", "Cultural conflict"],
+    "correctIndex": 2,
+    "explanation": "Cultural preservation involves documenting, teaching, and passing down specific languages, morals, culinary habits, and arts so they do not grow obsolete.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_024",
+    "category": "social-studies",
+    "question": "Which Nigerian ethnic group is traditionally known for wearing the 'Agbada' and 'Fila' clothing?",
+    "options": ["Hausa", "Igbo", "Yoruba", "Ijaw"],
+    "correctIndex": 2,
+    "explanation": "Yoruba men of South-Western Nigeria traditionally step out in 'Agbada' (a wide-sleeved flowing gown) complemented beautifully by a 'Fila' (cap).",
+    "extraKokoFact": "Yoruba women commonly rock a matching assemble of Buba (blouse), Iro (wrapper), Gele (headtie), and Ipele (shoulder sash)."
+  },
+  {
+    "id": "sstu_025",
+    "category": "social-studies",
+    "question": "The traditional attire consisting of a 'Baban riga' and 'Fula' is commonly associated with which group?",
+    "options": ["Buba and Iro", "Baban riga and Fula", "Isiagu and George", "Etibo and Woko"],
+    "correctIndex": 1,
+    "explanation": "Hausa and Fulani men traditionally appear in a large flowing robe termed 'Baban riga' worn over long trousers and topped with a 'Fula' cap.",
+    "extraKokoFact": "Hausa ladies wear highly decorative colorful wrappers called 'Zani' along with matching head scarves."
+  },
+  {
+    "id": "sstu_026",
+    "category": "social-studies",
+    "question": "Which ethnic group is traditionally known for wearing the 'Isiagu' shirt with a red cap?",
+    "options": ["Yoruba", "Efik", "Igbo", "Tiv"],
+    "correctIndex": 2,
+    "explanation": "Igbo men and titled chiefs traditionally wear the 'Isiagu' fabric shirt (which displays distinct patterned lion heads) alongside a symbolic red or black cap.",
+    "extraKokoFact": "The traditional red cap among the Igbo is a deep symbol of high status, leadership honor, and structural responsibility."
+  },
+  {
+    "id": "sstu_027",
+    "category": "social-studies",
+    "question": "Which of the following is an example of a non-renewable natural resource?",
+    "options": ["Water", "Crude oil", "Forest", "Solar energy"],
+    "correctIndex": 1,
+    "explanation": "Non-renewable resources like crude oil, coal, and natural gas take millions of years to form underground. Once extracted and completely consumed, they cannot be instantly replenished.",
+    "extraKokoFact": "Nigeria stands as Africa's largest producer of petroleum, heavily concentrated in the Niger Delta basin."
+  },
+  {
+    "id": "sstu_028",
+    "category": "social-studies",
+    "question": "What is the term for the movement of people from rural villages to urban cities?",
+    "options": ["Emigration", "Rural-urban migration", "Immigration", "Urban-rural migration"],
+    "correctIndex": 1,
+    "explanation": "Rural-urban migration represents internal domestic relocation where villagers move into big urban setups searching for white-collar work and better amenities.",
+    "extraKokoFact": "Lagos remains one of the world's fastest-expanding mega-cities due to massive rural-urban influxes daily."
+  },
+  {
+    "id": "sstu_029",
+    "category": "social-studies",
+    "question": "Which of the following acts as a major pull factor for people migrating into modern cities?",
+    "options": ["Flooding and natural disasters", "Availability of modern social amenities", "Lack of schools in villages", "Community conflicts"],
+    "correctIndex": 1,
+    "explanation": "Pull factors are positive incentives that attract migrants to a new place. Examples include functional electric grids, pipe-borne water, tarred roads, and modern hospitals.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_030",
+    "category": "social-studies",
+    "question": "What is the term for a marriage arrangement where a man marries more than one wife at the same time?",
+    "options": ["Monogamy", "Polygamy", "Polyandry", "Foster marriage"],
+    "correctIndex": 1,
+    "explanation": "Polygamy describes a multi-spouse marriage structure. A man taking several wives is polygyny, which falls directly under the broad umbrella of polygamy.",
+    "extraKokoFact": "Monogamy is the practice of marrying only one partner at a time, which is legally bounded in registry marriages."
+  },
+  {
+    "id": "sstu_031",
+    "category": "social-studies",
+    "question": "What name is given to a marriage contracted according to the native laws and customs of an ethnic group?",
+    "options": ["Christian marriage", "Islamic marriage", "Traditional marriage", "Court marriage"],
+    "correctIndex": 2,
+    "explanation": "Traditional or customary marriage is conducted according to the long-standing unwritten custom laws and structural rites of the bride's native ethnic background.",
+    "extraKokoFact": "Traditional marriage ceremonies often involve complex formal procedures like paying a bride price and fulfilling a traditional bridal list."
+  },
+  {
+    "id": "sstu_032",
+    "category": "social-studies",
+    "question": "Which of the following is an example of an informal social group?",
+    "options": ["A registered political party", "A primary school class", "A group of friends playing together", "The Nigerian Police Force"],
+    "correctIndex": 2,
+    "explanation": "Informal social groups do not hold structured written laws, official government registration, or tight administrative hierarchies. A casual neighborhood playground friend group fits this perfectly.",
+    "extraKokoFact": "Formal groups operate with fixed written constitutions, strictly specified positions, and legal recognition."
+  },
+  {
+    "id": "sstu_033",
+    "category": "social-studies",
+    "question": "What is the primary purpose of communication in human society?",
+    "options": ["Create confusion among citizens", "Exchange information and ideas", "Earn lots of money quickly", "Build high-speed roads"],
+    "correctIndex": 1,
+    "explanation": "Communication is primarily meant to successfully transmit or exchange information, ideas, messages, warnings, and thoughts between individuals or organizations.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_034",
+    "category": "social-studies",
+    "question": "Which of the following represents a traditional method of communication in Nigeria?",
+    "options": ["Electronic mail (e-mail)", "Town crier with a wooden gong", "Mobile telephone call", "Television broadcast"],
+    "correctIndex": 1,
+    "explanation": "Before telecommunication arose, traditional African villages relied heavily on a town crier who beat a wooden or metal gong to assemble villagers for royal addresses.",
+    "extraKokoFact": "Other classic methods include the talking drum, which mimics human speech tones to deliver news across distances."
+  },
+  {
+    "id": "sstu_035",
+    "category": "social-studies",
+    "question": "Which of the following is a modern tool used for mass communication?",
+    "options": ["A letter delivered by hand", "A talking drum", "A radio broadcast", "Whistling"],
+    "correctIndex": 2,
+    "explanation": "Mass communication targets an enormously large, highly dispersed audience simultaneously. Radio, television networks, and widespread newspapers serve as excellent modern channels.",
+    "extraKokoFact": "Radio is highly useful for rural information campaigns in Nigeria because it can broadcast directly in local dialects."
+  },
+  {
+    "id": "sstu_036",
+    "category": "social-studies",
+    "question": "What term describes the excessive and uncontrolled intake of chemical substances without a medical prescription?",
+    "options": ["Drug abuse", "Drug prescription", "Balanced diet", "Self-medication"],
+    "correctIndex": 0,
+    "explanation": "Drug abuse involves regular consumption of illicit substances, or utilizing legal medicines outside explicit medical instructions, leading to bodily or psychiatric harm.",
+    "extraKokoFact": "The National Drug Law Enforcement Agency (NDLEA) is the official body targeted at checking illicit drug operations in Nigeria."
+  },
+  {
+    "id": "sstu_037",
+    "category": "social-studies",
+    "question": "Which of the following is a dangerous social consequence of drug abuse among youths?",
+    "options": ["Improved academic performance", "Increase in criminal behavior", "Better relationship with parents", "Good physical health"],
+    "correctIndex": 1,
+    "explanation": "Drug abuse hampers clear mental judgment, often dragging vulnerable youth into criminal behaviors such as violent cultism, armed theft, and public vandalism.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_038",
+    "category": "social-studies",
+    "question": "Which government agency is primarily responsible for fighting drug trafficking and drug abuse in Nigeria?",
+    "options": ["To manufacture safe medicines", "To arrest and prosecute drug traffickers", "To build schools and hospitals", "To control traffic on federal highways"],
+    "correctIndex": 1,
+    "explanation": "The NDLEA is specifically mandated by law to intercept, investigate, arrest, and prosecute individuals involved in industrial drug processing, trafficking, or narcotic distribution.",
+    "extraKokoFact": "NDLEA was historically set up via Decree No. 48 of 1989 to address the swelling global narcotic drug trade."
+  },
+  {
+    "id": "sstu_039",
+    "category": "social-studies",
+    "question": "What term describes a state of total lawlessness and disorder due to the absence of government authority?",
+    "options": ["Democracy", "Anarchy", "Monarchy", "Oligarchy"],
+    "correctIndex": 1,
+    "explanation": "Anarchy indicates a dangerous situation in a territory where all governmental structures have cracked or vanished, leaving zero law enforcement or legal stability.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_040",
+    "category": "social-studies",
+    "question": "Which of the following positive values helps to encourage group cooperation in a community?",
+    "options": ["Selfishness", "Tolerance", "Arrogance", "Greed"],
+    "correctIndex": 1,
+    "explanation": "Tolerance enables citizens to accommodate diverse views, ethnic origins, and habits calmly, creating a sound ground for shared workspace cooperation.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_041",
+    "category": "social-studies",
+    "question": "What is the term for the moral quality of being truthful, reliable, and fair in all actions?",
+    "options": ["Honesty", "Courage", "Self-reliance", "Cooperation"],
+    "correctIndex": 0,
+    "explanation": "Honesty requires acting truthfully, avoiding fraud or deceit, and refraining from stealing items. It serves as an unshakeable foundation for civic confidence.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_042",
+    "category": "social-studies",
+    "question": "A person who relies on their own skills and hard work to achieve success is demonstrating which value?",
+    "options": ["Dependence", "Self-reliance", "Nepotism", "Stubbornness"],
+    "correctIndex": 1,
+    "explanation": "Self-reliance means harnessing your unique vocational training, mental skills, and personal effort to build economic survival without constantly counting on external handouts.",
+    "extraKokoFact": "Vocational subjects in technical colleges prepare students to become fully self-reliant entrepreneurs after graduation."
+  },
+  {
+    "id": "sstu_043",
+    "category": "social-studies",
+    "question": "Which of the following is a direct consequence of dishonesty in a school environment?",
+    "options": ["Winning a scholarship", "Loss of trust and suspension", "Being elected as the head prefect", "Praise from the school principal"],
+    "correctIndex": 1,
+    "explanation": "Dishonest traits like academic examination malpractice or theft trigger severe administrative penalties, complete forfeiture of respect, and suspension.",
+    "extraKokoFact": "Exam cheating is a terrible felony that completely devalues educational standard values."
+  },
+  {
+    "id": "sstu_044",
+    "category": "social-studies",
+    "question": "Who holds the primary authority and responsibility for care within a family social group?",
+    "options": ["School Headmaster", "Local Government Chairman", "Parents", "Police Officer"],
+    "correctIndex": 2,
+    "explanation": "Within the immediate family circle, the parents retain the legal, moral, and economic obligation to guide, nourish, feed, and safeguard the younger children.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_045",
+    "category": "social-studies",
+    "question": "Which of the following is an effective way to preserve our cultural heritage in Nigeria?",
+    "options": ["Forgetting our indigenous languages", "Organising cultural festivals and exhibitions", "Banning traditional music and dances", "Adopting only foreign values"],
+    "correctIndex": 1,
+    "explanation": "Public staging of native heritage festivals allows generations to view historical crafts, traditional attire, and folk art actively, maintaining interest in our roots.",
+    "extraKokoFact": "The famous annual Argungu Fishing Festival in Kebbi State attracts global travelers to witness indigenous water competitions."
+  },
+  {
+    "id": "sstu_046",
+    "category": "social-studies",
+    "question": "How can cultism be best defined in the context of social problems?",
+    "options": ["A study group", "A secret society with hidden, dangerous activities", "A football supporters club", "A voluntary charity organisation"],
+    "correctIndex": 1,
+    "explanation": "Cultism means joining a closed clandestine group whose initiation patterns, oaths, and goals are strictly masked from the public, routinely involving physical weapons or illegal activities.",
+    "extraKokoFact": "Cultism is fully criminalized in Nigeria, carrying heavy prison sentences for convicted student members."
+  },
+  {
+    "id": "sstu_047",
+    "category": "social-studies",
+    "question": "Which of the following is a frequent cause of conflict within a family or a community?",
+    "options": ["Effective and open communication", "Fairness and equal treatment", "Selfishness and lack of respect", "Cooperation and unity"],
+    "correctIndex": 2,
+    "explanation": "When individuals display plain selfishness, ignore rules, or treat community leaders with zero respect, friction naturally develops into serious communal disputes.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_048",
+    "category": "social-studies",
+    "question": "What is the most effective and safe method to resolve an ongoing conflict between two groups?",
+    "options": ["Dialogue and peaceful negotiation", "Engaging in physical warfare", "Ignoring each other forever", "Involving armed street gangs"],
+    "correctIndex": 0,
+    "explanation": "Dialogue allows aggrieved parties to sit side-by-side, voice standard frustrations, and forge a safe compromise without slipping into risky physical fights.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_049",
+    "category": "social-studies",
+    "question": "Which of the following is an example of an economic institution in society?",
+    "options": ["The Church", "The Court of Law", "A Commercial Bank", "The Marriage Registry"],
+    "correctIndex": 2,
+    "explanation": "Economic institutions manage wealth cycles, fiscal trade, commercial distribution, and consumption. Typical structures include marketplaces and commercial banks.",
+    "extraKokoFact": "The Central Bank of Nigeria (CBN) functions as the central regulator of all internal commercial banking systems."
+  },
+  {
+    "id": "sstu_050",
+    "category": "social-studies",
+    "question": "How can citizens actively protect the physical environment from degradation?",
+    "options": ["Indiscriminate dumping of refuse", "Deforestation and tree cutting", "Afforestation and proper waste disposal", "Gas flaring in residential areas"],
+    "correctIndex": 2,
+    "explanation": "Afforestation (systematic planting of fresh tree saplings) mixed with proper disposal of household garbage keeps soil surfaces shielded from toxic erosion and general decay.",
+    "extraKokoFact": "World Environment Day is marked globally to alert communities on eco-friendly habits."
+  },
+  {
+    "id": "sstu_051",
+    "category": "social-studies",
+    "question": "Which of the following is considered a core component of non-material culture?",
+    "options": ["Traditional clothes", "Folklore and moral values", "Cooking utensils", "Royal palaces"],
+    "correctIndex": 1,
+    "explanation": "Non-material culture represents intangible abstractions that cannot be handled physically, such as social taboos, moral philosophies, language dialects, and community folklores.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_052",
+    "category": "social-studies",
+    "question": "What major feature distinguishes a formal social group from an informal social group?",
+    "options": ["The members look exactly alike", "The group meets only at night", "The presence of written rules and constitution", "The group has no definite goals"],
+    "correctIndex": 2,
+    "explanation": "Formal groups always coordinate duties using tight, officially documented legislation, strict legal clauses, or written organizational constitutions.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_053",
+    "category": "social-studies",
+    "question": "How does the study of Social Studies primarily benefit a junior secondary school student?",
+    "options": ["Become an internet scammer", "Understand how man interacts with his environment", "Isolate themselves from contact", "Learn how to manufacture firearms"],
+    "correctIndex": 1,
+    "explanation": "Social Studies exposes students to how humans connect, adapt, adjust, and successfully trade with their encompassing physical, psychological, and civic environments.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_054",
+    "category": "social-studies",
+    "question": "What type of environment includes physical structures like roads, railways, and electrical grids?",
+    "options": ["Natural environment", "Man-made physical environment", "Social environment", "Atmospheric environment"],
+    "correctIndex": 1,
+    "explanation": "Rail tracks, street pavements, overhead wiring systems, and tarmac fields are explicitly erected by human labor, categorized as the man-made physical environment.",
+    "extraKokoFact": "Expanding robust infrastructure is the chief pathway to lifting trade standards inside developing economies."
+  },
+  {
+    "id": "sstu_055",
+    "category": "social-studies",
+    "question": "Which of the following is a negative effect of severe flooding on the human environment?",
+    "options": ["Increase in farm harvest", "Destruction of houses and roads", "Purification of drinking water", "Growth of beautiful desert plants"],
+    "correctIndex": 1,
+    "explanation": "Uncontrolled flooding strips topsoil, snaps communication masts, ruins highway pavement foundations, and sweeps structures away, triggering massive domestic displacement.",
+    "extraKokoFact": "Dumping household plastic waste straight into open street drainage gutters is a principal cause of urban blockages and floods in Lagos."
+  },
+  {
+    "id": "sstu_056",
+    "category": "social-studies",
+    "question": "What is the term for the continuous cutting down of forest trees without replanting them?",
+    "options": ["Afforestation", "Reforestation", "Deforestation", "Pesticide application"],
+    "correctIndex": 2,
+    "explanation": "Deforestation means cutting woodland trees excessively without introducing fresh saplings, which leaves topsoil naked to devastating rain wind erosion.",
+    "extraKokoFact": "Deforestation worsens heat patterns because standing trees are natural collectors of greenhouse carbon gases."
+  },
+  {
+    "id": "sstu_057",
+    "category": "social-studies",
+    "question": "Which arm of government is responsible for interpreting laws and administering justice?",
+    "options": ["The Executive", "The Legislature", "The Judiciary", "The Civil Service"],
+    "correctIndex": 2,
+    "explanation": "The Judiciary arm comprises magistrate chambers, high courts, and legal judges. They explain legal text definitions and mete penalties out to proven offenders.",
+    "extraKokoFact": "The Chief Justice of Nigeria sits as the administrative apex leader of the Federal Judicial branch."
+  },
+  {
+    "id": "sstu_058",
+    "category": "social-studies",
+    "question": "At the federal level in Nigeria, the executive arm of government is headed by whom?",
+    "options": ["Senate President", "President of Nigeria", "Chief Justice of Nigeria", "Speaker of the House"],
+    "correctIndex": 1,
+    "explanation": "The Executive arm, which implements national budget targets and applies law parameters, is commanded federally by the President of Nigeria.",
+    "extraKokoFact": "At the provincial state tier, the Executive authority is directed by the executive State Governor."
+  },
+  {
+    "id": "sstu_059",
+    "category": "social-studies",
+    "question": "What is the major long-term objective of promoting civic values like cooperation and honesty?",
+    "options": ["National unity and progress", "Political election rigging", "Ethnic division and violence", "Personal wealth accumulation"],
+    "correctIndex": 0,
+    "explanation": "When an entire country treats honesty, integrity, and mutual group cooperation as essential guidelines, community crime rates drop, driving national progress.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_060",
+    "category": "social-studies",
+    "question": "Which of the following is an example of a secondary social group?",
+    "options": ["A nuclear family", "The staff of a corporate bank", "A mother and her newborn child", "An extended family network"],
+    "correctIndex": 1,
+    "explanation": "A corporate bank staff represents a secondary group because connections are strictly formal, temporary, and oriented around commercial metrics rather than blood relationships.",
+    "extraKokoFact": "Secondary social circles are usually vastly larger and far less emotionally attached than primary family circles."
+  },
+  {
+    "id": "sstu_061",
+    "category": "social-studies",
+    "question": "What term describes the process through which an individual learns and adopts a foreign culture?",
+    "options": ["Socialisation", "Acculturation", "Rebellion", "Isolation"],
+    "correctIndex": 1,
+    "explanation": "Acculturation happens when a person or community merges with or gradually internalizes the foreign values, language nuances, and habits of an external incoming culture.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_062",
+    "category": "social-studies",
+    "question": "Which of the following is a significant risk or problem associated with modern electronic communication?",
+    "options": ["Very slow delivery times", "Cyberbullying and internet scams", "Complete lack of visual images", "Inability to send long text files"],
+    "correctIndex": 1,
+    "explanation": "Digital communication networks expose children to potential cyberbullying, identity theft traps, online misinformation, and illegal internet scam activities.",
+    "extraKokoFact": "The Economic and Financial Crimes Commission (EFCC) actively tracks down and convicts digital web fraud syndicates across Nigeria."
+  },
+  {
+    "id": "sstu_063",
+    "category": "social-studies",
+    "question": "Which transport system is most suitable for moving massive quantities of heavy cargo over long land distances?",
+    "options": ["Air transport", "Road transport", "Railway transport", "Pipeline transport"],
+    "correctIndex": 2,
+    "explanation": "Rail tracks are engineered specifically to haul bulky, industrial-weight goods, raw mineral logs, and agricultural harvests across continents affordably.",
+    "extraKokoFact": "The Nigerian Railway Corporation (NRC) coordinates expanding modern train links connecting Lagos harbor hubs inland to Ibadan."
+  },
+  {
+    "id": "sstu_064",
+    "category": "social-studies",
+    "question": "Pipeline transportation is specifically designed to move which of the following resources?",
+    "options": ["Food items and clothing", "Crude oil, petroleum, and gas", "Passengers and livestock", "Heavy motor vehicles"],
+    "correctIndex": 1,
+    "explanation": "Pipelines are tubular underground conduits optimized exclusively to pump liquids, gas distillates, and crude petroleum smoothly across regional collection depots.",
+    "extraKokoFact": "Illegal oil pipeline bunkering and vandalism in the Niger Delta leak heavy chemicals, destroying local aquatic farming terrains."
+  },
+  {
+    "id": "sstu_065",
+    "category": "social-studies",
+    "question": "Which of the following is a major advantage of utilizing air transportation?",
+    "options": ["It is the cheapest mode available", "It is unaffected by bad weather", "It is the fastest mode of travel", "It is excellent for local market women"],
+    "correctIndex": 2,
+    "explanation": "Air travel through cargo and passenger airplanes provides unparalleled transit velocity over planetary boundaries, though it demands higher costs.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_066",
+    "category": "social-studies",
+    "question": "What is a prominent disadvantage or challenge faced by road transportation in Nigeria?",
+    "options": ["It cannot deliver goods from door to door", "High occurrence of traffic gridlocks and potholes", "It is slower than water transportation", "It requires specialized tracking satellites"],
+    "correctIndex": 1,
+    "explanation": "Roadways suffer heavily from expanding asphalt crater potholes, seasonal erosion breaks, lack of highway maintenance, and persistent urban traffic gridlocks.",
+    "extraKokoFact": "Heavy highway vehicle traffic stalls in metropolitan Lagos are commonly labeled 'go-slow' by residents."
+  },
+  {
+    "id": "sstu_067",
+    "category": "social-studies",
+    "question": "What type of family is formed when one parent raises the children alone due to death or divorce?",
+    "options": ["Extended family", "Nuclear family", "Single-parent family", "Polyandrous family"],
+    "correctIndex": 2,
+    "explanation": "A single-parent home configuration exists when an isolated maternal or paternal figure takes exclusive custody of the growing offspring due to domestic separation or death.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_068",
+    "category": "social-studies",
+    "question": "What term describes treating someone with honor, care, and consideration because of their age or position?",
+    "options": ["Respect", "Nepotism", "Cooperation", "Arrogance"],
+    "correctIndex": 0,
+    "explanation": "Respect is a core social virtue. It involves valuing parents, neighborhood elders, school tutors, and fellow citizens regardless of background differences.",
+    "extraKokoFact": "In standard Nigerian customary circles, respect is shown through posture gestures like prostrating (boys) or kneeling down completely (girls)."
+  },
+  {
+    "id": "sstu_069",
+    "category": "social-studies",
+    "question": "Which of the following is a core characteristic of culture?",
+    "options": ["It is fixed and never changes", "It is learned through social interaction", "It is biologically inherited through genes", "It is exactly the same for all humans worldwide"],
+    "correctIndex": 1,
+    "explanation": "Culture is never hardcoded into human DNA or genes; it is learned and absorbed over time through interaction with our community environment.",
+    "extraKokoFact": "Culture is fluid and dynamic, transforming to adopt new tech and social discoveries over historical eras."
+  },
+  {
+    "id": "sstu_070",
+    "category": "social-studies",
+    "question": "What is the term for the deliberate introduction of harmful materials that ruin soil quality?",
+    "options": ["Air pollution", "Water pollution", "Land pollution", "Deforestation"],
+    "correctIndex": 2,
+    "explanation": "Land or soil pollution describes dumping harmful non-biodegradable plastics, industrial chemical toxins, or farm pesticides directly onto terrains, hurting crop cultivation yields.",
+    "extraKokoFact": "Discarded plastic water nylon bags take up to hundreds of years to break down completely in landfills."
+  },
+  {
+    "id": "sstu_071",
+    "category": "social-studies",
+    "question": "Which institution is primarily responsible for internal law enforcement and civil order in Nigeria?",
+    "options": ["The Nigerian Army", "The Nigerian Police Force", "The Nigerian Navy", "The Nigerian Air Force"],
+    "correctIndex": 1,
+    "explanation": "The Nigerian Police Force handles domestic security, public asset monitoring, local neighborhood crime control, and enforcing law compliance.",
+    "extraKokoFact": "External defense parameters (guarding country borders against enemy foreign states) are managed by the Armed Forces."
+  },
+  {
+    "id": "sstu_072",
+    "category": "social-studies",
+    "question": "Which of the following behaviors can lead to a total breakdown of values in a community?",
+    "options": ["Rewarding honesty and hard work", "Enforcing rules and regulations fairly", "Widespread corruption and greed", "Promoting religious tolerance"],
+    "correctIndex": 2,
+    "explanation": "When systemic bribery, economic embezzlement, public corruption, and unchecked greed spread out, positive civic values crack, leading to rising criminal tendencies.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_073",
+    "category": "social-studies",
+    "question": "What is the main purpose of enforcing rules and regulations within a school environment?",
+    "options": ["Make students feel completely miserable", "Maintain order, safety, and a good learning environment", "Collect extra money and fines from poor parents", "Help students learn how to fight perfectly"],
+    "correctIndex": 1,
+    "explanation": "School rules are established to guarantee student safety, foster disciplined behavioral habits, and preserve a quiet space where tutors can instruct effectively.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_074",
+    "category": "social-studies",
+    "question": "Which important mineral resource has historically been mined at Enugu, Nigeria?",
+    "options": ["Crude oil", "Coal", "Tin", "Gold"],
+    "correctIndex": 1,
+    "explanation": "Enugu boasts massive underground deposits of bituminous coal, which historically powered train locomotives and led to its title 'The Coal City'.",
+    "extraKokoFact": "Large-scale extraction of coal in Enugu began in the early 20th century under colonial mining departments."
+  },
+  {
+    "id": "sstu_075",
+    "category": "social-studies",
+    "question": "Tin and columbite are mineral resources predominantly mined in which state or region of Nigeria?",
+    "options": ["Niger Delta", "Jos Plateau", "Enugu State", "Ogun State"],
+    "correctIndex": 1,
+    "explanation": "The Jos Plateau area has been the focal center for industrial open-cast tin extraction and columbite processing inside Nigeria.",
+    "extraKokoFact": "Plateau State exhibits an incredibly cool, temperate mountain-like climate because of its elevated altitude configuration."
+  },
+  {
+    "id": "sstu_076",
+    "category": "social-studies",
+    "question": "Which of the following is a physical change that occurs specifically in boys during puberty?",
+    "options": ["Development of wider hips", "Deepening of the voice", "Commencement of menstruation", "Growth of long head hair"],
+    "correctIndex": 1,
+    "explanation": "Puberty shifts hormonal balances inside growing boys, which broadens their shoulder width and deepens their vocal register.",
+    "extraKokoFact": "Puberty is the specific physiological developmental transition window where human bodies become sexually mature and capable of reproduction."
+  },
+  {
+    "id": "sstu_077",
+    "category": "social-studies",
+    "question": "Which of the following physical changes occurs uniquely in girls during puberty?",
+    "options": ["Broadening of the chest", "The onset of menstruation", "Deepening of the vocal range", "Growth of a beard and mustache"],
+    "correctIndex": 1,
+    "explanation": "Menstruation (the monthly uterine bleeding cycle) marks the maturation of the internal female reproductive organs in growing girls.",
+    "extraKokoFact": "Girls during this specific developmental phase also experience rapid enlargement of breast tissue and widening pelvic hip bones."
+  },
+  {
+    "id": "sstu_078",
+    "category": "social-studies",
+    "question": "What is the term for the emotional or mental confusion that young people sometimes experience during puberty?",
+    "options": ["Identity or psychological crisis", "Physical fitness milestone", "Biological inheritance", "Financial wealth boom"],
+    "correctIndex": 0,
+    "explanation": "Rapidly mutating hormonal drops and social pressures during puberty can prompt significant mood variations and self-identity confusion, known as a psychological crisis.",
+    "extraKokoFact": "Maintaining plain conversational pathways with school counselors or parents helps adolescents steady their emotions."
+  },
+  {
+    "id": "sstu_079",
+    "category": "social-studies",
+    "question": "What is the correct way for a youth to handle peer pressure to join a cult or abuse drugs?",
+    "options": ["Accept quickly to look cool among friends", "Say 'No' firmly and report to a trusted adult", "Keep quiet and hide the secret forever", "Fight the peer group members physically"],
+    "correctIndex": 1,
+    "explanation": "Delivering a clear, bold 'No' and reporting any dangerous solicitations straight to teachers or parents shields adolescents from criminal underground entities like school cults.",
+    "extraKokoFact": "Peer pressure describes the heavy mental or social weight applied by a social circle to alter a member's default ethics."
+  },
+  {
+    "id": "sstu_080",
+    "category": "social-studies",
+    "question": "Why is the study of our cultural heritage considered highly important for young citizens?",
+    "options": ["Hate other ethnic groups in Nigeria", "Appreciate our roots and identity", "Discard our values for modern tech", "Look down on traditional practices"],
+    "correctIndex": 1,
+    "explanation": "Reviewing native historical arts, language idioms, and community tales builds self-confidence, strengthens cultural identity, and passes ancestral knowledge to future generations.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_081",
+    "category": "social-studies",
+    "question": "Which agent of socialization communicates messages to a large audience using television and the internet?",
+    "options": ["The Family", "The Peer Group", "The Mass Media", "The Religious House"],
+    "correctIndex": 2,
+    "explanation": "Mass media streams opinions, news briefs, movies, and advertisements out to millions of people simultaneously across widespread radio channels and the internet.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_082",
+    "category": "social-studies",
+    "question": "What type of environment is made up of living components such as plants and animals?",
+    "options": ["Abiotic environment", "Man-made environment", "Biotic or biological environment", "Social institution environment"],
+    "correctIndex": 2,
+    "explanation": "The biological or biotic environment encompasses all living organisms in an eco-zone, including terrestrial flora (green plants) and forest fauna (wildlife).",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_083",
+    "category": "social-studies",
+    "question": "When citizens are forced to leave their homes permanently due to war or natural disasters, it is called what?",
+    "options": ["Voluntary migration", "Forced migration", "Seasonal migration", "Tourism"],
+    "correctIndex": 1,
+    "explanation": "Forced migration describes emergency displacements where families run away from life-threatening situations like military conflicts, floods, or ethnic violence.",
+    "extraKokoFact": "Displaced families who remain within national borders during an emergency are officially classified as Internally Displaced Persons (IDPs)."
+  },
+  {
+    "id": "sstu_084",
+    "category": "social-studies",
+    "question": "What is a major threat to the aquatic environment and water resources in the Niger Delta region?",
+    "options": ["Severe desertification", "Oil spillage from pipelines", "Excessive snow accumulation", "Overuse of organic compost"],
+    "correctIndex": 1,
+    "explanation": "Crude oil pipe blowouts and pipeline breaks pour heavy chemicals into swamps and fishing rivers, suffocating fish stocks and contaminating community drinking water.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_085",
+    "category": "social-studies",
+    "question": "Which language serves as the official medium for government business and school instruction in Nigeria?",
+    "options": ["Hausa", "Yoruba", "English", "Pidgin"],
+    "correctIndex": 2,
+    "explanation": "English serves as Nigeria's official national language, bridging conversational communication among over 250 distinct ethnic backgrounds.",
+    "extraKokoFact": "Nigeria hosts over 500 indigenous languages, with Hausa, Yoruba, and Igbo being the three most widely spoken."
+  },
+  {
+    "id": "sstu_086",
+    "category": "social-studies",
+    "question": "Which civic value is demonstrated when a student finds a valuable item and returns it to the owner?",
+    "options": ["Cooperation", "Honesty", "Self-reliance", "Tolerance"],
+    "correctIndex": 1,
+    "explanation": "Surrendering lost belongings or money straight to teachers without attempting to hide or keep them reflects high personal honesty and integrity.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_087",
+    "category": "social-studies",
+    "question": "What term describes the type of social interaction where individuals contest for a prize that only one can win?",
+    "options": ["Cooperation", "Competition", "Assimilation", "Accommodation"],
+    "correctIndex": 1,
+    "explanation": "Competition is a structured social process where people or sports teams compete directly against each other to win an exclusive prize, trophy, or grade score.",
+    "extraKokoFact": "Healthy academic competitions, like school spelling bees, motivate pupils to study harder."
+  },
+  {
+    "id": "sstu_088",
+    "category": "social-studies",
+    "question": "Which of the following is a symptom of severe social breakdown in a city?",
+    "options": ["High literacy rates among kids", "Low levels of criminal activity", "Rising cases of cultism and armed robbery", "Efficient public transport services"],
+    "correctIndex": 2,
+    "explanation": "Spikes in violent crime, armed theft, neighborhood gang activity, and cultism show that basic family training structures and legal systems are breaking down.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_089",
+    "category": "social-studies",
+    "question": "Solar energy, wind energy, and water energy are examples of what type of resources?",
+    "options": ["Non-renewable resources", "Renewable resources", "Mineral resources", "Exhaustible resources"],
+    "correctIndex": 1,
+    "explanation": "Renewable resources rely on infinite planetary forces (like sunlight, wind currents, and rain cycles) that replenish naturally without being permanently depleted.",
+    "extraKokoFact": "Nigeria enjoys bright tropical sunshine across its states, offering great potential for solar power grids."
+  },
+  {
+    "id": "sstu_090",
+    "category": "social-studies",
+    "question": "What is the term for the act of buying and selling goods and services between people or regions?",
+    "options": ["Production", "Trade", "Consumption", "Distribution"],
+    "correctIndex": 1,
+    "explanation": "Trade describes buying, selling, or bartering merchandise. Domestic trade happens inside a country, while international trade crosses global borders.",
+    "extraKokoFact": "Massive marketplaces like the Onitsha Main Market stand as primary commercial trade hubs in West Africa."
+  },
+  {
+    "id": "sstu_091",
+    "category": "social-studies",
+    "question": "Which of the following is classified as a religious institution in Nigeria?",
+    "options": ["A Federal High Court", "A Church or Mosque", "The Central Bank", "A Public High School"],
+    "correctIndex": 1,
+    "explanation": "Churches, Islamic mosques, and traditional shrines are religious institutions that shape spiritual beliefs and moral behavior in society.",
+    "extraKokoFact": "Nigeria is a multi-faith secular state, with Christianity and Islam being the two major religions."
+  },
+  {
+    "id": "sstu_092",
+    "category": "social-studies",
+    "question": "Where does the process of teaching a child basic manners and human respect usually begin first?",
+    "options": ["Primary school", "Local church or mosque", "Family environment", "Mass media networks"],
+    "correctIndex": 2,
+    "explanation": "The family circle serves as the earliest incubator for character development. A toddler learns foundational language, basic greetings, and toilet habits long before starting school.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_093",
+    "category": "social-studies",
+    "question": "Which of the following is an example of a modern vessel used for water transportation?",
+    "options": ["A hollowed dugout canoe", "A motorized ocean cruise ship", "A simple wooden raft", "A floating log of wood"],
+    "correctIndex": 1,
+    "explanation": "Motorized ocean cruise liners, metallic cargo ships, and sub-surface vessels represent modern water transport tools capable of carrying heavy freight across oceans.",
+    "extraKokoFact": "The Apapa and Tin Can Island ports in Lagos manage the vast majority of international cargo coming into Nigeria."
+  },
+  {
+    "id": "sstu_094",
+    "category": "social-studies",
+    "question": "Which of the following is a push factor that causes young people to leave farming villages?",
+    "options": ["High-paying jobs in urban offices", "Lack of electricity and piped water", "Beautiful recreational parks", "Large university campuses"],
+    "correctIndex": 1,
+    "explanation": "A lack of basic social amenities (like electricity, pipe-borne water, and good hospitals) acts as a push factor that prompts villagers to move out.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_095",
+    "category": "social-studies",
+    "question": "What is the official currency used for economic transactions within Nigeria?",
+    "options": ["The Dollar", "The Pounds Sterling", "The Naira", "The Cedi"],
+    "correctIndex": 2,
+    "explanation": "The Naira (₦) is the legal tender currency notes issued exclusively by the government for all commercial transactions inside Nigeria.",
+    "extraKokoFact": "The Nigerian Naira was introduced in 1973, replacing the previously used colonial pound system."
+  },
+  {
+    "id": "sstu_096",
+    "category": "social-studies",
+    "question": "What is a primary benefit of maintaining a small family size?",
+    "options": ["Parents can easily provide quality education and care", "It makes it impossible to travel out of town", "It completely eliminates the need for chores", "It automatically grants political power to parents"],
+    "correctIndex": 0,
+    "explanation": "A small family size ensures that household financial resources can cover top-quality nutrition, healthcare, and university education for each child.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_097",
+    "category": "social-studies",
+    "question": "Which civic value directly encourages young citizens to develop skills and create employment?",
+    "options": ["Overdependence", "Self-reliance", "Nepotism", "Dishonesty"],
+    "correctIndex": 1,
+    "explanation": "Self-reliance reduces youthful unemployment by encouraging individual handiwork skills, creativity, and independent business ownership.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_098",
+    "category": "social-studies",
+    "question": "What name is given to a school social group made up of individuals of similar age and interests?",
+    "options": ["Family group", "Peer group", "Professional union", "Political party"],
+    "correctIndex": 1,
+    "explanation": "A peer group consists of classmates or companions who share an identical age group, social background, and matching interests.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "sstu_099",
+    "category": "social-studies",
+    "question": "Which of the following activities causes heavy air pollution in major industrial cities?",
+    "options": ["Planting decorative flowers on lawns", "Fumes from factories and vehicle exhausts", "Disposing of organic waste in compost pits", "Using solar panels to power homes"],
+    "correctIndex": 1,
+    "explanation": "Industrial smokestack emissions, gas flaring, and toxic exhaust fumes from vehicles release carbon particles into the air, creating air pollution.",
+    "extraKokoFact": "Air pollution can trigger human respiratory challenges like chronic asthma and bronchitis."
+  },
+  {
+    "id": "sstu_100",
+    "category": "social-studies",
+    "question": "What is the ultimate goal of Social Studies education in Nigerian schools?",
+    "options": ["Wealthy and corrupt politicians", "Responsible, patriotic, and useful citizens", "Aggressive military commanders", "Rebellious lawbreakers"],
+    "correctIndex": 1,
+    "explanation": "Social Studies aims to build civic consciousness, promote sound moral values, and prepare students to become law-abiding, responsible citizens who support national growth.",
+    "extraKokoFact": "Good citizenship is essential for the peaceful co-existence and long-term development of any country."
+  }
+]

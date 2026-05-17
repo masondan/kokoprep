@@ -1,0 +1,902 @@
+[
+  {
+    "id": "cstud_001",
+    "category": "computer-studies",
+    "question": "Which generation of computer is based on artificial intelligence?",
+    "options": ["First generation", "Second generation", "Fourth generation", "Fifth generation"],
+    "correctIndex": 3,
+    "explanation": "Fifth-generation computers are based on artificial intelligence (AI) and are designed to think, learn, and make decisions like humans. Earlier generations used hardware like vacuum tubes, transistors, and microprocessors before AI was developed.",
+    "extraKokoFact": "You are using AI right now when you use KokoPrep! AI helps computers understand language and answer questions."
+  },
+  {
+    "id": "cstud_002",
+    "category": "computer-studies",
+    "question": "Who is regarded as the father of the computer?",
+    "options": ["John Newton", "Charles Babbage", "Blaise Pascal", "Bill Gates"],
+    "correctIndex": 1,
+    "explanation": "Charles Babbage designed the first mechanical computer concepts called the 'Difference Engine' and the 'Analytical Engine' in the 1800s, which earned him the title 'Father of the Computer'.",
+    "extraKokoFact": "Charles Babbage's Analytical Engine was never fully built in his lifetime, but it had all the key ideas of a modern computer!"
+  },
+  {
+    "id": "cstud_003",
+    "category": "computer-studies",
+    "question": "A computer stores its programs and data in its:",
+    "options": ["ALU", "Control Unit", "Monitor", "Memory"],
+    "correctIndex": 3,
+    "explanation": "Memory (such as RAM and storage drives) is where the computer keeps programs and data. The ALU performs calculations, the Control Unit directs operations, and the monitor displays the output.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_004",
+    "category": "computer-studies",
+    "question": "Which of the following is the most powerful type of computer?",
+    "options": ["Super micro", "Super computer", "Minicomputer", "Mega computer"],
+    "correctIndex": 1,
+    "explanation": "A supercomputer is the fastest and most powerful type of computer. They are used for extremely complex tasks like weather forecasting, space exploration, and scientific research.",
+    "extraKokoFact": "Nigeria's first supercomputer was installed at NIMET — the Nigerian Meteorological Agency — to help predict the weather!"
+  },
+  {
+    "id": "cstud_005",
+    "category": "computer-studies",
+    "question": "What does the abbreviation CPU stand for?",
+    "options": ["Central Processing Unit", "Computer Power Unit", "Central Program Utility", "Control Processing Unit"],
+    "correctIndex": 0,
+    "explanation": "CPU stands for Central Processing Unit. It is often called the 'brain' of the computer because it interprets and executes most of the commands from the computer's hardware and software.",
+    "extraKokoFact": "The CPU is a tiny chip inside the system unit, but it does billions of calculations every single second!"
+  },
+  {
+    "id": "cstud_006",
+    "category": "computer-studies",
+    "question": "Which of the following computer components is strictly used as an input device?",
+    "options": ["Keyboard", "Monitor", "Printer", "Speaker"],
+    "correctIndex": 0,
+    "explanation": "A keyboard is an input device because it sends data (letters, numbers, commands) into the computer. Monitors, printers, and speakers are all output devices because they show or broadcast information out of the computer.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_007",
+    "category": "computer-studies",
+    "question": "What is the full meaning of the computer term RAM?",
+    "options": ["Random Access Memory", "Ready Application Module", "Read Alternate Memory", "Remote Access Memory"],
+    "correctIndex": 0,
+    "explanation": "RAM stands for Random Access Memory. It is the computer's short-term working memory, which temporarily holds data that the computer is actively using so it can be reached quickly.",
+    "extraKokoFact": "When a computer is turned off, everything stored in RAM is wiped out completely! This is why it is called volatile memory."
+  },
+  {
+    "id": "cstud_008",
+    "category": "computer-studies",
+    "question": "Which of the following is an example of system software?",
+    "options": ["Operating System", "Microsoft Word", "WhatsApp Messenger", "Adobe Photoshop"],
+    "correctIndex": 0,
+    "explanation": "An Operating System (like Windows, Android, or macOS) is system software because it manages and controls the computer hardware. Tools like Word, WhatsApp, and Photoshop are application software because they do specific tasks for the user.",
+    "extraKokoFact": "Without an operating system, your computer or smartphone would just be an expensive paperweight that won't turn on!"
+  },
+  {
+    "id": "cstud_009",
+    "category": "computer-studies",
+    "question": "What does the internet fundamentally allow computers across the world to do?",
+    "options": ["Connect and share information globally", "Operate without electric power", "Increase their physical storage size", "Run application software faster"],
+    "correctIndex": 0,
+    "explanation": "The internet is a global network that allows computers to connect, communicate, and share information with one another, no matter how far apart they are geographically.",
+    "extraKokoFact": "The word 'Internet' comes from 'interconnected network'. Millions of computers are connected all over the globe using giant cables running under the oceans!"
+  },
+  {
+    "id": "cstud_010",
+    "category": "computer-studies",
+    "question": "Which of the following programs is NOT a web browser?",
+    "options": ["Microsoft Excel", "Google Chrome", "Mozilla Firefox", "Opera Mini"],
+    "correctIndex": 0,
+    "explanation": "Microsoft Excel is a spreadsheet application used for calculations and data organization. Google Chrome, Mozilla Firefox, and Opera Mini are web browsers used to access and view websites on the internet.",
+    "extraKokoFact": "Opera Mini is incredibly popular in Nigeria because it is specially designed to save mobile data while browsing!"
+  },
+  {
+    "id": "cstud_011",
+    "category": "computer-studies",
+    "question": "An electronic computer can perform all of the following core data actions EXCEPT:",
+    "options": ["Accept data", "Process data", "Store data", "Produce information"],
+    "correctIndex": 2,
+    "explanation": "Computers follow the IPOS cycle: Input (accept data), Processing (process data), and Output (produce information). 'Vomit data' is not a computer term or function.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_012",
+    "category": "computer-studies",
+    "question": "Before electronic computers were invented, ancient people used early counting devices. Which of the following is an early counting device?",
+    "options": ["Pebbles", "Laptop", "Calculator", "Typewriter"],
+    "correctIndex": 0,
+    "explanation": "Ancient people used natural objects like pebbles, sticks, fingers, and toes to count items. Laptops, calculators, and typewriters are modern inventions.",
+    "extraKokoFact": "The word 'calculus' actually comes from the Latin word for a small pebble used for counting!"
+  },
+  {
+    "id": "cstud_013",
+    "category": "computer-studies",
+    "question": "Which of the following early calculating devices consists of beads sliding on wires or rods set in a wooden frame?",
+    "options": ["Abacus", "Napier's Bones", "Pascaline", "Analytical Engine"],
+    "correctIndex": 0,
+    "explanation": "The Abacus is one of the oldest counting tools, consisting of a frame with rods and sliding beads. It was widely used in ancient Asia and Europe for addition and subtraction.",
+    "extraKokoFact": "Even today, some students in parts of Asia learn to use the abacus so well that they can calculate faster than a person using an electronic calculator!"
+  },
+  {
+    "id": "cstud_014",
+    "category": "computer-studies",
+    "question": "Who invented the early calculating device known as 'Napier's Bones'?",
+    "options": ["John Napier", "Charles Babbage", "Blaise Pascal", "Gottfried Leibniz"],
+    "correctIndex": 0,
+    "explanation": "John Napier, a Scottish mathematician, invented 'Napier's Bones' in 1617. It was a set of rods carved from bone or wood used for multiplication and division.",
+    "extraKokoFact": "Napier's Bones were called 'bones' because the numbers were often carved onto rods made of ivory or animal bone!"
+  },
+  {
+    "id": "cstud_015",
+    "category": "computer-studies",
+    "question": "The Pascaline, the first mechanical calculator capable of adding and subtracting numbers directly, was invented by:",
+    "options": ["Blaise Pascal", "Isaac Newton", "Ada Lovelace", "Herman Hollerith"],
+    "correctIndex": 0,
+    "explanation": "Blaise Pascal, a French mathematician, invented the Pascaline in 1642 to help his father, who was a tax collector, calculate sums more easily.",
+    "extraKokoFact": "The Pascaline used a system of rotating gears and wheels, much like the odometer that counts the distance traveled inside a car!"
+  },
+  {
+    "id": "cstud_016",
+    "category": "computer-studies",
+    "question": "What primary technology did first-generation computers use to process information?",
+    "options": ["Vacuum tubes", "Transistors", "Integrated circuits", "Microprocessors"],
+    "correctIndex": 0,
+    "explanation": "First-generation computers (1940-1956) used large glass vacuum tubes for electronic circuitry. They were very bulky, expensive, and gave off a massive amount of heat.",
+    "extraKokoFact": "Because vacuum tubes emitted a lot of heat and light, they attracted bugs, which would fly inside and cause the machine to break down. This is where the term 'computer bug' comes from!"
+  },
+  {
+    "id": "cstud_017",
+    "category": "computer-studies",
+    "question": "Second-generation computers replaced vacuum tubes with which smaller, more efficient component?",
+    "options": ["Transistors", "Silicon chips", "Magnetic tapes", "Punch cards"],
+    "correctIndex": 0,
+    "explanation": "Second-generation computers (1956-1963) utilized transistors. Transistors were far smaller, faster, cheaper, and more energy-efficient than bulky vacuum tubes.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_018",
+    "category": "computer-studies",
+    "question": "Integrated Circuits (ICs), which combined hundreds of transistors onto a single silicon chip, characterized which computer generation?",
+    "options": ["Third generation", "First generation", "Second generation", "Fifth generation"],
+    "correctIndex": 0,
+    "explanation": "The Third generation (1964-1971) introduced Integrated Circuits (ICs). This breakthrough drastically reduced the physical size of computers and increased their speed and reliability.",
+    "extraKokoFact": "An integrated circuit is often called a microchip. It's made from silicon, which is refined from regular beach sand!"
+  },
+  {
+    "id": "cstud_019",
+    "category": "computer-studies",
+    "question": "Fourth-generation computers are characterized by the use of which technology?",
+    "options": ["Microprocessors (VLSIC)", "Vacuum tubes", "Transistors", "Artificial Intelligence"],
+    "correctIndex": 0,
+    "explanation": "Fourth-generation computers (1971-present) use microprocessors with Very Large Scale Integrated Circuits (VLSIC), packing millions of electronic components onto a single small chip.",
+    "extraKokoFact": "The invention of the microprocessor made personal computers (PCs) small enough and cheap enough to fit inside homes and school labs!"
+  },
+  {
+    "id": "cstud_020",
+    "category": "computer-studies",
+    "question": "Who is recognized as the world's first computer programmer, having written notes on how to use Babbage's Analytical Engine?",
+    "options": ["Ada Lovelace", "Mary Slessor", "Grace Hopper", "Bill Gates"],
+    "correctIndex": 0,
+    "explanation": "Ada Lovelace, an English mathematician, worked closely with Charles Babbage and wrote the first algorithm intended to be carried out by a machine, making her the world's first programmer.",
+    "extraKokoFact": "There is a modern computer programming language named 'Ada' in her honor!"
+  },
+  {
+    "id": "cstud_021",
+    "category": "computer-studies",
+    "question": "Computers can be classified by data handling type into three categories. These are:",
+    "options": ["Analog, Digital, and Hybrid", "Small, Medium, and Large", "Input, Process, and Output", "First, Second, and Third generation"],
+    "correctIndex": 0,
+    "explanation": "Computers are classified by how they process data into Analog (measures continuous data like speed or temperature), Digital (counts discrete values like 0 and 1), and Hybrid (combines both features).",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_022",
+    "category": "computer-studies",
+    "question": "Which type of computer measures continuous physical changes like temperature, pressure, or voltage?",
+    "options": ["Analog computer", "Digital computer", "Hybrid computer", "Microcomputer"],
+    "correctIndex": 0,
+    "explanation": "Analog computers handle continuous, physical variables instead of discrete numbers. A wall thermometer or a car speedometer are simple mechanical examples of analog devices.",
+    "extraKokoFact": "The fuel gauge in a car is a classic analog system because it continuously tracks the rising and falling level of fuel!"
+  },
+  {
+    "id": "cstud_023",
+    "category": "computer-studies",
+    "question": "A standard desktop PC or laptop counts and processes data using binary digits (0s and 1s). What class of computer is this?",
+    "options": ["Digital computer", "Analog computer", "Hybrid computer", "Mechanical computer"],
+    "correctIndex": 0,
+    "explanation": "Digital computers process information using discrete binary digits (0 and 1). Almost all modern consumer electronics like smartphones, tablets, and laptops are digital computers.",
+    "extraKokoFact": "Binary means 'two options'. Everything you see on a digital computer—photos, music, games—is ultimately stored as just a massive string of 0s and 1s!"
+  },
+  {
+    "id": "cstud_024",
+    "category": "computer-studies",
+    "question": "Which type of computer combines the features of both analog and digital computers?",
+    "options": ["Hybrid computer", "Mainframe computer", "Supercomputer", "Minicomputer"],
+    "correctIndex": 0,
+    "explanation": "Hybrid computers combine the continuous measurement capabilities of analog systems with the logical counting storage of digital systems. They are often used in hospitals and automated factories.",
+    "extraKokoFact": "An Intensive Care Unit (ICU) monitoring machine in a hospital is a hybrid computer. It measures a patient's heart rate continuously (analog) and converts it into numbers on a digital screen!"
+  },
+  {
+    "id": "cstud_025",
+    "category": "computer-studies",
+    "question": "When classifying computers by size and power, which group is designed for individual use and includes desktops, laptops, and tablets?",
+    "options": ["Microcomputers", "Mainframe computers", "Minicomputers", "Supercomputers"],
+    "correctIndex": 0,
+    "explanation": "Microcomputers are the smallest, least expensive, and most common type of computer meant for a single user. They are powered by a single microprocessor chip.",
+    "extraKokoFact": "Your smartphone is actually a highly advanced microcomputer that is much faster than the huge computers used to send astronauts to the moon in 1969!"
+  },
+  {
+    "id": "cstud_026",
+    "category": "computer-studies",
+    "question": "Which large and powerful class of computers is used by banks, universities, and governments to handle huge databases and transactions simultaneously?",
+    "options": ["Mainframe computers", "Microcomputers", "Personal digital assistants", "Special purpose computers"],
+    "correctIndex": 0,
+    "explanation": "Mainframe computers are huge, high-performance machines designed to handle vast amounts of data processing and support thousands of users at the exact same time.",
+    "extraKokoFact": "When millions of Nigerians use their bank ATM cards at the same time on a Friday afternoon, a powerful central mainframe computer manages all those transactions safely!"
+  },
+  {
+    "id": "cstud_027",
+    "category": "computer-studies",
+    "question": "A computer system consists of two major, inseparable components. What are they?",
+    "options": ["Hardware and Software", "Input and Output", "Monitor and CPU", "System Unit and Peripherals"],
+    "correctIndex": 0,
+    "explanation": "A complete computer system requires both hardware (the physical parts you can see and touch) and software (the invisible sets of digital instructions or programs that tell the hardware what to do).",
+    "extraKokoFact": "Think of a computer system like a human being: the hardware is the physical body, and the software is the mind and thoughts!"
+  },
+  {
+    "id": "cstud_028",
+    "category": "computer-studies",
+    "question": "What name is given to all the physical, touchable parts of a computer system?",
+    "options": ["Hardware", "Software", "Liveware", "Malware"],
+    "correctIndex": 0,
+    "explanation": "Hardware refers to any part of the computer that has a physical presence and can be touched, such as the keyboard, mouse, system unit casing, or internal circuits.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_029",
+    "category": "computer-studies",
+    "question": "What is 'Liveware' in computer studies?",
+    "options": ["The human beings who operate the computer", "Cables that carry electricity", "Programs that run automatically", "Computer components that cannot break"],
+    "correctIndex": 0,
+    "explanation": "Liveware (or humanware) refers to the people who design, program, maintain, and operate a computer system. Without humans, computers cannot perform meaningful work.",
+    "extraKokoFact": "You, the person operating your phone or computer to learn right now, are the liveware of this system!"
+  },
+  {
+    "id": "cstud_030",
+    "category": "computer-studies",
+    "question": "Raw, unorganized, and unprocessed facts or symbols fed into a computer are called:",
+    "options": ["Data", "Information", "Programs", "Output"],
+    "correctIndex": 0,
+    "explanation": "Data refers to raw facts, numbers, letters, or symbols that have not been arranged or analyzed. It does not carry much meaning until it is processed.",
+    "extraKokoFact": "Examples of data include a list of marks in a class test (e.g., 40, 85, 62) before they are sorted to show who came first or what the average score was."
+  },
+  {
+    "id": "cstud_031",
+    "category": "computer-studies",
+    "question": "When data has been processed, structured, and organized into a meaningful form by the computer, it becomes:",
+    "options": ["Information", "Raw materials", "Input data", "Binary code"],
+    "correctIndex": 0,
+    "explanation": "Information is data that has been processed and organized into a meaningful context that humans can easily understand and use to make decisions.",
+    "extraKokoFact": "A simple way to remember the relationship is: Data + Processing = Information!"
+  },
+  {
+    "id": "cstud_032",
+    "category": "computer-studies",
+    "question": "Which of the following describes the correct order of the basic computer operation cycle?",
+    "options": ["Input → Processing → Output → Storage", "Output → Input → Storage → Processing", "Processing → Storage → Input → Output", "Storage → Output → Processing → Input"],
+    "correctIndex": 0,
+    "explanation": "The standard sequence of operation is: Input (entering data), Processing (working on data), Output (showing results), and Storage (saving work for later).",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_033",
+    "category": "computer-studies",
+    "question": "Which input device uses light sensors to copy text or images directly from paper into a digital format on the computer?",
+    "options": ["Scanner", "Printer", "Plotter", "Monitor"],
+    "correctIndex": 0,
+    "explanation": "A scanner is an input device that captures images or text from physical documents and converts them into digital files that a computer can open and edit.",
+    "extraKokoFact": "A passport office or bank uses scanners to upload your physical photographs and birth certificates directly into their computer system!"
+  },
+  {
+    "id": "cstud_034",
+    "category": "computer-studies",
+    "question": "Which computer device allows you to input audio like your voice during a recording or an online call?",
+    "options": ["Microphone", "Speaker", "Headphone", "Sound card"],
+    "correctIndex": 0,
+    "explanation": "A microphone converts sound waves into electrical audio signals, making it an input device. Speakers and headphones do the opposite, making them output devices.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_035",
+    "category": "computer-studies",
+    "question": "An output device that produces a permanent, physical copy of digital documents or images onto paper is called a:",
+    "options": ["Printer", "Scanner", "Monitor", "Stylus"],
+    "correctIndex": 0,
+    "explanation": "A printer takes electronic data from a computer and prints it onto physical paper. This printed paper copy is known as a 'hard copy'.",
+    "extraKokoFact": "The display on a monitor screen is called a 'soft copy' because it is temporary, while a printed page is a 'hard copy' because you can physically hold it!"
+  },
+  {
+    "id": "cstud_036",
+    "category": "computer-studies",
+    "question": "Which output device is used to present video or images onto a large whiteboard or wall for a large audience to see?",
+    "options": ["Projector", "Monitor", "Scanner", "Joystick"],
+    "correctIndex": 0,
+    "explanation": "A projector is an output device that projects light images onto an external flat surface. It is perfect for classroom presentations or film screenings.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_037",
+    "category": "computer-studies",
+    "question": "What is the primary purpose of a computer joystick?",
+    "options": ["To control movement in video games", "To print large diagrams", "To scan barcodes", "To type text rapidly"],
+    "correctIndex": 0,
+    "explanation": "A joystick is a specialized input device consisting of a stick that pivots on a base. It is primarily used to control motion and actions in video gaming and flight simulators.",
+    "extraKokoFact": "Real pilots use advanced joysticks inside modern airplanes to steer and navigate the aircraft through the sky!"
+  },
+  {
+    "id": "cstud_038",
+    "category": "computer-studies",
+    "question": "The long bar at the very bottom center of a computer keyboard used to create blank gaps between words is called the:",
+    "options": ["Spacebar", "Enter key", "Shift key", "Backspace key"],
+    "correctIndex": 0,
+    "explanation": "The Spacebar is the widest and longest key on a standard QWERTY keyboard. Its single purpose is to input a space character between letters, numbers, or words.",
+    "extraKokoFact": "The Spacebar is intentionally made large so that typists can easily hit it with either of their thumbs without looking down!"
+  },
+  {
+    "id": "cstud_039",
+    "category": "computer-studies",
+    "question": "Which key on a computer keyboard is pressed to start a new line or paragraph while typing in a word processor?",
+    "options": ["Enter key", "Spacebar", "Escape key", "Control key"],
+    "correctIndex": 0,
+    "explanation": "The Enter key (also called Return) tells the computer that a command is finished or tells a word processor to move the cursor down to the beginning of the next line.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_040",
+    "category": "computer-studies",
+    "question": "Which keyboard key deletes characters or letters immediately to the left of the blinking typing cursor?",
+    "options": ["Backspace key", "Delete key", "Insert key", "Tab key"],
+    "correctIndex": 0,
+    "explanation": "The Backspace key moves the cursor backward, erasing characters to the left. The Delete key, on the other hand, erases characters to the right of the cursor.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_041",
+    "category": "computer-studies",
+    "question": "To type a single capital letter, or to use the top symbol printed on a dual-purpose key, you should hold down which key while typing?",
+    "options": ["Shift key", "Caps Lock key", "Tab key", "Alt key"],
+    "correctIndex": 0,
+    "explanation": "The Shift key is a modifier key. Holding it down types the capital version of a letter. Caps Lock changes the mode for all letters indefinitely until pressed again.",
+    "extraKokoFact": "If you want to type an exclamation mark (!), you have to hold down the Shift key and press the number 1 key at the same time!"
+  },
+  {
+    "id": "cstud_042",
+    "category": "computer-studies",
+    "question": "The keys marked F1 through F12 located at the very top row of a standard keyboard are collectively called:",
+    "options": ["Function keys", "Alphanumeric keys", "Numeric keys", "Navigation keys"],
+    "correctIndex": 0,
+    "explanation": "F1 to F12 are Function keys. They act as shortcuts to trigger specific commands in software programs, such as pressing F1 to instantly open a Help menu.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_043",
+    "category": "computer-studies",
+    "question": "What standard term is used to describe the layout of keys on a conventional English computer keyboard?",
+    "options": ["QWERTY layout", "ABCDE layout", "DVORAK layout", "AZERTY layout"],
+    "correctIndex": 0,
+    "explanation": "The QWERTY layout is named after the first six letters appearing on the top-left row of letter keys. It is the global standard configuration for English keyboards.",
+    "extraKokoFact": "The QWERTY layout was invented for mechanical typewriters in 1873 to slow down fast typists because hitting keys too quickly would jam the metal typing arms!"
+  },
+  {
+    "id": "cstud_044",
+    "category": "computer-studies",
+    "question": "Which action involves pressing and releasing the left mouse button quickly two times in a row to open a file or launch a program?",
+    "options": ["Double-clicking", "Right-clicking", "Dragging", "Scrolling"],
+    "correctIndex": 0,
+    "explanation": "Double-clicking tells the operating system to execute an action on the item beneath the pointer, such as launching an application icon or opening a folder.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_045",
+    "category": "computer-studies",
+    "question": "What mouse action is used to open a context menu showing a list of options like 'Copy', 'Paste', or 'Properties'?",
+    "options": ["Right-clicking", "Left-clicking", "Double-clicking", "Hovering"],
+    "correctIndex": 0,
+    "explanation": "Right-clicking displays a special context menu containing operations relevant to whatever object or area you clicked on.",
+    "extraKokoFact": "If you are using a laptop trackpad, you can right-click by tapping with two fingers at the same time or pressing the bottom-right corner of the trackpad area!"
+  },
+  {
+    "id": "cstud_046",
+    "category": "computer-studies",
+    "question": "Which mouse technique is used to move an object or icon from one location on the screen to another?",
+    "options": ["Drag and drop", "Double-click", "Scroll up", "Right-click"],
+    "correctIndex": 0,
+    "explanation": "Drag and drop involves pointing to an item, holding down the primary left mouse button, moving the mouse to a new position, and letting go of the button to drop it.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_047",
+    "category": "computer-studies",
+    "question": "What is the main function of the scroll wheel located between the left and right buttons on a modern computer mouse?",
+    "options": ["To move up and down through a long document or web page", "To delete selected files instantly", "To switch the computer on and off", "To type text into a word document"],
+    "correctIndex": 0,
+    "explanation": "The scroll wheel is rolled with your finger to move text or graphics vertically up or down on the screen without needing to move the physical mouse pointer.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_048",
+    "category": "computer-studies",
+    "question": "Inside the CPU, which sub-unit is responsible for performing mathematical calculations like addition, subtraction, and logical comparisons?",
+    "options": ["Arithmetic and Logic Unit (ALU)", "Control Unit (CU)", "Main Memory Unit", "Power Supply Unit"],
+    "correctIndex": 0,
+    "explanation": "The Arithmetic and Logic Unit (ALU) performs all calculations (like +, -, ×, ÷) and comparative decisions (like determining if one number is greater than another).",
+    "extraKokoFact": "No matter how complicated a video game or app looks, the ALU handles it by breaking down everything into tiny addition and subtraction problems!"
+  },
+  {
+    "id": "cstud_049",
+    "category": "computer-studies",
+    "question": "Which part of the CPU acts like a traffic warden, directing and coordinating the flow of signals and data between different parts of the computer?",
+    "options": ["Control Unit (CU)", "Arithmetic and Logic Unit (ALU)", "Hard Disk Drive", "Read Only Memory"],
+    "correctIndex": 0,
+    "explanation": "The Control Unit (CU) manages and coordinates the operations of the computer system. It fetches instructions, decodes them, and tells other parts what to do.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_050",
+    "category": "computer-studies",
+    "question": "What is the name of the main, large green or blue circuit board found inside the computer system unit onto which the CPU, RAM, and other components plug into?",
+    "options": ["Motherboard", "Sound card", "Hard disk", "Power pack"],
+    "correctIndex": 0,
+    "explanation": "The Motherboard (or mainboard) is the central communication circuit board. It acts as the backbone, allowing all internal hardware components to connect and communicate with each other.",
+    "extraKokoFact": "It is called a 'mother' board because it holds and nurtures all the other parts of the computer system, like a mother taking care of a family!"
+  },
+  {
+    "id": "cstud_051",
+    "category": "computer-studies",
+    "question": "Which internal component converts high-voltage alternating current (AC) from your wall socket into safe, low-voltage direct current (DC) for the computer's delicate parts?",
+    "options": ["Power Supply Unit (PSU)", "System Fan", "Hard Disk Drive", "Processor Chip"],
+    "correctIndex": 0,
+    "explanation": "The Power Supply Unit (PSU) regulates and converts electrical power from the main source to feed the correct amount of current to the motherboard and internal components.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_052",
+    "category": "computer-studies",
+    "question": "Which of the following is an invisible set of instructions, programs, or data that tells computer hardware exactly how to perform a task?",
+    "options": ["Software", "Hardware", "Peripherals", "Liveware"],
+    "correctIndex": 0,
+    "explanation": "Software refers to the non-physical programs, codes, and applications that run on a computer, controlling its operations and executing specific functions.",
+    "extraKokoFact": "Computer software is split into two primary types: System Software (like Windows or Android) and Application Software (like games or typing tools)."
+  },
+  {
+    "id": "cstud_053",
+    "category": "computer-studies",
+    "question": "Which software category is specifically designed to perform a distinct, end-user task like writing an essay, calculating budgets, or playing a game?",
+    "options": ["Application Software", "System Software", "Operating Systems", "Device Drivers"],
+    "correctIndex": 0,
+    "explanation": "Application software includes programs that users interact with directly to complete tasks. Examples include Microsoft Word, WhatsApp, web browsers, and media players.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_054",
+    "category": "computer-studies",
+    "question": "Which of the following is an example of application software used specifically for typing and formatting text documents?",
+    "options": ["Microsoft Word", "Microsoft Excel", "Windows Media Player", "Google Search Engine"],
+    "correctIndex": 0,
+    "explanation": "Microsoft Word is a dedicated word processing program used for creating, editing, formatting, and printing text documents like letters and school essays.",
+    "extraKokoFact": "Before Word processors were invented, people used mechanical Typewriters. If you made a single spelling mistake on a typewriter, you often had to tear up the paper and start the whole page over again!"
+  },
+  {
+    "id": "cstud_055",
+    "category": "computer-studies",
+    "question": "Which operating system is used by the vast majority of mobile smartphones around the world and in Nigeria?",
+    "options": ["Android", "Windows 11", "macOS", "Linux"],
+    "correctIndex": 0,
+    "explanation": "Android is a mobile operating system developed by Google, designed primarily for touchscreen mobile devices such as smartphones and tablets.",
+    "extraKokoFact": "Every major version of Android used to be named after sweet treats in alphabetical order, like Cupcake, Donut, Éclair, Froyo, and Gingerbread!"
+  },
+  {
+    "id": "cstud_056",
+    "category": "computer-studies",
+    "question": "Which part of a computer's memory is non-volatile, meaning it permanently stores factory instructions that cannot be changed and are not lost when the power cuts out?",
+    "options": ["ROM (Read Only Memory)", "RAM (Random Access Memory)", "Flash Drive", "Cache Memory"],
+    "correctIndex": 0,
+    "explanation": "ROM stands for Read Only Memory. It holds permanent, hard-coded instructions written during manufacturing that help boot up the computer. Its contents cannot be altered or erased by normal use.",
+    "extraKokoFact": "When you turn on a computer, it is the ROM that gives the very first instructions to wake up the system and look for the Operating System on the hard disk!"
+  },
+  {
+    "id": "cstud_057",
+    "category": "computer-studies",
+    "question": "What is the primary storage device inside a computer unit used for saving a user's operating system, software applications, and long-term files?",
+    "options": ["Hard Disk Drive (HDD)", "RAM Chip", "ROM Chip", "Processor Casing"],
+    "correctIndex": 0,
+    "explanation": "The Hard Disk Drive (HDD) or Solid State Drive (SSD) acts as the primary magnetic or digital long-term storage vault inside a computer, keeping data safe even when power is absent.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_058",
+    "category": "computer-studies",
+    "question": "Which small, highly portable secondary storage device plugs into a computer's USB port and is widely used in Nigeria to carry files around?",
+    "options": ["Flash drive", "Hard disk drive", "RAM chip", "Floppy disk"],
+    "correctIndex": 0,
+    "explanation": "A USB flash drive (often called a 'thumb drive' or 'flash') is a lightweight, removable storage device that utilizes flash memory to store and transfer files quickly.",
+    "extraKokoFact": "Before flash drives became popular, people used thin square items called 'Floppy Disks'. They could only hold a tiny fraction of one modern smartphone photo before running out of space!"
+  },
+  {
+    "id": "cstud_059",
+    "category": "computer-studies",
+    "question": "What is the smallest individual unit of digital data storage inside a computer system?",
+    "options": ["Bit", "Byte", "Kilobyte", "Megabyte"],
+    "correctIndex": 0,
+    "explanation": "A bit (short for binary digit) is the absolute smallest unit of digital data, representing a single state of either 0 or 1. A group of 8 bits forms one Byte.",
+    "extraKokoFact": "Every time you type a single ordinary letter or character on a keyboard (like the letter 'A'), it occupies exactly one Byte (8 bits) of memory space!"
+  },
+  {
+    "id": "cstud_060",
+    "category": "computer-studies",
+    "question": "How many bytes are contained in a single Kilobyte (KB) of data?",
+    "options": ["1,024 bytes", "500 bytes", "1,000 bytes", "8 bytes"],
+    "correctIndex": 0,
+    "explanation": "In computer data sizing, units grow by powers of 2. Therefore, 1 Kilobyte is exactly equal to 1,024 Bytes, not 1,000.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_061",
+    "category": "computer-studies",
+    "question": "Which of the following lists data storage measurements in the correct order from smallest capacity to largest capacity?",
+    "options": ["Kilobyte → Megabyte → Gigabyte → Terabyte", "Terabyte → Gigabyte → Megabyte → Kilobyte", "Byte → Bit → Kilobyte → Megabyte", "Megabyte → Kilobyte → Terabyte → Gigabyte"],
+    "correctIndex": 0,
+    "explanation": "Data scales upward from Bytes to Kilobytes (KB), then Megabytes (MB), then Gigabytes (GB), and finally Terabytes (TB). Each level is 1,024 times larger than the previous one.",
+    "extraKokoFact": "A single Terabyte (1 TB) can hold about 250,000 high-quality songs or hundreds of full-length high-definition movies!"
+  },
+  {
+    "id": "cstud_062",
+    "category": "computer-studies",
+    "question": "What kind of storage device is a Compact Disc (CD) or Digital Versatile Disc (DVD)?",
+    "options": ["Optical storage device", "Magnetic storage device", "Flash storage device", "Volatile storage device"],
+    "correctIndex": 0,
+    "explanation": "CDs and DVDs are optical storage devices. They rely on laser beams to read and write data patterns burned into plastic discs.",
+    "extraKokoFact": "A standard CD can hold about 700 Megabytes of data, which was enough for a full music album, while a DVD holds 4.7 Gigabytes, making it ideal for video movies!"
+  },
+  {
+    "id": "cstud_063",
+    "category": "computer-studies",
+    "question": "Why is RAM considered a 'volatile' memory type?",
+    "options": ["It loses all its stored data instantly when the computer is turned off", "It can easily catch fire if overheated", "It cannot be touched or replaced physically", "It holds factory settings that can never be modified"],
+    "correctIndex": 0,
+    "explanation": "Volatile memory requires continuous electrical power to maintain its data. The moment electricity is cut off, anything held in RAM vanishes.",
+    "extraKokoFact": "This is why if your laptop battery dies suddenly while typing a school report, you might lose your work if you haven't saved it to the hard disk!"
+  },
+  {
+    "id": "cstud_064",
+    "category": "computer-studies",
+    "question": "What is the primary function of an Uninterruptible Power Supply (UPS) in a school computer lab?",
+    "options": ["To provide temporary battery power to computers when the main electricity drops out", "To protect the computer system from catching a digital virus", "To increase the internet connection speed", "To print out digital files without using paper ink"],
+    "correctIndex": 0,
+    "explanation": "A UPS contains a rechargeable battery pack. If electricity fails, the UPS keeps the desktop computer running for a few extra minutes, allowing you to save your data and shut down safely.",
+    "extraKokoFact": "Using a UPS is highly recommended in Nigeria because sudden power cuts or voltage changes can corrupt computer operating systems and destroy hard drives!"
+  },
+  {
+    "id": "cstud_065",
+    "category": "computer-studies",
+    "question": "Which of the following is an example of an external hardware device used to display the output of a computer?",
+    "options": ["Monitor", "CPU", "Motherboard", "Hard drive"],
+    "correctIndex": 0,
+    "explanation": "The monitor (or screen) is an external output device that displays images and text generated by the computer's video card.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_066",
+    "category": "computer-studies",
+    "question": "What is the proper, systematic procedure for turning off a computer running Windows?",
+    "options": ["Click Start → click Power → click Shut down", "Press the physical power button on the system unit casing directly", "Switch off the main wall socket switch straight away", "Unplug the power cable from the back of the machine"],
+    "correctIndex": 0,
+    "explanation": "You should always use the software's 'Shut Down' command. This allows the operating system to safely close active tasks, save system states, and park hardware heads before power ceases.",
+    "extraKokoFact": "Pulling the power plug out while a computer is active can damage the hard drive's magnetic disks, leading to permanent file loss!"
+  },
+  {
+    "id": "cstud_067",
+    "category": "computer-studies",
+    "question": "What type of computer system component is a speaker?",
+    "options": ["Output device", "Input device", "Processing device", "Storage device"],
+    "correctIndex": 0,
+    "explanation": "Speakers receive electronic audio data from the computer and convert it into sound waves that human ears can hear, making it an output device.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_068",
+    "category": "computer-studies",
+    "question": "Which of the following represents a good practice for keeping computer hardware safe from physical damage?",
+    "options": ["Keeping food and liquids completely away from the computer table", "Allowing heavy layers of dust to settle inside the system unit casing", "Leaving the computer system running continuously during heavy lightning storms", "Cleaning the monitor glass surface using a soaked wet towel"],
+    "correctIndex": 0,
+    "explanation": "Liquids can easily spill into keyboards or system vents, causing electrical short circuits that can instantly destroy electronic components. Keeping refreshments away protects the machine.",
+    "extraKokoFact": "Liquid damage can corrode internal copper circuits within a matter of minutes!"
+  },
+  {
+    "id": "cstud_069",
+    "category": "computer-studies",
+    "question": "What do the letters ICT stand for in modern technology courses?",
+    "options": ["Information and Communication Technology", "Integrated Computer Technology", "Internet Connection Telecommunications", "Internal Communication Tool"],
+    "correctIndex": 0,
+    "explanation": "ICT stands for Information and Communication Technology. It encompasses all digital infrastructure, communication networks, computers, and software that enable people to handle, transmit, and access information.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_070",
+    "category": "computer-studies",
+    "question": "Which of the following is considered a core benefit of using ICT tools in modern business and education?",
+    "options": ["It enables faster and easier communication over long distances", "It eliminates the need for any human labor completely", "It makes computer systems completely free of costs", "It ensures that no information can ever be stolen or deleted"],
+    "correctIndex": 0,
+    "explanation": "ICT tools like email, video calls, and websites make sending messages and learning resources around the globe almost instantaneous.",
+    "extraKokoFact": "Thanks to ICT, a doctor in Lagos can look at an X-ray image and advise a patient living in a remote village hundreds of kilometers away in real time!"
+  },
+  {
+    "id": "cstud_071",
+    "category": "computer-studies",
+    "question": "A collection of related web pages belonging to an individual or organization, accessed together under a unique address, is called a:",
+    "options": ["Website", "Web browser", "Search Engine", "Hyperlink"],
+    "correctIndex": 0,
+    "explanation": "A website is a collection of web pages hosted under a specific domain address on the World Wide Web. Examples include www.kokoprep.com.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_072",
+    "category": "computer-studies",
+    "question": "What does the abbreviation WWW stand for when typing internet addresses?",
+    "options": ["World Wide Web", "World Wide Wireless", "Word Web Working", "Web Wide World"],
+    "correctIndex": 0,
+    "explanation": "WWW stands for World Wide Web. It is the system of interconnected public web pages accessible via the global internet.",
+    "extraKokoFact": "The World Wide Web was invented by a British scientist named Tim Berners-Lee in 1989 as a way for scientists to share research papers easily!"
+  },
+  {
+    "id": "cstud_073",
+    "category": "computer-studies",
+    "question": "Which special web tool allows users to find specific information across the entire internet by typing keywords?",
+    "options": ["Search Engine", "Web Browser", "Operating System", "URL Box"],
+    "correctIndex": 0,
+    "explanation": "A search engine (like Google or Bing) indexes billions of web pages, matching user-typed terms to help locate websites on specific topics.",
+    "extraKokoFact": "The name 'Google' comes from the mathematical term 'Googol', which represents the number 1 followed by one hundred zeros!"
+  },
+  {
+    "id": "cstud_074",
+    "category": "computer-studies",
+    "question": "What is the full meaning of 'E-mail'?",
+    "options": ["Electronic Mail", "Electrical Mail", "Extended Mail", "Engine Mail"],
+    "correctIndex": 0,
+    "explanation": "E-mail stands for Electronic Mail. It is a digital method of exchanging text messages and files between users across a network or the internet.",
+    "extraKokoFact": "The symbol '@' used in email addresses separates the user's chosen name from the domain name of the mail provider, like name@yahoo.com!"
+  },
+  {
+    "id": "cstud_075",
+    "category": "computer-studies",
+    "question": "In Microsoft Word, what name is given to the blinking vertical line that shows exactly where your next typed letter will appear?",
+    "options": ["Cursor", "Pointer", "Arrow", "Marker"],
+    "correctIndex": 0,
+    "explanation": "The cursor (or insertion point) indicates where text input will occur on the page during word processing tasks.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_076",
+    "category": "computer-studies",
+    "question": "Which basic text format option is used to make selected words look dark and thick to emphasize them?",
+    "options": ["Bold", "Italic", "Underline", "Strikethrough"],
+    "correctIndex": 0,
+    "explanation": "The Bold option thickens the lines of font characters to make headings or key terms stand out strongly from surrounding text.",
+    "extraKokoFact": "The quick keyboard shortcut to bold text in Microsoft Word is holding down the Control key and pressing 'B' (Ctrl + B)!"
+  },
+  {
+    "id": "cstud_077",
+    "category": "computer-studies",
+    "question": "Which formatting feature slants text slightly to the right side, often used for highlighting titles or foreign words?",
+    "options": ["Italic", "Bold", "Underline", "Subscript"],
+    "correctIndex": 0,
+    "explanation": "Italicizing slants selected text characters slightly to the right, providing visual variety or emphasis without increasing the font thickness.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_078",
+    "category": "computer-studies",
+    "question": "What is the purpose of the 'Save' command in any software program?",
+    "options": ["To commit active work from volatile RAM into permanent hard storage", "To delete errors from a file completely", "To print a copy out on a physical sheet", "To send the file across the internet to a friend"],
+    "correctIndex": 0,
+    "explanation": "Saving transfers your active document data from temporary RAM memory onto a non-volatile secondary storage medium like a hard disk so it won't disappear when the program closes.",
+    "extraKokoFact": "The icon used for the 'Save' button in most apps is a picture of an old square Floppy Disk, a tool most children today have never seen in real life!"
+  },
+  {
+    "id": "cstud_079",
+    "category": "computer-studies",
+    "question": "What are harmful, malicious software programs written intentionally to disrupt computer operations, steal data, or corrupt files called?",
+    "options": ["Computer Viruses", "Antivirus Applications", "System Software", "Firmware Utilities"],
+    "correctIndex": 0,
+    "explanation": "A computer virus is a form of malware designed to replicate itself and spread from device to device, damaging system files and slowing down performance.",
+    "extraKokoFact": "A computer cannot catch a biological virus from a human sneezing on it, but it catches digital viruses by downloading untrusted files or plugging in infected flash drives!"
+  },
+  {
+    "id": "cstud_080",
+    "category": "computer-studies",
+    "question": "Which software should you install on your computer to scan for, detect, and destroy digital viruses before they damage files?",
+    "options": ["Antivirus Software", "Word Processor", "Web Browser", "Graphics Application"],
+    "correctIndex": 0,
+    "explanation": "Antivirus software constantly monitors a computer system's operations and storage drives to identify and quarantine known digital threats.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_081",
+    "category": "computer-studies",
+    "question": "Using the internet to intentionally insult, harass, intimidate, or bully someone through mean comments or messages is known as:",
+    "options": ["Cyberbullying", "Cybercrime", "Hacking", "Netiquette"],
+    "correctIndex": 0,
+    "explanation": "Cyberbullying refers to online harassment or bullying using digital platforms like social media, chat rooms, or SMS text messaging.",
+    "extraKokoFact": "If anyone ever bullies you online, the best response is to block them immediately, take screenshots, and report it to a parent or teacher!"
+  },
+  {
+    "id": "cstud_082",
+    "category": "computer-studies",
+    "question": "What is the term for the polite rules of proper behavior and manners that individuals should follow when communicating on the internet?",
+    "options": ["Netiquette", "Ethical laws", "System policies", "Web protocol"],
+    "correctIndex": 0,
+    "explanation": "Netiquette is a blend of the words 'network' and 'etiquette'. It outlines proper, respectful online behavior, such as avoiding typing in ALL CAPS (which looks like shouting).",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_083",
+    "category": "computer-studies",
+    "question": "Which of the following represents a secure practice when creating account passwords for your online school portals?",
+    "options": ["Using a combination of letters, numbers, and symbols that is hard for others to guess", "Using your own first name or birth year", "Sharing your private password with classmates so they can help you log in", "Writing it clearly on a sticker pasted onto the edge of your monitor screen"],
+    "correctIndex": 0,
+    "explanation": "A strong, complex password prevents unauthorized people from accessing your personal profiles and data. It should never be shared with anyone except your parents.",
+    "extraKokoFact": "Using '123456' or 'password' are the most common passwords globally, and hackers can crack them in less than a single second!"
+  },
+  {
+    "id": "cstud_084",
+    "category": "computer-studies",
+    "question": "An early electronic digital computer, built in 1946 to calculate artillery firing tables, stood for Electronic Numerical Integrator and Computer. What was its short name?",
+    "options": ["ENIAC", "UNIVAC", "EDVAC", "ALTAIR"],
+    "correctIndex": 0,
+    "explanation": "ENIAC was the world's first general-purpose, fully electronic digital computer. It occupied a massive room and used thousands of vacuum tubes.",
+    "extraKokoFact": "The ENIAC weighed over 27 tons and took up an entire large basement room. Today, a microchip smaller than your fingernail is vastly more powerful!"
+  },
+  {
+    "id": "cstud_085",
+    "category": "computer-studies",
+    "question": "Which component is regarded as an internal storage hardware option?",
+    "options": ["Hard disk drive", "Monitor", "Printer", "Keyboard"],
+    "correctIndex": 0,
+    "explanation": "The hard disk drive resides inside the system unit casing and holds the system data, making it an internal storage option.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_086",
+    "category": "computer-studies",
+    "question": "The physical rectangular metal box or casing that houses the essential internal computing components like the motherboard, CPU, and RAM is called the:",
+    "options": ["System Unit", "Monitor Box", "Hard Case", "Control Board"],
+    "correctIndex": 0,
+    "explanation": "The System Unit is the core container holding the primary processing electronics of a computer system. It excludes external attachments like keyboards and screens.",
+    "extraKokoFact": "Many people mistakenly call this box the 'CPU', but the CPU is actually just a tiny microchip hidden deep inside the system unit!"
+  },
+  {
+    "id": "cstud_087",
+    "category": "computer-studies",
+    "question": "What name is given to all external hardware devices connected to the system unit via cables or wireless signals?",
+    "options": ["Peripherals", "Applications", "Utilities", "Internal components"],
+    "correctIndex": 0,
+    "explanation": "Peripherals are any auxiliary input, output, or storage devices that connect externally to the computer's system unit, such as a printer, mouse, or webcam.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_088",
+    "category": "computer-studies",
+    "question": "Which key can be toggled on a keyboard to make every letter you type appear automatically as a CAPITAL letter?",
+    "options": ["Caps Lock key", "Num Lock key", "Shift key", "Tab key"],
+    "correctIndex": 0,
+    "explanation": "Caps Lock is a toggle key. When pressed once, a small indicator light shines, and all subsequent letter keys typed are rendered in uppercase.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_089",
+    "category": "computer-studies",
+    "question": "Which specialized key on the upper left corner of a keyboard is used to abort, cancel, or exit an ongoing program operation or pop-up menu?",
+    "options": ["Escape key (Esc)", "Spacebar", "Alt key", "Control key"],
+    "correctIndex": 0,
+    "explanation": "The Escape key (Esc) generates a system interrupt shortcut command, telling the active software to abort or close the current window or action.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_090",
+    "category": "computer-studies",
+    "question": "What does a computer do with data during the 'Processing' stage?",
+    "options": ["It performs calculations, sorts items, and follows logical rules", "It displays images on the monitor display", "It saves text onto a flash drive storage medium", "It sends messages over internet fiber cables"],
+    "correctIndex": 0,
+    "explanation": "Processing is where the CPU manipulates, computes, sorts, or analyzes raw input data based on programmatic rules to turn it into useful information.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_091",
+    "category": "computer-studies",
+    "question": "Which type of computer classification focuses on machines built to perform one single task exclusively, such as a microwave control panel or traffic light systems?",
+    "options": ["Special Purpose Computer", "General Purpose Computer", "Mainframe Computer", "Supercomputer"],
+    "correctIndex": 0,
+    "explanation": "Special purpose computers are engineered to perform one specific function or run one embedded task. They cannot be used to play games, type documents, or browse the web.",
+    "extraKokoFact": "The small electronic computer brain built inside a modern automatic washing machine is a special purpose computer because it only knows how to wash clothes!"
+  },
+  {
+    "id": "cstud_092",
+    "category": "computer-studies",
+    "question": "Personal computers (PCs) and laptops can run thousands of different software apps, from typing reports to playing audio. What class are they?",
+    "options": ["General Purpose Computers", "Special Purpose Computers", "Analog Systems", "Mechanical Abacuses"],
+    "correctIndex": 0,
+    "explanation": "General-purpose computers are designed to perform a vast variety of functions. By swapping applications, the user can change the purpose of the machine instantly.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_093",
+    "category": "computer-studies",
+    "question": "What kind of hardware component is a digital webcam?",
+    "options": ["Input device", "Output device", "Storage unit", "Processing module"],
+    "correctIndex": 0,
+    "explanation": "A webcam captures live video images of the physical world and inputs them into digital format for transmission or recording on a computer, making it an input device.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_094",
+    "category": "computer-studies",
+    "question": "What type of printer uses high-speed light beams to melt powdered ink (toner) onto sheets of paper, making crisp copies very quickly?",
+    "options": ["Laser printer", "Inkjet printer", "Dot-matrix printer", "Plotter machine"],
+    "correctIndex": 0,
+    "explanation": "Laser printers utilize static electricity and optical laser beams to melt dry toner powder onto pages, providing fast text output.",
+    "extraKokoFact": "Laser printers are common in business offices and cyber cafés in Lagos because they print pages much faster than inkjet models!"
+  },
+  {
+    "id": "cstud_095",
+    "category": "computer-studies",
+    "question": "Which of the following is an example of application software used for creating dynamic slideshows for classroom or office presentations?",
+    "options": ["Microsoft PowerPoint", "Microsoft Word", "Windows Notepad", "Google Maps"],
+    "correctIndex": 0,
+    "explanation": "Microsoft PowerPoint is a dedicated presentation application used to combine text, images, and animations into slides for public display.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_096",
+    "category": "computer-studies",
+    "question": "What type of software package is a game application like Chess or Subway Surfers?",
+    "options": ["Application software", "System software", "Operating utility", "Hardware module"],
+    "correctIndex": 0,
+    "explanation": "Video games are application software because they are distinct programs built for amusement, distraction, or leisure for the person operating the device.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_097",
+    "category": "computer-studies",
+    "question": "Sitting improperly while using a computer for long periods can cause neck pain and back strain. What is the study of arranging furniture and computers safely called?",
+    "options": ["Ergonomics", "E-safety", "Netiquette", "System alignment"],
+    "correctIndex": 0,
+    "explanation": "Ergonomics is the science of designing tools, workspace furniture, and computing equipment to fit the human body correctly, preventing physical strain or fatigue.",
+    "extraKokoFact": "To practice good ergonomics, your computer screen should be at your eye level, your feet flat on the floor, and your back straight against your chair support!"
+  },
+  {
+    "id": "cstud_098",
+    "category": "computer-studies",
+    "question": "What health issue can develop from staring continuously at a bright computer screen for hours without looking away or blinking?",
+    "options": ["Eye strain and dry eyes", "Hearing loss", "Broken bones", "Loss of fingerprints"],
+    "correctIndex": 0,
+    "explanation": "Extended screen exposure without breaks tires out your eye muscles and reduces how often you blink, leading to blurry vision and eye strain.",
+    "extraKokoFact": "Doctors recommend the 20-20-20 rule: Every 20 minutes, take your eyes off the screen and look at something 20 feet away for at least 20 seconds!"
+  },
+  {
+    "id": "cstud_099",
+    "category": "computer-studies",
+    "question": "The string of characters typed into the address bar of a web browser to locate a unique web resource (e.g., https://www.google.com) is called a:",
+    "options": ["URL (Uniform Resource Locator)", "Hyperlink tag", "Search query", "IP number"],
+    "correctIndex": 0,
+    "explanation": "URL stands for Uniform Resource Locator. It serves as the specific global address used by web browsers to locate and open digital resources on the internet.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cstud_100",
+    "category": "computer-studies",
+    "question": "Why is it dangerous to download electronic files from untrusted or suspicious websites on the internet?",
+    "options": ["The files could contain hidden computer viruses that can ruin your operating system", "The computer's monitor screen will crack physically", "The keyboard layout will change from QWERTY to alphabetical", "It instantly erases your hard copy paper files"],
+    "correctIndex": 0,
+    "explanation": "Untrusted websites are common vectors for spreading malware and trojans disguised as games, movies, or files. Downloading them can compromise your system security.",
+    "extraKokoFact": "Always look for a small padlock icon next to the website address in your browser. This padlock shows that the connection to the website is encrypted and secure!"
+  }
+]

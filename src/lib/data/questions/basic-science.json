@@ -1,0 +1,902 @@
+[
+  {
+    "id": "bsci_001",
+    "category": "basic-science",
+    "question": "Any chemical substance that affects the action of the body when taken is called:",
+    "options": ["Food", "Drug", "Water", "Air"],
+    "correctIndex": 1,
+    "explanation": "A drug is any chemical substance that changes how the body works when taken. This includes medicines as well as harmful substances.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_002",
+    "category": "basic-science",
+    "question": "Which of the following is NOT an example of a drug?",
+    "options": ["Kola nut", "Cigarette", "Indian hemp", "Cashew"],
+    "correctIndex": 3,
+    "explanation": "Cashew is a food, not a drug. Kola nut, cigarettes and Indian hemp all contain substances that affect the body's functions.",
+    "extraKokoFact": "Kola nut contains caffeine, the same stimulant found in tea and coffee. It is part of many Nigerian cultural traditions."
+  },
+  {
+    "id": "bsci_003",
+    "category": "basic-science",
+    "question": "The release of harmful substances into the atmosphere is called:",
+    "options": ["Water pollution", "Soil pollution", "Noise pollution", "Air pollution"],
+    "correctIndex": 3,
+    "explanation": "When harmful substances are released into the air, it is called air pollution. Factories, cars and burning waste are common causes.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_004",
+    "category": "basic-science",
+    "question": "The primary source of energy for our brain is:",
+    "options": ["Sun", "Carbohydrate", "Water", "Protein"],
+    "correctIndex": 1,
+    "explanation": "Carbohydrates are broken down into glucose, which is the main fuel for the brain. That is why eating a good breakfast helps you concentrate!",
+    "extraKokoFact": "The brain uses about 20% of all the energy your body produces, even though it is only about 2% of your body weight!"
+  },
+  {
+    "id": "bsci_005",
+    "category": "basic-science",
+    "question": "Hand washing should be done with:",
+    "options": ["Water only", "Soap only", "Soap and water", "Shampoo"],
+    "correctIndex": 2,
+    "explanation": "Soap and water together are needed for effective hand washing. Soap breaks down the germs and water washes them away.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_006",
+    "category": "basic-science",
+    "question": "The ability of a material to be stretched and return to its original position is known as:",
+    "options": ["Elasticity", "Conductivity", "Ductility", "Malleability"],
+    "correctIndex": 0,
+    "explanation": "Elasticity is the property of a material that lets it stretch and then spring back to its original shape. A rubber band is a good example.",
+    "extraKokoFact": "Ductility means a material can be drawn into thin wires (like copper). Malleability means it can be hammered into flat sheets (like gold)."
+  },
+  {
+    "id": "bsci_007",
+    "category": "basic-science",
+    "question": "Which of the following materials is provided by nature?",
+    "options": ["Plastic", "Wood", "Ceramics", "Glass"],
+    "correctIndex": 1,
+    "explanation": "Wood comes directly from trees — it is a natural material. Plastic, ceramics and glass are all manufactured by humans from raw materials.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_008",
+    "category": "basic-science",
+    "question": "What sanitation means is:",
+    "options": ["Daily removal of sewage", "The efficient removal of dirt from home", "The arrangements to protect individual and public health", "Care of the house only"],
+    "correctIndex": 2,
+    "explanation": "Sanitation refers to the systems and arrangements put in place to protect human health by providing clean environments — including waste disposal, clean water, and hygiene.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_009",
+    "category": "basic-science",
+    "question": "How many times should we brush our teeth each day?",
+    "options": ["Once a day", "Twice a day", "Three times a day", "Monthly"],
+    "correctIndex": 1,
+    "explanation": "Dentists recommend brushing teeth twice a day — once in the morning and once before bed — to keep teeth and gums healthy.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_010",
+    "category": "basic-science",
+    "question": "Which of the following is NOT a product of technology?",
+    "options": ["Car", "Gas cooker", "Stone", "Television"],
+    "correctIndex": 2,
+    "explanation": "A stone is a natural object found in nature. Cars, gas cookers and televisions are all made by humans using technology.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_011",
+    "category": "basic-science",
+    "question": "Which organ in the human body pumps blood around the body?",
+    "options": ["Heart", "Lungs", "Liver", "Kidneys"],
+    "correctIndex": 0,
+    "explanation": "The heart is a muscular organ responsible for pumping blood throughout the circulatory system, delivering oxygen and nutrients to tissues and removing wastes. Lungs handle gas exchange, the liver processes nutrients and filters toxins, and kidneys filter waste from blood to form urine.",
+    "extraKokoFact": "Your heart beats about 100,000 times a day and pumps around 7,500 liters of blood daily!"
+  },
+  {
+    "id": "bsci_012",
+    "category": "basic-science",
+    "question": "What is the process by which green plants make their own food called?",
+    "options": ["Photosynthesis", "Respiration", "Transpiration", "Fermentation"],
+    "correctIndex": 0,
+    "explanation": "Photosynthesis is the process green plants use to synthesize nutrients from carbon dioxide and water using sunlight and chlorophyll. Respiration breaks down food to release energy, transpiration is the loss of water vapor from leaves, and fermentation is an anaerobic breakdown of substances.",
+    "extraKokoFact": "The word photosynthesis comes from Greek words: 'photo' meaning light, and 'synthesis' meaning putting together."
+  },
+  {
+    "id": "bsci_013",
+    "category": "basic-science",
+    "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "correctIndex": 0,
+    "explanation": "During photosynthesis, plants absorb carbon dioxide from the air through their stomata and combine it with water to make glucose, releasing oxygen as a byproduct. Oxygen is absorbed during respiration, while nitrogen and hydrogen are not directly absorbed from the air for photosynthesis.",
+    "extraKokoFact": "Because plants absorb carbon dioxide and release oxygen, planting trees helps combat air pollution and climate change!"
+  },
+  {
+    "id": "bsci_014",
+    "category": "basic-science",
+    "question": "What is the standard unit of measurement for force?",
+    "options": ["Newton", "Joule", "Watt", "Kilogram"],
+    "correctIndex": 0,
+    "explanation": "The SI unit of force is the Newton (N), named after the scientist Sir Isaac Newton. The Joule is the unit of energy or work, the Watt is the unit of power, and the Kilogram is the unit of mass.",
+    "extraKokoFact": "One Newton is approximately equal to the force of gravity pulling down on a small apple!"
+  },
+  {
+    "id": "bsci_015",
+    "category": "basic-science",
+    "question": "Which of the following is a renewable source of energy?",
+    "options": ["Solar energy", "Crude oil", "Coal", "Natural gas"],
+    "correctIndex": 0,
+    "explanation": "Solar energy is a renewable energy resource because it comes from the sun and will never run out. Crude oil, coal, and natural gas are fossil fuels, which are non-renewable because they take millions of years to form and can be completely exhausted.",
+    "extraKokoFact": "Nigeria has abundant sunshine all year round, making solar energy an excellent choice for expanding clean electricity across the country!"
+  },
+  {
+    "id": "bsci_016",
+    "category": "basic-science",
+    "question": "Which of the following is a major cause of water pollution in our environment?",
+    "options": ["Chlorine", "Alum", "Refuse", "Air"],
+    "correctIndex": 2,
+    "explanation": "Refuse (garbage or waste materials dumped into water bodies) pollutes water, making it unsafe for consumption and dangerous for aquatic life. Chlorine and alum are chemicals used in controlled amounts to purify water, and air does not cause water pollution.",
+    "extraKokoFact": "Dumping plastic bags and nylons into rivers blocks water flow and can create breeding grounds for disease-carrying mosquitoes."
+  },
+  {
+    "id": "bsci_017",
+    "category": "basic-science",
+    "question": "Which of the following vegetables is commonly eaten raw without cooking?",
+    "options": ["Yam", "Potato", "Cucumber", "Lady finger"],
+    "correctIndex": 2,
+    "explanation": "Cucumber is a vegetable that is normally eaten raw in salads or on its own. Yam, potato, and lady finger (okra) are typically cooked, boiled, or fried before they can be eaten safely and digested properly.",
+    "extraKokoFact": "Cucumbers are made up of about 95% water, which makes them highly hydrating and refreshing to eat on a hot day in Lagos!"
+  },
+  {
+    "id": "bsci_018",
+    "category": "basic-science",
+    "question": "Raw and cooked food eaten in combination at one time in a day is called a:",
+    "options": ["Snack", "Feast", "Dessert", "Meal"],
+    "correctIndex": 3,
+    "explanation": "A meal refers to any food items—whether raw (like a salad), cooked (like rice), or a combination of both—that are eaten together at a specific time of day (such as breakfast, lunch, or dinner). A snack is a small amount of food eaten between meals, a feast is a large celebratory banquet, and a dessert is a sweet course eaten at the end of a meal.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_019",
+    "category": "basic-science",
+    "question": "Which characteristic of living things describes the removal of metabolic waste products from the body?",
+    "options": ["Nutrition", "Respiration", "Excretion", "Growth"],
+    "correctIndex": 2,
+    "explanation": "Excretion is the process by which living organisms eliminate toxic waste products produced inside their bodies. Nutrition is obtaining food, respiration is releasing energy from food, and growth is the permanent increase in size.",
+    "extraKokoFact": "In humans, major excretory organs include the kidneys (urine), lungs (carbon dioxide), and skin (sweat)."
+  },
+  {
+    "id": "bsci_020",
+    "category": "basic-science",
+    "question": "The ability of living organisms to produce young ones of their own kind is known as:",
+    "options": ["Irritability", "Reproduction", "Movement", "Adaptation"],
+    "correctIndex": 1,
+    "explanation": "Reproduction ensures the continuity of life by allowing organisms to produce offspring of their own species. Irritability is responding to changes in the environment, movement is changing position, and adaptation is adjusting to live in an environment.",
+    "extraKokoFact": "Without reproduction, a species would eventually become extinct when all its living members die out."
+  },
+  {
+    "id": "bsci_021",
+    "category": "basic-science",
+    "question": "Green plants are different from animals because green plants can:",
+    "options": ["Move from one place to another", "Manufacture their own food using sunlight", "Breathe in oxygen and release carbon dioxide", "Respond to touch and temperature very quickly"],
+    "correctIndex": 1,
+    "explanation": "Green plants are autotrophs, meaning they produce their own food through photosynthesis. Animals are heterotrophs and must feed on other organisms. Most plants cannot move from place to place, and their responses to stimuli are generally much slower than animals.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_022",
+    "category": "basic-science",
+    "question": "A severe deficiency of Vitamin C in a child's regular diet leads to which disease?",
+    "options": ["Rickets", "Beriberi", "Scurvy", "Kwashiorkor"],
+    "correctIndex": 2,
+    "explanation": "Scurvy is a disease caused by lack of Vitamin C, characterized by bleeding gums and poor wound healing. Rickets is caused by lack of Vitamin D, beriberi by lack of Vitamin B1, and kwashiorkor by a severe lack of protein.",
+    "extraKokoFact": "Citrus fruits like oranges, limes, lemons, and grapefruits are excellent local sources of Vitamin C!"
+  },
+  {
+    "id": "bsci_023",
+    "category": "basic-science",
+    "question": "Which of the following classes of food is primary responsible for bodybuilding, growth, and the repair of worn-out body tissues?",
+    "options": ["Carbohydrates", "Proteins", "Fats and Oils", "Vitamins"],
+    "correctIndex": 1,
+    "explanation": "Proteins are the building blocks of the body, essential for muscle growth and repairing cells. Carbohydrates and fats provide energy, while vitamins and minerals protect the body from diseases.",
+    "extraKokoFact": "Great local sources of protein in Nigeria include beans, eggs, fish, meat, and groundnuts."
+  },
+  {
+    "id": "bsci_024",
+    "category": "basic-science",
+    "question": "A lack of iron in the diet prevents the formation of enough red blood cells, leading to a condition called:",
+    "options": ["Anemia", "Malaria", "Diabetes", "Goitre"],
+    "correctIndex": 0,
+    "explanation": "Iron is needed to make hemoglobin, which carries oxygen in the blood. A shortage of iron results in anemia, making a person feel tired and weak. Malaria is caused by a parasite, diabetes relates to blood sugar regulation, and goitre is caused by iodine deficiency.",
+    "extraKokoFact": "Eating dark green leafy vegetables like fluted pumpkin leaves (ugu) is an excellent way to boost your iron intake."
+  },
+  {
+    "id": "bsci_025",
+    "category": "basic-science",
+    "question": "A young child presenting with a swollen belly, thin limbs, and discoloration of the hair is likely suffering from:",
+    "options": ["Marasmus", "Kwashiorkor", "Rickets", "Night blindness"],
+    "correctIndex": 1,
+    "explanation": "Kwashiorkor is a severe form of malnutrition caused by inadequate protein intake even if the child gets enough carbohydrates. Marasmus is general starvation (lack of calories and protein), rickets affects bones, and night blindness is caused by lack of Vitamin A.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_026",
+    "category": "basic-science",
+    "question": "Which insect acts as the vector that transmits the Plasmodium parasite causing malaria in humans?",
+    "options": ["Housefly", "Tsetse fly", "Female Anopheles mosquito", "Culex mosquito"],
+    "correctIndex": 2,
+    "explanation": "The female Anopheles mosquito transmits the malaria parasite when it bites humans to feed on blood. Houseflies carry germs that cause cholera and typhoid on their hairy bodies, and tsetse flies transmit sleeping sickness.",
+    "extraKokoFact": "Sleeping under long-lasting insecticide-treated nets (ITNs) is one of the best ways to protect yourself from malaria bites."
+  },
+  {
+    "id": "bsci_027",
+    "category": "basic-science",
+    "question": "Sleeping sickness, a disease that causes extreme fatigue and damages the nervous system, is transmitted by the bite of the:",
+    "options": ["Tsetse fly", "Blackfly", "Housefly", "Bedbug"],
+    "correctIndex": 0,
+    "explanation": "Sleeping sickness (trypanosomiasis) is transmitted by the tsetse fly. Blackflies transmit river blindness, houseflies spread dysentery and typhoid, and bedbugs cause itchy skin bites but do not transmit sleeping sickness.",
+    "extraKokoFact": "Tsetse flies are found mainly in rural, forested areas and savanna regions of sub-Saharan Africa."
+  },
+  {
+    "id": "bsci_028",
+    "category": "basic-science",
+    "question": "Which water-borne disease is caused by drinking water or eating food contaminated with the bacterium Vibrio cholerae, causing severe watery diarrhea?",
+    "options": ["Typhoid", "Cholera", "Dysentery", "Bilharzia"],
+    "correctIndex": 1,
+    "explanation": "Cholera causes sudden, severe dehydration through profuse watery stool and vomiting. Typhoid is caused by Salmonella bacteria, dysentery involves bloody stools, and bilharzia is caused by parasitic worms in fresh water.",
+    "extraKokoFact": "Prompt treatment with Oral Rehydration Salts (ORS) is crucial for saving the lives of cholera patients by replacing lost fluids."
+  },
+  {
+    "id": "bsci_029",
+    "category": "basic-science",
+    "question": "To practice good personal respiratory hygiene and prevent spreading airborne germs, you should cover a cough or sneeze using:",
+    "options": ["Your bare hands", "The inner crook of your elbow or a clean tissue", "A shared handkerchief", "Nothing at all"],
+    "correctIndex": 1,
+    "explanation": "Sneeze or cough into the inside of your elbow or a tissue to prevent micro-organisms from flying into the air or getting onto your hands, which can spread germs to everything you touch. Shared handkerchiefs can transfer germs to others.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_030",
+    "category": "basic-science",
+    "question": "The physical removal and washing away of the topsoil by elements like heavy rainfall or strong winds is termed:",
+    "options": ["Deforestation", "Soil erosion", "Desertification", "Mulching"],
+    "correctIndex": 1,
+    "explanation": "Soil erosion occurs when topsoil is carried away by water or wind. Deforestation is cutting down trees, desertification is the spread of desert conditions, and mulching is a practice used to cover soil and preserve moisture.",
+    "extraKokoFact": "Planting grass and trees helps bind the soil together, acting as an excellent barrier against erosion."
+  },
+  {
+    "id": "bsci_031",
+    "category": "basic-science",
+    "question": "The destructive human activity of cutting down trees indiscriminately without replanting new ones is called:",
+    "options": ["Afforestation", "Reforestation", "Deforestation", "Agroforestry"],
+    "correctIndex": 2,
+    "explanation": "Deforestation removes forest cover, which destroys animal habitats and leads to increased carbon dioxide levels and soil erosion. Afforestation is planting trees on a new piece of land, and reforestation is replanting trees where they were cut.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_032",
+    "category": "basic-science",
+    "question": "The physical process by which a solid substance turns into a liquid when heat energy is added is called:",
+    "options": ["Freezing", "Evaporation", "Melting", "Condensation"],
+    "correctIndex": 2,
+    "explanation": "Melting happens when heat gives particles in a solid enough energy to break free from fixed positions and move around as a liquid. Freezing is liquid to solid, evaporation is liquid to gas, and condensation is gas to liquid.",
+    "extraKokoFact": "Pure ice melts at exactly 0 degrees Celsius, which is the same temperature at which water freezes."
+  },
+  {
+    "id": "bsci_033",
+    "category": "basic-science",
+    "question": "Which of the following changes is an example of a chemical change because a new substance is formed and it cannot be easily reversed?",
+    "options": ["Melting of ice cream", "Dissolving sugar in hot tea", "Burning a dry piece of wood", "Bending a copper wire"],
+    "correctIndex": 2,
+    "explanation": "Burning wood creates new chemical substances (ash, smoke, carbon dioxide) that cannot be turned back into wood, which is a chemical change. Melting ice cream, dissolving sugar, and bending wire are physical changes because no new substances are created.",
+    "extraKokoFact": "Rusting of iron gates and the souring of fresh milk are also examples of chemical changes."
+  },
+  {
+    "id": "bsci_034",
+    "category": "basic-science",
+    "question": "Which state of matter has no fixed shape and no definite volume, expanding completely to fill any container it occupies?",
+    "options": ["Solid", "Liquid", "Gas", "Crystal"],
+    "correctIndex": 2,
+    "explanation": "Gas particles have a lot of space between them and move freely at high speeds, meaning they have no definite volume or shape. Solids have both a fixed shape and volume. Liquids have a fixed volume but take the shape of their container.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_035",
+    "category": "basic-science",
+    "question": "When steam or water vapor cools down and changes from a gas into liquid water droplets, the process is called:",
+    "options": ["Condensation", "Sublimation", "Evaporation", "Freezing"],
+    "correctIndex": 0,
+    "explanation": "Condensation occurs when a gas loses heat energy and transforms back into a liquid. Sublimation is solid changing directly to gas, evaporation is liquid changing to gas, and freezing is liquid changing to solid.",
+    "extraKokoFact": "Condensation is responsible for forming clouds in the sky and dew on grass in the early morning."
+  },
+  {
+    "id": "bsci_036",
+    "category": "basic-science",
+    "question": "Which gas is the most abundant in the Earth's atmosphere, making up roughly 78% of clean, dry air?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Argon"],
+    "correctIndex": 2,
+    "explanation": "Nitrogen makes up approximately 78% of the air, followed by oxygen at about 21%. Carbon dioxide is present in tiny amounts (around 0.04%), and argon makes up about 0.93%.",
+    "extraKokoFact": "Even though nitrogen is extremely abundant in the air, humans and animals cannot breathe it in directly to use it; we get nitrogen from eating food!"
+  },
+  {
+    "id": "bsci_037",
+    "category": "basic-science",
+    "question": "Which gas is essential for the respiration of living organisms and for the chemical process of burning (combustion)?",
+    "options": ["Hydrogen", "Oxygen", "Nitrogen", "Carbon dioxide"],
+    "correctIndex": 1,
+    "explanation": "Oxygen is needed by cells to break down food for energy during aerobic respiration, and it supports combustion. Fire cannot burn without oxygen. Carbon dioxide and nitrogen actually suppress fire.",
+    "extraKokoFact": "If you trap a burning candle under a glass cup, it will go out as soon as it consumes all the available oxygen inside."
+  },
+  {
+    "id": "bsci_038",
+    "category": "basic-science",
+    "question": "Which weather instrument is specifically used by meteorologists to collect and measure the amount of liquid precipitation over a given time?",
+    "options": ["Wind vane", "Anemometer", "Barometer", "Rain gauge"],
+    "correctIndex": 3,
+    "explanation": "A rain gauge is a graduated cylinder or funnel device that collects rainfall to measure it in millimeters. A wind vane tells wind direction, an anemometer measures wind speed, and a barometer measures atmospheric pressure.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_039",
+    "category": "basic-science",
+    "question": "An anemometer is a mechanical weather instrument designed specifically to measure:",
+    "options": ["Atmospheric pressure", "Wind speed", "Air temperature", "Relative humidity"],
+    "correctIndex": 1,
+    "explanation": "An anemometer has cups that spin around when wind blows against them; the faster they spin, the higher the wind speed. Pressure is measured by a barometer, temperature by a thermometer, and humidity by a hygrometer.",
+    "extraKokoFact": "Anemometers are crucial tools at airports in Nigeria to help pilots know if it is safe to take off or land an airplane."
+  },
+  {
+    "id": "bsci_040",
+    "category": "basic-science",
+    "question": "Which instrument is used to show the direction from which the wind is blowing?",
+    "options": ["Hygrometer", "Thermometer", "Wind vane", "Anemometer"],
+    "correctIndex": 2,
+    "explanation": "A wind vane (or weather vane) points in the direction the wind is coming from. A hygrometer measures humidity, a thermometer measures temperature, and an anemometer measures wind speed.",
+    "extraKokoFact": "The arrow of a wind vane points into the wind, so an arrow pointing North means a North wind is blowing."
+  },
+  {
+    "id": "bsci_041",
+    "category": "basic-science",
+    "question": "What type of form of energy is stored within food substances, wood logs, and dry cell torch batteries?",
+    "options": ["Kinetic energy", "Chemical energy", "Solar energy", "Electrical energy"],
+    "correctIndex": 1,
+    "explanation": "Chemical energy is stored in the bonds of chemical compounds. It is released during chemical reactions, such as digestion in our bodies or burning wood. Kinetic energy is the energy of motion.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_042",
+    "category": "basic-science",
+    "question": "Energy that a physical body possesses due to its motion or movement is known as:",
+    "options": ["Potential energy", "Kinetic energy", "Thermal energy", "Sound energy"],
+    "correctIndex": 1,
+    "explanation": "Kinetic energy is the energy of any moving object, like a rolling football, a running child, or a speeding car. Potential energy is stored energy due to position or state.",
+    "extraKokoFact": "The heavier an object is and the faster it moves, the more kinetic energy it has!"
+  },
+  {
+    "id": "bsci_043",
+    "category": "basic-science",
+    "question": "A stretched catapult rubber band or water held back at the top of a high waterfall possesses:",
+    "options": ["Potential energy", "Kinetic energy", "Light energy", "Magnetic energy"],
+    "correctIndex": 0,
+    "explanation": "Potential energy is stored energy an object has because of its position, shape, or state. When the catapult is released, its potential energy is converted into kinetic energy, throwing the stone forward.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_044",
+    "category": "basic-science",
+    "question": "Thermal or heat energy from the sun travels across the vacuum of outer space to reach the Earth through which mechanism?",
+    "options": ["Conduction", "Convection", "Radiation", "Insulation"],
+    "correctIndex": 2,
+    "explanation": "Radiation is the transfer of heat energy via electromagnetic waves and does not require a material medium. Conduction requires solid contact, and convection requires a moving fluid (liquid or gas). Insulation prevents heat transfer.",
+    "extraKokoFact": "Because space is a vacuum with no air, radiation is the only way solar energy can reach us."
+  },
+  {
+    "id": "bsci_045",
+    "category": "basic-science",
+    "question": "When an electric pressing iron is plugged into a wall socket at home, electrical energy is converted majorly into:",
+    "options": ["Sound energy", "Light energy", "Heat energy", "Chemical energy"],
+    "correctIndex": 2,
+    "explanation": "An electric iron contains a heating element with high resistance that converts electrical energy into heat energy, which is used to smooth out wrinkles in clothes. It does not produce functional light, sound, or chemical energy.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_046",
+    "category": "basic-science",
+    "question": "Which type of contact force acts to oppose or resist relative motion when two surfaces rub against one another?",
+    "options": ["Gravitational force", "Frictional force", "Magnetic force", "Electrostatic force"],
+    "correctIndex": 1,
+    "explanation": "Friction acts in the opposite direction of movement when two surfaces touch, slowing things down or stopping them. Gravity pulls objects together, and magnetic and electrostatic forces act over a distance.",
+    "extraKokoFact": "Friction is what stops your shoes from slipping when you walk on a tiled floor in Lagos!"
+  },
+  {
+    "id": "bsci_047",
+    "category": "basic-science",
+    "question": "Why does a ripe mango drop straight down to the ground from a tree branch instead of floating away into the air?",
+    "options": ["Because of atmospheric pressure", "Because of magnetic force", "Because of gravitational force", "Because of frictional force"],
+    "correctIndex": 2,
+    "explanation": "Gravity is the invisible force of attraction exerted by the Earth that pulls all physical objects down toward its center. Frictional force opposes sliding motion, magnetic force attracts metals, and pressure acts on surfaces but doesn't cause objects to fall.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_048",
+    "category": "basic-science",
+    "question": "A playground seesaw, a gardener's wheelbarrow, and a pair of scissors are all examples of which type of simple machine?",
+    "options": ["Lever", "Pulley", "Inclined plane", "Screw"],
+    "correctIndex": 0,
+    "explanation": "Levers consist of a rigid bar turning around a fixed pivot point called a fulcrum. Pulleys use grooved wheels and ropes, inclined planes are ramps, and screws are inclined planes wrapped around cylinders.",
+    "extraKokoFact": "A crowbar used to lift heavy stones or open wooden crates is another excellent example of a lever."
+  },
+  {
+    "id": "bsci_049",
+    "category": "basic-science",
+    "question": "Which simple machine consists of a slanted flat surface or ramp used to roll heavy loads up to a higher level with less effort?",
+    "options": ["Wedge", "Inclined plane", "Wheel and axle", "Pulley"],
+    "correctIndex": 1,
+    "explanation": "An inclined plane spreads out the effort needed to raise a heavy object over a longer distance, making it much easier than lifting it straight up. Wedges are used for splitting, wheel and axles for rotating, and pulleys for hoisting.",
+    "extraKokoFact": "Ramps built outside buildings for wheelchairs are a practical example of an inclined plane."
+  },
+  {
+    "id": "bsci_050",
+    "category": "basic-science",
+    "question": "A lifting machine or crane at a construction site in Lagos uses a grooved wheel and a rope to lift heavy materials. This simple machine is a:",
+    "options": ["Screw", "Lever", "Pulley", "Wedge"],
+    "correctIndex": 2,
+    "explanation": "A pulley changes the direction of the force applied, allowing you to pull down on a rope to lift a heavy load up. Screws, levers, and wedges do not use a wheel-and-rope setup.",
+    "extraKokoFact": "A flagpole uses a small pulley system at the top to make it easy to raise the Nigerian flag from the ground!"
+  },
+  {
+    "id": "bsci_051",
+    "category": "basic-science",
+    "question": "The continuous movement of the Earth along its fixed elliptical orbit around the Sun takes about 365 and a quarter days, and is called:",
+    "options": ["Rotation", "Revolution", "Spinning", "Ecliptic"],
+    "correctIndex": 1,
+    "explanation": "Revolution is the Earth's movement around the Sun, which determines the length of our calendar year. Rotation is the spinning of the Earth on its own internal axis, which takes 24 hours.",
+    "extraKokoFact": "The extra quarter day (1/4) every year adds up to one full day every four years, creating a Leap Year with 366 days in February!"
+  },
+  {
+    "id": "bsci_052",
+    "category": "basic-science",
+    "question": "The spinning rotation of the Earth on its imaginary axis from West to East once every 24 hours causes:",
+    "options": ["The cycle of the seasons", "Day and night", "Eclipses of the moon", "Changes in ocean tides"],
+    "correctIndex": 1,
+    "explanation": "As the Earth rotates, the side facing the Sun experiences daylight, while the side turned away experiences night. The cycle of seasons is caused by the Earth's revolution and tilted axis, not its rotation.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_053",
+    "category": "basic-science",
+    "question": "Which planet is located closest to the Sun in our solar system?",
+    "options": ["Venus", "Earth", "Mars", "Mercury"],
+    "correctIndex": 3,
+    "explanation": "The order of the planets from the Sun is Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Mercury is closest, while Neptune is the farthest away.",
+    "extraKokoFact": "Even though Mercury is closest to the sun, Venus is actually the hottest planet because its thick atmosphere traps heat!"
+  },
+  {
+    "id": "bsci_054",
+    "category": "basic-science",
+    "question": "What astronomical event occurs when the Moon passes directly between the Sun and the Earth, blocking out sunlight?",
+    "options": ["Solar eclipse", "Lunar eclipse", "New moon", "Solstice"],
+    "correctIndex": 0,
+    "explanation": "A solar eclipse occurs when the Moon blocks the Sun's light, casting a shadow on Earth. A lunar eclipse occurs when the Earth passes between the Sun and the Moon, casting a shadow on the Moon.",
+    "extraKokoFact": "During a total solar eclipse, day briefly turns into darkness, and you must never look directly at it without special protective glasses."
+  },
+  {
+    "id": "bsci_055",
+    "category": "basic-science",
+    "question": "Which method of water purification involves heating water to 100 degrees Celsius to kill disease-causing micro-organisms?",
+    "options": ["Filtration", "Boiling", "Sedimentation", "Decantation"],
+    "correctIndex": 1,
+    "explanation": "Boiling is the most effective household method to kill germs, bacteria, and parasites in water. Filtration removes solid particles but may leave germs, while sedimentation and decantation let dirt settle before pouring off the clear water.",
+    "extraKokoFact": "Health experts recommend letting boiled water bubble actively for at least one full minute to ensure all harmful germs are destroyed."
+  },
+  {
+    "id": "bsci_056",
+    "category": "basic-science",
+    "question": "What chemical substance is commonly added to municipal water works or swimming pools to disinfect water and kill bacteria?",
+    "options": ["Alum", "Chlorine", "Salt", "Baking soda"],
+    "correctIndex": 1,
+    "explanation": "Chlorine is a powerful disinfectant used globally to purify drinking water and pool water. Alum is used to cause dirt particles to clump together and settle (coagulation), while salt and baking soda do not disinfect water supplies.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_057",
+    "category": "basic-science",
+    "question": "The internal framework of bones that provides structural shape, protects internal organs, and works with muscles to allow movement is the:",
+    "options": ["Muscular system", "Skeletal system", "Digestive system", "Nervous system"],
+    "correctIndex": 1,
+    "explanation": "The skeletal system is made of bones and cartilage that form our body skeleton. The muscular system provides force for movement, the digestive system processes food, and the nervous system sends signals.",
+    "extraKokoFact": "A human baby is born with around 270 soft bones, but as they grow, many bones fuse together, leaving an adult with exactly 206 bones!"
+  },
+  {
+    "id": "bsci_058",
+    "category": "basic-science",
+    "question": "The physical and chemical digestion of human food begins in which organ of the digestive tract?",
+    "options": ["Stomach", "Small intestine", "Mouth", "Esophagus"],
+    "correctIndex": 2,
+    "explanation": "Digestion starts in the mouth, where teeth chew food (physical breakdown) and saliva mixes with it (chemical breakdown of starches via enzymes). The stomach and small intestine continue digestion later.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_059",
+    "category": "basic-science",
+    "question": "Which major respiratory organs are responsible for absorbing oxygen from the air and releasing carbon dioxide waste from the body?",
+    "options": ["Kidneys", "Lungs", "Heart", "Stomach"],
+    "correctIndex": 1,
+    "explanation": "The lungs contain tiny air sacs where gas exchange occurs between air and blood. Kidneys process urine, the heart pumps blood, and the stomach digests food.",
+    "extraKokoFact": "Human lungs are not identical; the right lung is slightly larger than the left lung to make room for your heart!"
+  },
+  {
+    "id": "bsci_060",
+    "category": "basic-science",
+    "question": "The pair of bean-shaped organs in the human body responsible for filtering waste materials from the blood to produce urine are the:",
+    "options": ["Kidneys", "Livers", "Lungs", "Bladders"],
+    "correctIndex": 0,
+    "explanation": "The kidneys filter extra water and waste toxins out of the bloodstream to maintain a healthy chemical balance. The liver filters toxins but doesn't produce urine, lungs excrete gases, and the bladder stores urine before excretion.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_061",
+    "category": "basic-science",
+    "question": "The central organ of the human nervous system that coordinates all actions, processes sensory information, and stores memory is the:",
+    "options": ["Spinal cord", "Heart", "Brain", "Nerve fiber"],
+    "correctIndex": 2,
+    "explanation": "The brain acts as the body's control center, interpreting signals from our senses and directing responses. The spinal cord links the brain to the rest of the body, the heart belongs to the circulatory system, and nerve fibers carry messages.",
+    "extraKokoFact": "Your brain never completely sleeps; it stays active organizing memories and regulating body functions even while you are asleep!"
+  },
+  {
+    "id": "bsci_062",
+    "category": "basic-science",
+    "question": "How many permanent teeth are present in a normal, healthy adult human mouth when all teeth have grown?",
+    "options": ["20", "24", "28", "32"],
+    "correctIndex": 3,
+    "explanation": "An adult human has 32 permanent teeth, which include 8 incisors, 4 canines, 8 premolars, and 12 molars (including wisdom teeth). Children have a set of 20 temporary milk teeth.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_063",
+    "category": "basic-science",
+    "question": "The fluid produced by glands in the mouth that moistens food for swallowing and contains digestive enzymes is:",
+    "options": ["Bile", "Gastric juice", "Saliva", "Mucus"],
+    "correctIndex": 2,
+    "explanation": "Saliva lubricates food and contains ptyalin (amylase), an enzyme that initiates the breakdown of complex starches into simpler sugars. Bile handles fats in the intestine, and gastric juice acts in the stomach.",
+    "extraKokoFact": "Human salivary glands produce about 1 to 1.5 liters of saliva every single day!"
+  },
+  {
+    "id": "bsci_064",
+    "category": "basic-science",
+    "question": "Animals that possess an internal backbone or vertebral column are scientifically classified as:",
+    "options": ["Invertebrates", "Vertebrates", "Insects", "Arthropods"],
+    "correctIndex": 1,
+    "explanation": "Vertebrates are animals with backbones, including fish, amphibians, reptiles, birds, and mammals. Invertebrates completely lack a backbone, and insects are a class of invertebrates.",
+    "extraKokoFact": "Even though they are massive, whales and elephants are vertebrates, just like humans!"
+  },
+  {
+    "id": "bsci_065",
+    "category": "basic-science",
+    "question": "Which cold-blooded vertebrate group lives both on land and in water, and lays soft, jelly-like eggs in water?",
+    "options": ["Reptiles", "Amphibians", "Mammals", "Birds"],
+    "correctIndex": 1,
+    "explanation": "Amphibians, such as frogs, toads, and salamanders, spend part of their life cycle in water (as tadpoles breathing with gills) and part on land (breathing with lungs and moist skin). Reptiles lay shelled eggs on land.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_066",
+    "category": "basic-science",
+    "question": "An adult insect's body structure is distinctively divided into which three main body parts?",
+    "options": ["Head, neck, and tail", "Head, thorax, and abdomen", "Cephalothorax, abdomen, and wings", "Head, chest, and lower limbs"],
+    "correctIndex": 1,
+    "explanation": "All true insects have a body divided into three regions: the head (contains sensory organs), the thorax (middle section where legs and wings attach), and the abdomen (contains digestive and reproductive organs).",
+    "extraKokoFact": "Insects have their skeletons on the outside of their bodies, which is called an exoskeleton!"
+  },
+  {
+    "id": "bsci_067",
+    "category": "basic-science",
+    "question": "How many jointed walking legs does a typical adult insect, such as a cockroach or housefly, have?",
+    "options": ["4 legs", "6 legs", "8 legs", "10 legs"],
+    "correctIndex": 1,
+    "explanation": "All adult insects have exactly 6 jointed legs (three pairs), which are attached to the thorax. Spiders are not insects because they have 8 legs (four pairs) and belong to the arachnid family.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_068",
+    "category": "basic-science",
+    "question": "The green chemical pigment present inside plant leaves that absorbs solar energy for photosynthesis is called:",
+    "options": ["Stomata", "Chlorophyll", "Xylem", "Phloem"],
+    "correctIndex": 1,
+    "explanation": "Chlorophyll is located inside plant cells and captures sunlight, which is necessary for photosynthesis. Stomata are pores, while xylem and phloem are transport vessels for water and nutrients.",
+    "extraKokoFact": "During the dry harmattan season, some trees shed their leaves to conserve water, which causes them to lose their green look."
+  },
+  {
+    "id": "bsci_069",
+    "category": "basic-science",
+    "question": "The tiny microscopic pores found underneath plant leaves that control the exchange of gases are known as:",
+    "options": ["Petioles", "Veins", "Stomata", "Root hairs"],
+    "correctIndex": 2,
+    "explanation": "Stomata allow carbon dioxide to enter the leaf for photosynthesis and let oxygen and water vapor escape. Petioles connect leaves to stems, veins transport fluids, and root hairs absorb water from soil.",
+    "extraKokoFact": "Stomata can open and close automatically to protect the plant from losing too much water during hot days."
+  },
+  {
+    "id": "bsci_070",
+    "category": "basic-science",
+    "question": "Which fundamental part of a plant anchors it firmly into the soil and absorbs dissolved minerals and water?",
+    "options": ["Stem", "Leaf", "Flower", "Root"],
+    "correctIndex": 3,
+    "explanation": "Roots hold the plant in place and pull water and vital nutrients out of the soil. Stems support leaves and transport fluids, leaves handle food production, and flowers handle reproduction.",
+    "extraKokoFact": "Some plants store large amounts of food in their roots, which is why we have root tubers like cassava and sweet potatoes to eat!"
+  },
+  {
+    "id": "bsci_071",
+    "category": "basic-science",
+    "question": "The process by which an inactive seed wakes up and develops into a young seedling when given water, air, and warmth is:",
+    "options": ["Pollination", "Fertilization", "Germination", "Dispersal"],
+    "correctIndex": 2,
+    "explanation": "Germination is the early growth stage of a plant from a seed. Pollination is transferring pollen, fertilization is cell fusion, and dispersal is scattering seeds away from the parent plant.",
+    "extraKokoFact": "Seeds do not need sunlight to begin germinating underground, but they must have moisture, oxygen, and the right temperature!"
+  },
+  {
+    "id": "bsci_072",
+    "category": "basic-science",
+    "question": "What is the primary reproductive structure of a flowering plant that produces pollen and develops into fruits?",
+    "options": ["Leaf", "Stem", "Flower", "Root"],
+    "correctIndex": 2,
+    "explanation": "The flower contains the male reproductive organs (stamens) and female reproductive organs (carpels) that handle pollination and fertilization to produce fruits and seeds. Leaves, stems, and roots are vegetative parts.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_073",
+    "category": "basic-science",
+    "question": "Taking medications or tablets on your own without a doctor's advice or medical prescription is a dangerous habit called:",
+    "options": ["Self-medication", "Drug immunization", "First aid treatment", "Clinical vaccination"],
+    "correctIndex": 0,
+    "explanation": "Self-medication can lead to incorrect diagnoses, dangerous drug overdoses, severe side effects, or drug abuse. Immunization and vaccination prevent diseases under expert care, and first aid is emergency help.",
+    "extraKokoFact": "Self-medication with antibiotics can cause bacteria to become resistant, making future infections much harder to cure!"
+  },
+  {
+    "id": "bsci_074",
+    "category": "basic-science",
+    "question": "Which regulatory government agency in Nigeria is legally responsible for checking and certifying the safety of foods and drugs?",
+    "options": ["NDLEA", "NAFDAC", "EFCC", "FRSC"],
+    "correctIndex": 1,
+    "explanation": "NAFDAC stands for the National Agency for Food and Drug Administration and Control. NDLEA fights illegal drug trafficking, EFCC handles financial crimes, and FRSC regulates road safety.",
+    "extraKokoFact": "Always look for a valid NAFDAC registration number on packaged water, food, and medicines before buying them to ensure they are safe."
+  },
+  {
+    "id": "bsci_075",
+    "category": "basic-science",
+    "question": "What does a printed 'Expiry Date' or 'EXP' on a medicine bottle indicate to the consumer?",
+    "options": ["The date the item was made", "The total monetary cost of the item", "The date after which the medicine is no longer guaranteed to be safe or effective", "The specific batch identification code"],
+    "correctIndex": 2,
+    "explanation": "After its expiry date, a medicine can break down chemically, losing its strength or turning into a toxic substance. Using expired drugs is dangerous and should be avoided.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_076",
+    "category": "basic-science",
+    "question": "Which of the following is an example of a non-communicable disease, meaning it cannot be passed from person to person through contact?",
+    "options": ["Tuberculosis", "Measles", "Diabetes", "Whooping cough"],
+    "correctIndex": 2,
+    "explanation": "Diabetes is a chronic metabolic condition related to how the body processes blood sugar, caused by genetic factors and lifestyle choices. Tuberculosis, measles, and whooping cough are highly infectious diseases caused by germs that spread through the air or contact.",
+    "extraKokoFact": "Regular physical exercise and eating a balanced diet with less refined sugar can help reduce the risk of developing Type 2 diabetes."
+  },
+  {
+    "id": "bsci_077",
+    "category": "basic-science",
+    "question": "HIV, the virus that can cause AIDS, can be transmitted from an infected person to another through which of the following actions?",
+    "options": ["Shaking hands or hugging them", "Sharing unsterilized sharp objects like clippers or needles", "Sitting next to them on a school bench", "Sharing food from the same plate"],
+    "correctIndex": 1,
+    "explanation": "HIV spreads through infected body fluids. Sharing sharp body-piercing instruments like barbing clippers, razor blades, or syringes can transfer infected blood. HIV cannot be spread through casual, non-sexual contact like hugging, coughing, or sharing food.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_078",
+    "category": "basic-science",
+    "question": "To avoid accidental poisoning at home, hazardous chemicals like insecticides and liquid bleach must be stored:",
+    "options": ["In the kitchen pantry beside salt and spices", "Out of reach of young children in a securely labeled cabinet", "In empty unlabelled plastic soda bottles", "On the open floor under the bed"],
+    "correctIndex": 1,
+    "explanation": "Keeping toxic chemicals locked up and away from children prevents accidental ingestion or contact. Storing chemicals in food areas or unlabelled drink bottles can cause people to mistake them for drinks.",
+    "extraKokoFact": "Never mix household chemicals together blindly, as they can react to produce toxic gases that are dangerous to inhale."
+  },
+  {
+    "id": "bsci_079",
+    "category": "basic-science",
+    "question": "What is the primary warning message conveyed by a symbol showing a human skull and crossed bones on a chemical bottle?",
+    "options": ["The material is highly explosive", "The chemical is extremely poisonous or toxic", "The liquid inside is highly flammable", "The product is safe for human touch"],
+    "correctIndex": 1,
+    "explanation": "The skull and crossbones is a universal hazard symbol warning that the contents are toxic and can cause serious illness or death if swallowed, inhaled, or absorbed through the skin. Flammable items use a flame symbol, and explosives use a bursting ball symbol.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_080",
+    "category": "basic-science",
+    "question": "Indiscriminate dumping of non-biodegradable wastes, like plastic bags and water sachets, into gutters across Lagos directly results in:",
+    "options": ["Improving soil fertility", "Blocked drainage channels causing severe urban flooding", "Purifying groundwater supplies", "Increasing seasonal rainfall"],
+    "correctIndex": 1,
+    "explanation": "Plastics do not rot or decay easily. When thrown into streets, they wash into gutters and block the flow of stormwater, causing roads to flood during heavy downpours. This does not help soil fertility or purify water.",
+    "extraKokoFact": "Adopting the habit of recycling or reusing plastic bottles helps protect our drainage systems and keeps our environment clean."
+  },
+  {
+    "id": "bsci_081",
+    "category": "basic-science",
+    "question": "Which of the five human sense organs is responsible for both detecting sound waves and maintaining our physical body balance?",
+    "options": ["Eye", "Nose", "Ear", "Skin"],
+    "correctIndex": 2,
+    "explanation": "The ear contains structures for hearing (cochlea) and specialized fluid-filled semicircular canals that detect head position to help us maintain posture and balance. Eyes handle vision, nose handles smell, and skin handles touch.",
+    "extraKokoFact": "Dizziness or losing your balance during an inner ear infection happens because the balance sensors are temporarily disrupted!"
+  },
+  {
+    "id": "bsci_082",
+    "category": "basic-science",
+    "question": "The inner layer at the back of the human eye that contains photoreceptor cells and acts like a screen where images are formed is the:",
+    "options": ["Iris", "Retina", "Cornea", "Pupil"],
+    "correctIndex": 1,
+    "explanation": "The retina converts light focused by the lens into electrical signals sent to the brain via the optic nerve. The cornea is the clear protective outer layer, the iris controls light entry by adjusting the size of the pupil opening.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_083",
+    "category": "basic-science",
+    "question": "Which organ is the largest sense organ in the human body, protecting us from infections and helping us feel touch, heat, and pressure?",
+    "options": ["Tongue", "Skin", "Liver", "Lungs"],
+    "correctIndex": 1,
+    "explanation": "The skin covers the entire external surface of the body, making it our largest sensory organ. It contains millions of tiny nerve endings that detect sensations like pain, heat, cold, and texture. The tongue, liver, and lungs are smaller.",
+    "extraKokoFact": "Skin cells are constantly renewing themselves; your body sheds thousands of dead skin cells every single minute!"
+  },
+  {
+    "id": "bsci_084",
+    "category": "basic-science",
+    "question": "What physical reaction occurs to a metal rod, like iron or copper, when its temperature increases through heating?",
+    "options": ["It shrinks in length", "It expands in length and volume", "Its physical mass doubles", "It instantly evaporates into a gas"],
+    "correctIndex": 1,
+    "explanation": "Heating causes the atoms in a metal to vibrate more rapidly and push slightly further apart, causing thermal expansion. It does not shrink, double in mass, or turn instantly into a gas.",
+    "extraKokoFact": "Engineers leave small gaps between railway tracks in Nigeria to allow room for the metal rails to expand safely on hot sunny days without bending!"
+  },
+  {
+    "id": "bsci_085",
+    "category": "basic-science",
+    "question": "Pure water is a stable chemical compound consisting of which two chemical elements combined together?",
+    "options": ["Oxygen and Nitrogen", "Hydrogen and Carbon", "Hydrogen and Oxygen", "Sodium and Chlorine"],
+    "correctIndex": 2,
+    "explanation": "Water has the chemical formula H2O, meaning every molecule consists of two atoms of Hydrogen chemically bonded to one atom of Oxygen. Sodium and chlorine combine to make common table salt.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_086",
+    "category": "basic-science",
+    "question": "At what temperature does pure liquid water reach its boiling point at sea level under standard atmospheric conditions?",
+    "options": ["0 degrees Celsius", "50 degrees Celsius", "100 degrees Celsius", "200 degrees Celsius"],
+    "correctIndex": 2,
+    "explanation": "Pure water boils at exactly 100°C (212°F) under normal pressure, turning rapidly into water vapor or steam. It freezes at 0°C.",
+    "extraKokoFact": "If you climb a very high mountain, water actually boils at a lower temperature than 100°C because the atmospheric pressure is lower!"
+  },
+  {
+    "id": "bsci_087",
+    "category": "basic-science",
+    "question": "At what temperature on the Celsius scale does liquid water reach its freezing point to turn into solid ice?",
+    "options": ["0 degrees Celsius", "4 degrees Celsius", "32 degrees Celsius", "100 degrees Celsius"],
+    "correctIndex": 0,
+    "explanation": "Water freezes at 0°C under normal atmospheric conditions. 100°C is its boiling point, 4°C is the temperature where water reaches its maximum density, and 32 degrees is the freezing point on the Fahrenheit scale, not Celsius.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_088",
+    "category": "basic-science",
+    "question": "In a school laboratory experiment, carbon dioxide gas can be identified because it turns clear limewater:",
+    "options": ["Dark blue", "Bright pink", "Milky or cloudy", "Golden yellow"],
+    "correctIndex": 2,
+    "explanation": "Carbon dioxide reacts with limewater (calcium hydroxide) to produce calcium carbonate, an insoluble white precipitate that makes the liquid look cloudy or milky. It does not turn blue, pink, or yellow.",
+    "extraKokoFact": "You can demonstrate this yourself by using a drinking straw to blow exhaled air gently into a container of clear limewater!"
+  },
+  {
+    "id": "bsci_089",
+    "category": "basic-science",
+    "question": "Microscopic organisms, such as certain bacteria, fungi, and viruses, that enter bodies and cause illnesses are called:",
+    "options": ["Vectors", "Germs or Pathogens", "Invertebrates", "Parasites"],
+    "correctIndex": 1,
+    "explanation": "Pathogens, commonly known as germs, are disease-causing microbes. Vectors are the insects or animals that carry these germs to us (like mosquitoes carrying malaria), and invertebrates are animals without backbones.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_090",
+    "category": "basic-science",
+    "question": "The specific place or structure where two or more bones connect in the human body, enabling flexibility and movement, is called a:",
+    "options": ["Muscle", "Joint", "Tendon", "Ligament"],
+    "correctIndex": 1,
+    "explanation": "Joints allow our rigid skeleton to bend and move. Muscles provide the pulling force, tendons attach muscles to bones, and ligaments connect bones to other bones at a joint.",
+    "extraKokoFact": "Your elbow and knee are examples of hinge joints, which allow movement back and forth in one direction like a door hinge."
+  },
+  {
+    "id": "bsci_091",
+    "category": "basic-science",
+    "question": "The hard, protective bony structure forming the head that encloses and guards the delicate human brain against injuries is the:",
+    "options": ["Rib cage", "Skull", "Backbone", "Pelvis"],
+    "correctIndex": 1,
+    "explanation": "The skull (cranium) is made of strong, fused bones designed to protect the brain. The rib cage protects the heart and lungs, the backbone protects the spinal cord, and the pelvis supports abdominal organs.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_092",
+    "category": "basic-science",
+    "question": "Red blood cells in human blood are highly specialized because they contain iron-rich hemoglobin, which functions to transport:",
+    "options": ["Waste urea to the kidneys", "Oxygen from the lungs to all body cells", "Dissolved nutrients from the intestines", "Antibodies to fight off harmful infections"],
+    "correctIndex": 1,
+    "explanation": "Hemoglobin binds with oxygen in the lungs and carries it through the arteries to body tissues. Waste urea and nutrients are dissolved and carried in the blood plasma, and white blood cells handle fighting infections.",
+    "extraKokoFact": "Red blood cells give your blood its bright red color when they are loaded with oxygen!"
+  },
+  {
+    "id": "bsci_093",
+    "category": "basic-science",
+    "question": "The immediate, temporary care and attention given to a victim of an accident or sudden illness before full medical aid arrives is:",
+    "options": ["Vaccination", "Sterilization", "First Aid", "Hospitalization"],
+    "correctIndex": 2,
+    "explanation": "First aid aims to preserve life, prevent the condition from worsening, and promote recovery until a professional doctor or ambulance arrives. Vaccination prevents diseases, sterilization kills germs on tools, and hospitalization is inpatient hospital care.",
+    "extraKokoFact": "The universal symbol for First Aid is a prominent white cross on a green background, or a red cross on a white background."
+  },
+  {
+    "id": "bsci_094",
+    "category": "basic-science",
+    "question": "Which of the following items is an essential component of a standard school First Aid box used to safely clean dirt and germs from fresh wounds?",
+    "options": ["Paracetamol tablets", "Antiseptic liquid or methylated spirit", "Petroleum jelly", "Sharp razor blades"],
+    "correctIndex": 1,
+    "explanation": "Antiseptic liquids or methylated spirit kill germs around cuts and minor wounds to prevent infection. Paracetamol reduces pain, petroleum jelly soothes dry skin, and razor blades are sharp hazards that do not belong in a standard cleaning kit for children.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_095",
+    "category": "basic-science",
+    "question": "A cutting knife, a woodcutter's axe, and a iron chisel are examples of which modified simple machine used to split materials apart?",
+    "options": ["Wedge", "Screw", "Lever", "Pulley"],
+    "correctIndex": 0,
+    "explanation": "A wedge is made of two inclined planes placed back-to-back, ending in a sharp edge. When driven into an object, it forces it apart. Screws hold things together, levers pivot on a fulcrum, and pulleys lift loads.",
+    "extraKokoFact": "Your front teeth (incisors) are shaped exactly like small wedges to help you bite and cut through food!"
+  },
+  {
+    "id": "bsci_096",
+    "category": "basic-science",
+    "question": "The accumulation of excessive greenhouse gases like carbon dioxide in the atmosphere, which traps heat and raises the Earth's average temperature, is known as:",
+    "options": ["Ozone layer depletion", "Global warming", "Acid rain precipitation", "Volcanic activity"],
+    "correctIndex": 1,
+    "explanation": "Global warming is caused by the enhanced greenhouse effect, where gases form a blanket that traps solar heat within the atmosphere. Ozone depletion involves the breakdown of the UV-protective layer, and acid rain is caused by sulfur and nitrogen pollutants.",
+    "extraKokoFact": "Burning fossil fuels and cutting down large forests are the two biggest human drivers of global warming worldwide."
+  },
+  {
+    "id": "bsci_097",
+    "category": "basic-science",
+    "question": "Any plants that grow aggressively in farm fields where they are completely unwanted, competing with food crops for space and nutrients, are called:",
+    "options": ["Herbs", "Shrubs", "Weeds", "Seedlings"],
+    "correctIndex": 2,
+    "explanation": "Weeds reduce agricultural crop yields because they steal water, soil nutrients, and sunlight from planted crops. Herbs are small plants with soft stems, shrubs are woody bushes, and seedlings are baby plants.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_098",
+    "category": "basic-science",
+    "question": "Which of the following organisms is an invertebrate animal, meaning it does not have a skeletal backbone?",
+    "options": ["Wall gecko lizard", "Earthworm", "Catfish", "African toad"],
+    "correctIndex": 1,
+    "explanation": "An earthworm has a soft body supported by fluid pressure (hydrostatic skeleton) and lacks any internal bones or spine. Wall geckos (reptiles), catfish (fish), and toads (amphibians) are all vertebrates.",
+    "extraKokoFact": "Over 95% of all animal species on Earth are invertebrates, ranging from insects and worms to spiders and snails!"
+  },
+  {
+    "id": "bsci_099",
+    "category": "basic-science",
+    "question": "Which statement best describes what constitutes a properly balanced diet for a human being?",
+    "options": ["A meal that contains mostly carbohydrates and sugars to maximize physical energy", "A meal that contains all the six classes of food in their correct proportions", "A meal consisting solely of meat and fish to build large muscles quickly", "A heavy meal eaten once every two days to rest the digestive tract"],
+    "correctIndex": 1,
+    "explanation": "A balanced diet provides all necessary nutrients—carbohydrates, proteins, fats, vitamins, minerals, and water—in appropriate ratios to support growth, bodily function, and overall health. Eating too much of one class or skipping meals leads to malnutrition.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "bsci_100",
+    "category": "basic-science",
+    "question": "Medical immunization or vaccination is administered to infants and school children primarily to:",
+    "options": ["Instantly cure any active chronic diseases they have", "Provide immediate muscular energy for sports activities", "Stimulate their immune systems to protect them against specific infectious diseases", "Accelerate their physical height and weight growth rates"],
+    "correctIndex": 2,
+    "explanation": "Vaccines train the body's immune system to recognize and fight dangerous pathogens before they can cause illness, providing long-term protection. Vaccines do not act as immediate cures, sports energy boosters, or physical growth hormones.",
+    "extraKokoFact": "Vaccinations have successfully wiped out deadly diseases like smallpox globally and have nearly eliminated polio in Nigeria!"
+  }
+]

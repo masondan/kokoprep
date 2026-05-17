@@ -1,0 +1,902 @@
+[
+  {
+    "id": "crs_001",
+    "category": "christian-religious-studies",
+    "question": "The first miracle performed by Jesus was:",
+    "options": ["Healing of the blind", "Raising the dead", "Feeding of the five thousand", "Turning water to wine"],
+    "correctIndex": 3,
+    "explanation": "Jesus' first miracle was turning water into wine at a wedding in Cana of Galilee (John 2:1-11), at the request of his mother Mary.",
+    "extraKokoFact": "Jesus performed this miracle at a wedding because the host had run out of wine — a very embarrassing situation in that culture!"
+  },
+  {
+    "id": "crs_002",
+    "category": "christian-religious-studies",
+    "question": "What did God create on the second day?",
+    "options": ["Dry land and plants", "Light", "Moon and stars", "Firmament"],
+    "correctIndex": 3,
+    "explanation": "On the second day, God created the firmament (the sky/expanse) and separated the waters above from the waters below (Genesis 1:6-8).",
+    "extraKokoFact": "Day 1: Light. Day 2: Sky/Firmament. Day 3: Dry land and plants. Day 4: Sun, moon and stars. Day 5: Birds and fish. Day 6: Animals and humans. Day 7: Rest!"
+  },
+  {
+    "id": "crs_003",
+    "category": "christian-religious-studies",
+    "question": "What happened to Adam and Eve after eating the fruit of the knowledge of good and evil?",
+    "options": ["Their eyes were opened", "They looked like God", "They were satisfied", "They saw God"],
+    "correctIndex": 0,
+    "explanation": "Genesis 3:7 says 'Then the eyes of both of them were opened, and they realized they were naked.' They became aware of good and evil.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "crs_004",
+    "category": "christian-religious-studies",
+    "question": "The act of becoming friends again after a quarrel is known as:",
+    "options": ["Restitution", "Friendship", "Reconciliation", "Ratification"],
+    "correctIndex": 2,
+    "explanation": "Reconciliation means restoring a friendly relationship after a disagreement. It involves forgiveness and the desire to make peace.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "crs_005",
+    "category": "christian-religious-studies",
+    "question": "How many books are in the Bible?",
+    "options": ["75", "66", "27", "65"],
+    "correctIndex": 1,
+    "explanation": "The Bible has 66 books in total: 39 in the Old Testament and 27 in the New Testament.",
+    "extraKokoFact": "The New Testament alone has 27 books. The longest book in the Bible is Psalms, and the shortest is 3 John!"
+  },
+  {
+    "id": "crs_006",
+    "category": "christian-religious-studies",
+    "question": "Who was thrown into the lions' den but was protected by God?",
+    "options": ["Shadrach", "David", "Daniel", "Elijah"],
+    "correctIndex": 2,
+    "explanation": "Daniel was thrown into a lions' den by King Darius because he refused to stop praying to God. God sent an angel to shut the lions' mouths and Daniel was unharmed (Daniel 6).",
+    "extraKokoFact": null
+  },
+  {
+    "id": "crs_007",
+    "category": "christian-religious-studies",
+    "question": "Jesus fed five thousand people with how many loaves and fish?",
+    "options": ["5 loaves and 3 fish", "7 loaves and 2 fish", "5 loaves and 2 fish", "3 loaves and 5 fish"],
+    "correctIndex": 2,
+    "explanation": "Jesus fed 5,000 people using 5 loaves of bread and 2 fish, with 12 baskets of leftovers remaining (Matthew 14:17-21).",
+    "extraKokoFact": null
+  },
+  {
+    "id": "crs_008",
+    "category": "christian-religious-studies",
+    "question": "Which disciple denied Jesus three times before the cock crowed?",
+    "options": ["John", "James", "Judas", "Peter"],
+    "correctIndex": 3,
+    "explanation": "Peter denied knowing Jesus three times on the night of Jesus' arrest, just as Jesus had predicted (Luke 22:54-62).",
+    "extraKokoFact": null
+  },
+  {
+    "id": "crs_009",
+    "category": "christian-religious-studies",
+    "question": "The fruit of the Spirit listed in Galatians 5 includes all the following EXCEPT:",
+    "options": ["Love", "Joy", "Anger", "Peace"],
+    "correctIndex": 2,
+    "explanation": "The fruit of the Spirit in Galatians 5:22-23 are: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control. Anger is not on the list.",
+    "extraKokoFact": "There are 9 fruits of the Spirit in total. Try to memorise them all!"
+  },
+  {
+    "id": "crs_010",
+    "category": "christian-religious-studies",
+    "question": "Moses received the Ten Commandments on which mountain?",
+    "options": ["Mount Zion", "Mount Carmel", "Mount Sinai", "Mount Olive"],
+    "correctIndex": 2,
+    "explanation": "God gave Moses the Ten Commandments on Mount Sinai, written on two tablets of stone (Exodus 20).",
+    "extraKokoFact": "The Ten Commandments begin with 'I am the Lord your God, who brought you out of Egypt, out of the land of slavery.'"
+  },
+  {
+    "id": "crs_011",
+    "category": "christian-religious-studies",
+    "question": "Who was the first king of Israel?",
+    "options": ["King David", "King Solomon", "King Saul", "King Jeroboam"],
+    "correctIndex": 2,
+    "explanation": "Saul, the son of Kish from the tribe of Benjamin, was anointed by Samuel as the very first king of Israel after the people demanded a king to lead them (1 Samuel 10:1).",
+    "extraKokoFact": "Saul was exceptionally tall and handsome, standing head and shoulders taller than any of his fellow Israelites."
+  },
+  {
+    "id": "crs_012",
+    "category": "christian-religious-studies",
+    "question": "What is the name of the garden where Jesus was arrested?",
+    "options": ["Garden of Eden", "Garden of Gethsemane", "Garden of Babylon", "Garden of Sharon"],
+    "correctIndex": 1,
+    "explanation": "Jesus went with his disciples to the Garden of Gethsemane on the Mount of Olives to pray before he was betrayed by Judas Iscariot and arrested by the soldiers (Matthew 26:36).",
+    "extraKokoFact": "The word 'Gethsemane' actually means 'oil press,' which makes perfect sense since it was located on the Mount of Olives!"
+  },
+  {
+    "id": "crs_013",
+    "category": "christian-religious-studies",
+    "question": "How many days did Jesus fast in the wilderness?",
+    "options": ["7 days", "12 days", "40 days", "50 days"],
+    "correctIndex": 2,
+    "explanation": "Following his baptism by John, Jesus was led by the Holy Spirit into the wilderness where he fasted for forty days and forty nights and was tempted by the devil (Matthew 4:1-2).",
+    "extraKokoFact": "Other prominent biblical figures who experienced a 40-day fast include Moses on Mount Sinai and Elijah on his journey to Mount Horeb."
+  },
+  {
+    "id": "crs_014",
+    "category": "christian-religious-studies",
+    "question": "Who wrote most of the letters (epistles) in the New Testament?",
+    "options": ["Apostle Peter", "Apostle Paul", "Apostle John", "Apostle Luke"],
+    "correctIndex": 1,
+    "explanation": "The Apostle Paul authored 13 letters (from Romans to Philemon) out of the 27 books in the New Testament, writing them to encourage, guide, and instruct early Christian communities.",
+    "extraKokoFact": "Before his miraculous conversion on the road to Damascus, Paul was known as Saul and fiercely persecuted early Christians."
+  },
+  {
+    "id": "crs_015",
+    "category": "christian-religious-studies",
+    "question": "What is the name of the river where Jesus was baptised?",
+    "options": ["River Nile", "River Euphrates", "River Jordan", "River Niger"],
+    "correctIndex": 2,
+    "explanation": "Jesus traveled from Galilee to the River Jordan to be baptised by John the Baptist, setting an example of righteousness for his followers (Matthew 3:13-17).",
+    "extraKokoFact": "When Jesus emerged from the River Jordan, the heavens opened up, the Spirit of God descended like a dove, and a voice from heaven expressed deep pleasure in Him."
+  },
+  {
+    "id": "crs_016",
+    "category": "christian-religious-studies",
+    "question": "Who was the mother of Samuel?",
+    "options": ["Sarah", "Hannah", "Rachel", "Elizabeth"],
+    "correctIndex": 1,
+    "explanation": "Hannah was barren and prayed fervently at the tabernacle in Shiloh for a son, promising to dedicate him to God's service. God answered her prayer, and she gave birth to Samuel (1 Samuel 1).",
+    "extraKokoFact": "The high priest Eli initially mistook Hannah's silent, emotional praying for drunkenness before realizing she was deep in prayer."
+  },
+  {
+    "id": "crs_017",
+    "category": "christian-religious-studies",
+    "question": "According to Genesis, who built the ark that saved his family from the great flood?",
+    "options": ["Abraham", "Enoch", "Noah", "Methuselah"],
+    "correctIndex": 2,
+    "explanation": "God saw that the world was corrupt and decided to bring a great flood, but commanded Noah—who was a righteous man—to construct an ark to preserve his family and pairs of every animal creature (Genesis 6).",
+    "extraKokoFact": "Noah's ark was massive, measuring 300 cubits long, 50 cubits wide, and 30 cubits high, constructed completely from durable gopher wood."
+  },
+  {
+    "id": "crs_018",
+    "category": "christian-religious-studies",
+    "question": "On what day of creation did God make the sun, moon, and stars?",
+    "options": ["First day", "Third day", "Fourth day", "Fifth day"],
+    "correctIndex": 2,
+    "explanation": "God created the sun, moon, and stars on the fourth day of creation to separate day from night, mark seasons, days, and years, and shed light upon the earth (Genesis 1:14-19).",
+    "extraKokoFact": "While light itself was called forth on the first day, the distinct celestial bodies that govern the sky were formed on the fourth day."
+  },
+  {
+    "id": "crs_019",
+    "category": "christian-religious-studies",
+    "question": "Who was known as the 'Father of Faith' because he obeyed God's call to leave his homeland?",
+    "options": ["Isaac", "Jacob", "Abraham", "Joseph"],
+    "correctIndex": 2,
+    "explanation": "Abraham is recognized as the Father of Faith because he obeyed God's command to leave his home in Ur of the Chaldeans for an unknown Promised Land, trusting entirely in God's covenant (Genesis 12).",
+    "extraKokoFact": "Abraham's original name was Abram, which means 'exalted father,' before God transformed it to Abraham, meaning 'father of a multitude.'"
+  },
+  {
+    "id": "crs_020",
+    "category": "christian-religious-studies",
+    "question": "Which young boy defeated the Philistine giant named Goliath with a sling and a stone?",
+    "options": ["Jonathan", "David", "Samson", "Gideon"],
+    "correctIndex": 1,
+    "explanation": "David, a youthful shepherd boy who trusted completely in the power of the Living God, volunteered to face Goliath when the entire army of Israel was paralyzed by fear (1 Samuel 17).",
+    "extraKokoFact": "David chose exactly five smooth stones from a nearby stream, but he only needed a single well-aimed shot to bring the giant crashing down."
+  },
+  {
+    "id": "crs_021",
+    "category": "christian-religious-studies",
+    "question": "Who was sold into slavery in Egypt by his jealous brothers but later became a prime minister?",
+    "options": ["Benjamin", "Reuben", "Joseph", "Judah"],
+    "correctIndex": 2,
+    "explanation": "Joseph's brothers envied his beautiful coat of many colors and his vivid dreams of leadership, prompting them to sell him to Ishmaelites traders bound for Egypt, where he eventually rose to power (Genesis 37).",
+    "extraKokoFact": "Joseph won Pharaoh's complete favor by successfully interpreting dreams about seven years of abundance followed by seven years of severe famine."
+  },
+  {
+    "id": "crs_022",
+    "category": "christian-religious-studies",
+    "question": "What is the collective name given to the first four books of the New Testament?",
+    "options": ["The Epistles", "The Gospels", "The Books of Law", "The Prophecies"],
+    "correctIndex": 1,
+    "explanation": "The books of Matthew, Mark, Luke, and John are called the Gospels because they proclaim the 'good news' of the life, ministry, death, resurrection, and teachings of Jesus Christ.",
+    "extraKokoFact": "Matthew, Mark, and Luke are known as the Synoptic Gospels because they share a very similar structure, narrative sequence, and wording."
+  },
+  {
+    "id": "crs_023",
+    "category": "christian-religious-studies",
+    "question": "Where did God confuse human language during the construction of a massive city tower?",
+    "options": ["Tower of Babel", "City of Jericho", "Nineveh", "Sodom"],
+    "correctIndex": 0,
+    "explanation": "When humanity united proudly to build a tower reaching into the heavens to make a name for themselves, God intervened by scrambling their speech and scattering them across the earth (Genesis 11).",
+    "extraKokoFact": "The word 'Babel' sounds exactly like the Hebrew word for 'confusion,' capturing how the project ground to an immediate halt."
+  },
+  {
+    "id": "crs_024",
+    "category": "christian-religious-studies",
+    "question": "Which Hebrew prophet was caught up to heaven in a whirlwind with a chariot of fire?",
+    "options": ["Elisha", "Elijah", "Isaiah", "Jeremiah"],
+    "correctIndex": 1,
+    "explanation": "Elijah did not experience ordinary physical death; instead, he was taken up into heaven dramatically by a whirlwind accompanied by a chariot and horses of fire while his successor Elisha watched (2 Kings 2).",
+    "extraKokoFact": "Elijah had previously demonstrated God's true power on Mount Carmel by calling down supernatural fire from heaven to consume a water-soaked sacrifice."
+  },
+  {
+    "id": "crs_025",
+    "category": "christian-religious-studies",
+    "question": "Who was the husband of Mary and the earthly, adoptive father of Jesus?",
+    "options": ["Zechariah", "Joseph", "Simeon", "Nicodemus"],
+    "correctIndex": 1,
+    "explanation": "Joseph, a righteous carpenter from Nazareth from the royal lineage of David, was instructed by an angel in a dream to take Mary as his wife and protect the holy child Jesus (Matthew 1:18-25).",
+    "extraKokoFact": "Joseph is last mentioned in the Gospel accounts when Jesus was 12 years old during their family trip to celebrate the Passover in Jerusalem."
+  },
+  {
+    "id": "crs_026",
+    "category": "christian-religious-studies",
+    "question": "Which biblical book tells the dramatic story of the Israelites escaping from slavery in Egypt?",
+    "options": ["Genesis", "Exodus", "Leviticus", "Numbers"],
+    "correctIndex": 1,
+    "explanation": "The book of Exodus records the enslavement of the Israelites in Egypt, the rise of Moses, the plagues, the Passover, and their miraculous crossing of the Red Sea. The word 'Exodus' means departure.",
+    "extraKokoFact": "The Israelites spent exactly 430 years in Egypt before their grand departure under Moses' leadership."
+  },
+  {
+    "id": "crs_027",
+    "category": "christian-religious-studies",
+    "question": "Who betrayed Jesus to the chief priests for thirty pieces of silver?",
+    "options": ["Judas Iscariot", "Simon Peter", "Thomas", "Andrew"],
+    "correctIndex": 0,
+    "explanation": "Judas Iscariot, one of the original twelve apostles who managed the group's money bag, went to the chief priests and agreed to lead them to Jesus in exchange for 30 silver coins (Matthew 26:14-16).",
+    "extraKokoFact": "Judas used a prearranged sign—a respectful kiss on the cheek—to point out Jesus to the armed crowd in the darkness of Gethsemane."
+  },
+  {
+    "id": "crs_028",
+    "category": "christian-religious-studies",
+    "question": "What gift did King Solomon specifically request from God when he began his reign?",
+    "options": ["Long life", "Great wealth", "Wisdom and understanding", "Victory over enemies"],
+    "correctIndex": 2,
+    "explanation": "When God appeared to young Solomon in a dream at Gibeon and offered him anything he wished, Solomon humbly requested an understanding heart and wisdom to govern the people justly (1 Kings 3).",
+    "extraKokoFact": "God was so pleased that Solomon didn't ask for personal riches or long life that He granted him unmatched wisdom as well as immense wealth and honor."
+  },
+  {
+    "id": "crs_029",
+    "category": "christian-religious-studies",
+    "question": "Who was the voice crying out in the wilderness preparing the way for the Lord?",
+    "options": ["John the Evangelist", "John the Baptist", "Stephen", "Barnabas"],
+    "correctIndex": 1,
+    "explanation": "John the Baptist lived in the wilderness, preached a baptism of repentance, and explicitly identified himself as the fulfillment of Isaiah's prophecy to prepare the way for Jesus (Matthew 3:1-3).",
+    "extraKokoFact": "John wore clothing made of rugged camel's hair with a leather belt, and survived on a simple wilderness diet of locusts and wild honey."
+  },
+  {
+    "id": "crs_030",
+    "category": "christian-religious-studies",
+    "question": "Which strong judge lost his supernatural power when his hair was shaved off?",
+    "options": ["Gideon", "Jephthah", "Samson", "Barak"],
+    "correctIndex": 2,
+    "explanation": "Samson was dedicated to God from birth as a Nazirite, and the secret of his immense strength lay in his uncut hair. He was betrayed by Delilah, who had his hair shaved while he slept (Judges 16).",
+    "extraKokoFact": "In his final moments, Samson prayed for a restoration of strength and pulled down the pillars of the Philistine temple, destroying more enemies than during his entire life."
+  },
+  {
+    "id": "crs_031",
+    "category": "christian-religious-studies",
+    "question": "Which book of the Bible consists primarily of 150 sacred songs and prayers?",
+    "options": ["Proverbs", "Ecclesiastes", "Song of Solomon", "Psalms"],
+    "correctIndex": 3,
+    "explanation": "The Book of Psalms is the Bible's hymnal and prayer book, comprising 150 individual poems and songs expressing praise, lament, thanksgiving, and trust in God, many authored by King David.",
+    "extraKokoFact": "Psalm 119 is the longest chapter in the entire Bible, featuring 176 verses structured as an intricate Hebrew acrostic poem."
+  },
+  {
+    "id": "crs_032",
+    "category": "christian-religious-studies",
+    "question": "Who was raised from the dead by Jesus after being buried in a tomb for four days?",
+    "options": ["Jairus' daughter", "The widow's son", "Lazarus", "Tabitha"],
+    "correctIndex": 2,
+    "explanation": "In Bethany, Jesus demonstrated his authority over death by calling 'Lazarus, come out!' to a man who had been dead and entombed for four days, prompting him to walk out wrapped in burial cloths (John 11).",
+    "extraKokoFact": "This miracle caused a massive stir in Jerusalem and intensified the plot by religious leaders to have Jesus arrested and executed."
+  },
+  {
+    "id": "crs_033",
+    "category": "christian-religious-studies",
+    "question": "What city did God command Jonah to preach to, from which he initially tried to flee?",
+    "options": ["Tarshish", "Nineveh", "Jerusalem", "Damascus"],
+    "correctIndex": 1,
+    "explanation": "God ordered Jonah to go to the great Assyrian city of Nineveh to denounce its wickedness, but Jonah refused and boarded a ship sailing toward Tarshish instead (Jonah 1).",
+    "extraKokoFact": "After Jonah was swallowed by a giant fish and thrown onto dry land, he finally went to Nineveh, and the entire city repented in sackcloth and ashes."
+  },
+  {
+    "id": "crs_034",
+    "category": "christian-religious-studies",
+    "question": "Who was the Roman governor who washed his hands and sentenced Jesus to be crucified?",
+    "options": ["Herod Antipas", "Pontius Pilate", "Caesar Augustus", "Felix"],
+    "correctIndex": 1,
+    "explanation": "Pontius Pilate, the Roman Procurator of Judea, found no guilt in Jesus but yielded to the pressure of the clamoring crowd. He washed his hands symbolically to claim innocence before ordering the crucifixion (Matthew 27).",
+    "extraKokoFact": "Pilate offered to release a prisoner according to custom, but the crowd rejected Jesus and chose a notorious criminal named Barabbas instead."
+  },
+  {
+    "id": "crs_035",
+    "category": "christian-religious-studies",
+    "question": "What did God provide as supernatural food for the Israelites every morning in the wilderness?",
+    "options": ["Quail", "Manna", "Honeycombs", "Unleavened bread"],
+    "correctIndex": 1,
+    "explanation": "When the Israelites complained about hunger in the desert, God rained down 'manna' from heaven each morning, a flaky substance that tasted like wafers made with honey (Exodus 16).",
+    "extraKokoFact": "The literal meaning of the word 'Manna' in Hebrew is 'What is it?' because the people had absolutely no idea what it was when they first saw it."
+  },
+  {
+    "id": "crs_036",
+    "category": "christian-religious-studies",
+    "question": "Who was the first Christian martyr, stoned to death while praying for his executioners?",
+    "options": ["James", "Stephen", "Philip", "Peter"],
+    "correctIndex": 1,
+    "explanation": "Stephen, one of the seven chosen deacons in the early Church, was arrested for his bold preaching. After delivering a powerful defense before the Sanhedrin, he was dragged out and stoned to death (Acts 7).",
+    "extraKokoFact": "As Stephen was dying, he looked up and saw heaven open up with Jesus standing at the right hand of God, and he prayed for his killers' forgiveness."
+  },
+  {
+    "id": "crs_037",
+    "category": "christian-religious-studies",
+    "question": "Which Old Testament couple had their names changed by God to signify a new covenant?",
+    "options": ["Adam and Eve", "Abram and Sarai", "Isaac and Rebekah", "Jacob and Rachel"],
+    "correctIndex": 1,
+    "explanation": "God changed Abram's name to Abraham ('father of many nations') and Sarai's name to Sarah ('mother of nations') when reaffirming His covenant promise that they would bear a son in their old age (Genesis 17).",
+    "extraKokoFact": "Sarah laughed in disbelief when she heard she would have a child at 90 years old, which is why their son was named Isaac, meaning 'laughter.'"
+  },
+  {
+    "id": "crs_038",
+    "category": "christian-religious-studies",
+    "question": "What miracle occurred on the third day after Jesus was crucified and buried?",
+    "options": ["The Transfiguration", "The Ascension", "The Resurrection", "The Pentecost"],
+    "correctIndex": 2,
+    "explanation": "The core of the Christian faith is the Resurrection; Jesus rose bodily from the dead on the third day (Sunday morning), leaving an empty tomb and appearing alive to many disciples (Matthew 28).",
+    "extraKokoFact": "The very first persons to discover the empty tomb and receive the news of the resurrection from an angel were women, including Mary Magdalene."
+  },
+  {
+    "id": "crs_039",
+    "category": "christian-religious-studies",
+    "question": "Who was the youngest son of Jacob, whose mother was Rachel?",
+    "options": ["Joseph", "Benjamin", "Dan", "Gad"],
+    "correctIndex": 1,
+    "explanation": "Benjamin was the twelfth and youngest son of Jacob. His mother Rachel died tragically during his birth near Bethlehem, naming him Ben-oni, but Jacob renamed him Benjamin (Genesis 35:18).",
+    "extraKokoFact": "The name Benjamin means 'Son of my right hand,' signifying his special, treasured position in Jacob's heart alongside Joseph."
+  },
+  {
+    "id": "crs_040",
+    "category": "christian-religious-studies",
+    "question": "Which sacrament was instituted by Jesus during the Last Supper with his disciples?",
+    "options": ["Holy Baptism", "Holy Matrimony", "The Holy Eucharist (Lord's Supper)", "Confirmation"],
+    "correctIndex": 2,
+    "explanation": "During his final Passover meal, Jesus broke bread and shared wine with his disciples, establishing the Holy Eucharist (Holy Communion) as a perpetual remembrance of his broken body and shed blood (Luke 22).",
+    "extraKokoFact": "Jesus instructed his followers: 'Do this in remembrance of me,' which remains a central act of Christian worship globally today."
+  },
+  {
+    "id": "crs_041",
+    "category": "christian-religious-studies",
+    "question": "Who was the sister of Moses and Aaron who led the women of Israel in praise after crossing the Red Sea?",
+    "options": ["Miriam", "Deborah", "Ruth", "Esther"],
+    "correctIndex": 0,
+    "explanation": "Miriam, the prophetess, took a tambourine in her hand and led all the women in dancing and singing a song of victory to celebrate God's deliverance from the Egyptian army (Exodus 15:20-21).",
+    "extraKokoFact": "When Moses was a baby in a basket on the Nile, it was Miriam who watched from a distance and cleverly arranged for his own mother to nurse him for Pharaoh's daughter."
+  },
+  {
+    "id": "crs_042",
+    "category": "christian-religious-studies",
+    "question": "In what small town was Jesus born, fulfilling the prophecy of Micah?",
+    "options": ["Nazareth", "Jerusalem", "Bethlehem", "Capernaum"],
+    "correctIndex": 2,
+    "explanation": "Mary and Joseph traveled from Nazareth to Bethlehem, the city of David, to register for a Roman census, and Jesus was born there in a humble stable because there was no room in the inn (Luke 2:4-7).",
+    "extraKokoFact": "The name Bethlehem translates literally to 'House of Bread' in Hebrew, which is beautifully symbolic since Jesus called himself the Bread of Life."
+  },
+  {
+    "id": "crs_043",
+    "category": "christian-religious-studies",
+    "question": "Which apostle was known for doubting Jesus' resurrection until he saw the nail prints for himself?",
+    "options": ["Thomas", "Philip", "Bartholomew", "Matthew"],
+    "correctIndex": 0,
+    "explanation": "Thomas was absent when Jesus first appeared to the disciples and declared he would not believe unless he could touch the wounds. A week later, Jesus appeared and invited Thomas to touch his hands and side (John 20).",
+    "extraKokoFact": "Upon seeing Jesus, Thomas uttered one of the most powerful confessions in the Gospels: 'My Lord and my God!'"
+  },
+  {
+    "id": "crs_044",
+    "category": "christian-religious-studies",
+    "question": "What instrument did David play to soothe King Saul when an agonizing spirit troubled him?",
+    "options": ["Trumpet", "Flute", "Harp (Lyre)", "Cymbals"],
+    "correctIndex": 2,
+    "explanation": "David was a highly skilled musician. Whenever King Saul was tormented by a distressing spirit, David would play his harp, providing immediate relief and making Saul feel better (1 Samuel 16:23).",
+    "extraKokoFact": "This musical talent brought David directly into the royal court long before he ever faced Goliath or ascended the throne himself."
+  },
+  {
+    "id": "crs_045",
+    "category": "christian-religious-studies",
+    "question": "Who was the short tax collector who climbed a sycamore tree just to see Jesus?",
+    "options": ["Matthew", "Zacchaeus", "Bartimaeus", "Cornelius"],
+    "correctIndex": 1,
+    "explanation": "Zacchaeus was a wealthy chief tax collector in Jericho who was too short to see over the pressing crowd, so he ran ahead and climbed a sycamore-fig tree to catch a glimpse of Jesus passing by (Luke 19:1-10).",
+    "extraKokoFact": "Jesus saw him, called him down by name, stayed at his house, and Zacchaeus joyfully promised to give half his wealth to the poor."
+  },
+  {
+    "id": "crs_046",
+    "category": "christian-religious-studies",
+    "question": "Which event marks the descent of the Holy Spirit upon the Apostles, enabling them to speak in diverse tongues?",
+    "options": ["The Passover", "The Ascension", "The Pentecost", "The Epiphany"],
+    "correctIndex": 2,
+    "explanation": "On the Day of Pentecost, fifty days after the resurrection, the Holy Spirit descended on the gathered disciples like a rushing wind and tongues of fire, empowering them to preach the Gospel (Acts 2).",
+    "extraKokoFact": "Apostle Peter preached a powerful sermon immediately afterward, resulting in about 3,000 people being baptised into the early Church that single day."
+  },
+  {
+    "id": "crs_047",
+    "category": "christian-religious-studies",
+    "question": "Who was the Jewish queen who risked her life to save her people from a genocidal plot by Haman?",
+    "options": ["Esther", "Vashti", "Ruth", "Naomi"],
+    "correctIndex": 0,
+    "explanation": "Queen Esther, guided by her cousin Mordecai, fasted and approached King Xerxes of Persia without an invitation to expose Haman's evil plot to eliminate all Jews throughout the empire (Book of Esther).",
+    "extraKokoFact": "Mordecai famously encouraged her by asking if she had come to her royal position 'for such a time as this.'"
+  },
+  {
+    "id": "crs_048",
+    "category": "christian-religious-studies",
+    "question": "What did God use to guide the Israelites across the wilderness during the night?",
+    "options": ["A map of Canaan", "A pillar of cloud", "A pillar of fire", "The North Star"],
+    "correctIndex": 2,
+    "explanation": "To guide them on their long journey, the Lord went ahead of the Israelites in a pillar of cloud by day to lead them, and a pillar of fire by night to give them light (Exodus 13:21-22).",
+    "extraKokoFact": "These pillars never left their place, serving as a constant, visible reminder of God's protective presence over the camp."
+  },
+  {
+    "id": "crs_049",
+    "category": "christian-religious-studies",
+    "question": "Which of Jesus' parables highlights a rebellious son who wastes his inheritance but is welcomed home with unconditional love?",
+    "options": ["The Good Samaritan", "The Sower", "The Prodigal Son", "The Lost Sheep"],
+    "correctIndex": 2,
+    "explanation": "The Parable of the Prodigal Son illustrates God's boundless mercy. A father joyfully welcomes back his foolish, repentant son with a grand feast rather than punishment (Luke 15:11-32).",
+    "extraKokoFact": "The word 'prodigal' actually means wastefully extravagant, which describes how the son spent his money in a far-off country."
+  },
+  {
+    "id": "crs_050",
+    "category": "christian-religious-studies",
+    "question": "Who was the elderly priest at Shiloh who raised Samuel and collapsed upon hearing that the Ark of God was captured?",
+    "options": ["Eli", "Samuel", "Phinehas", "Hophni"],
+    "correctIndex": 0,
+    "explanation": "Eli served as high priest and judge for forty years. When a messenger reported that Israel had fled from the Philistines, his two sons were dead, and the Ark of God was captured, Eli fell backward off his chair and died (1 Samuel 4:18).",
+    "extraKokoFact": "Eli had previously failed to restrain his sons, Hophni and Phinehas, who behaved wickedly and disrespected the holy sacrifices at the tabernacle."
+  },
+  {
+    "id": "crs_051",
+    "category": "christian-religious-studies",
+    "question": "What is the summary of Christian duties toward God and neighbors called in the Old Testament?",
+    "options": ["The Beatitudes", "The Ten Commandments", "The Parables", "The Epistles"],
+    "correctIndex": 1,
+    "explanation": "The Ten Commandments (Decalogue) given to Moses provide the fundamental framework for moral responsibility, defining our direct duties toward God and our social obligations to one another (Exodus 20).",
+    "extraKokoFact": "The first four commandments focus primarily on our relationship with God, while the final six address our interactions with other human beings."
+  },
+  {
+    "id": "crs_052",
+    "category": "christian-religious-studies",
+    "question": "Which Moabite woman chose to stay with her grieving mother-in-law Naomi, uttering the words 'Your people shall be my people'?",
+    "options": ["Orpah", "Ruth", "Vashti", "Leah"],
+    "correctIndex": 1,
+    "explanation": "Ruth demonstrated exceptional loyalty and love by refusing to abandon Naomi after both their husbands passed away, traveling with her back to Bethlehem and embracing Naomi's faith and culture (Ruth 1).",
+    "extraKokoFact": "Because of her faithfulness, Ruth later married Boaz and became an ancestor of King David and eventually Jesus Christ."
+  },
+  {
+    "id": "crs_053",
+    "category": "christian-religious-studies",
+    "question": "Which major prophet spent a night unharmed in a furnace alongside Hananiah, Mishael, and Azariah?",
+    "options": ["Ezekiel", "Daniel", "Shadrach, Meshach, and Abednego", "Isaiah"],
+    "correctIndex": 2,
+    "explanation": "Shadrach, Meshach, and Abednego (their Babylonian names) refused to bow down to King Nebuchadnezzar's golden image. They were thrown into a blazing furnace but were miraculously preserved without a single singed hair (Daniel 3).",
+    "extraKokoFact": "The astonished king peered into the roaring furnace and saw four men walking around completely unbound, noting that the appearance of the fourth resembled 'a son of the gods.'"
+  },
+  {
+    "id": "crs_054",
+    "category": "christian-religious-studies",
+    "question": "What is the final book of the Christian Bible, containing prophetic visions recorded by John on the island of Patmos?",
+    "options": ["Acts", "Hebrews", "Jude", "Revelation"],
+    "correctIndex": 3,
+    "explanation": "The Book of Revelation (Apocalypse) is the final book of the New Testament. It records a series of highly symbolic prophetic visions given to the Apostle John regarding the ultimate triumph of God's Kingdom.",
+    "extraKokoFact": "John was exiled to the tiny, rocky island of Patmos by the Roman authorities because of his bold testimony about Jesus."
+  },
+  {
+    "id": "crs_055",
+    "category": "christian-religious-studies",
+    "question": "Which close friend of Jesus wept bitterly at his death, and was the first to see Him outside the empty tomb?",
+    "options": ["Martha", "Mary Magdalene", "Salome", "Mary of Bethany"],
+    "correctIndex": 1,
+    "explanation": "Mary Magdalene stood by the cross during the crucifixion and went early to the tomb on Sunday morning. Jesus appeared to her first, calling her by name, and sent her to tell the other disciples (John 20).",
+    "extraKokoFact": "Jesus had previously delivered Mary Magdalene from seven agonizing demons, establishing her deep devotion and gratitude to Him."
+  },
+  {
+    "id": "crs_056",
+    "category": "christian-religious-studies",
+    "question": "Who was the exceptionally wise mother of King Solomon, who had previously been the wife of Uriah?",
+    "options": ["Bathsheba", "Abigail", "Michal", "Tamar"],
+    "correctIndex": 0,
+    "explanation": "Bathsheba became the wife of King David and later gave birth to Solomon. With the strategic assistance of Nathan the prophet, she ensured that Solomon successfully secured the throne as David's successor (1 Kings 1).",
+    "extraKokoFact": "Solomon showed immense respect for his mother, placing a royal throne for her at his right hand whenever she entered his presence."
+  },
+  {
+    "id": "crs_057",
+    "category": "christian-religious-studies",
+    "question": "What was the occupation of the first disciples called by Jesus—Peter, Andrew, James, and John?",
+    "options": ["Tax collectors", "Carpenters", "Fishermen", "Shepherds"],
+    "correctIndex": 2,
+    "explanation": "While walking along the Sea of Galilee, Jesus saw Simon Peter and Andrew casting nets and called them, saying, 'Follow me, and I will make you fishers of men.' He then called James and John who were mending nets (Matthew 4:18-22).",
+    "extraKokoFact": "These men left their boats, nets, and families immediately to follow Jesus, transitioning from catching fish to transforming human lives."
+  },
+  {
+    "id": "crs_058",
+    "category": "christian-religious-studies",
+    "question": "Which son of King David staged a massive rebellion against his father but died when his long hair caught in an oak tree?",
+    "options": ["Amnon", "Adonijah", "Absalom", "Solomon"],
+    "correctIndex": 2,
+    "explanation": "Absalom won the hearts of the people and attempted to overthrow David. During a fierce battle in the forest of Ephraim, his head caught tightly in the thick branches of a large oak tree as his mule rode out from under him (2 Samuel 18).",
+    "extraKokoFact": "Absalom was famous across Israel for his extraordinary good looks and his remarkably thick, heavy hair, which ironically contributed to his death."
+  },
+  {
+    "id": "crs_059",
+    "category": "christian-religious-studies",
+    "question": "What primary lesson does Jesus teach through the Parable of the Sower?",
+    "options": ["How to plant crops properly", "The varying responses of human hearts to the Word of God", "The importance of wealth", "How to manage a farm"],
+    "correctIndex": 1,
+    "explanation": "The Parable of the Sower describes seed falling on a path, rocky ground, thorns, and good soil. Jesus explains that the seed represents God's Word, and the soils depict different conditions of the human heart (Matthew 13).",
+    "extraKokoFact": "Only the seed sown on the good soil successfully takes deep root, grows to full maturity, and produces an abundant crop of righteousness."
+  },
+  {
+    "id": "crs_060",
+    "category": "christian-religious-studies",
+    "question": "Who was the supreme high priest who presided over the mock trial of Jesus before the Jewish council?",
+    "options": ["Annas", "Caiaphas", "Gamaliel", "Nicodemus"],
+    "correctIndex": 1,
+    "explanation": "Caiaphas was the ruling high priest during Jesus' ministry. He convened the Sanhedrin at his palace, accused Jesus of blasphemy when He claimed to be the Son of God, and campaigned for his execution (Matthew 26:57).",
+    "extraKokoFact": "Caiaphas held office for 18 years, a unusually long tenure that required maintaining a very delicate political balance with Roman authorities."
+  },
+  {
+    "id": "crs_061",
+    "category": "christian-religious-studies",
+    "question": "Which of the following values refers to absolute truthfulness and moral uprightness in all actions?",
+    "options": ["Arrogance", "Honesty", "Hypocrisy", "Selfishness"],
+    "correctIndex": 1,
+    "explanation": "Honesty is a core Christian value that involves speaking the truth, being sincere, and remaining transparent and trustworthy in your dealings with God and other people.",
+    "extraKokoFact": "Proverbs 12:22 teaches that 'Lying lips are an abomination to the Lord, but those who deal truthfully are His delight.'"
+  },
+  {
+    "id": "crs_062",
+    "category": "christian-religious-studies",
+    "question": "The moral obligation to respect, obey, and assist your parents is anchored in which commandment?",
+    "options": ["First Commandment", "Third Commandment", "Fifth Commandment", "Tenth Commandment"],
+    "correctIndex": 2,
+    "explanation": "The Fifth Commandment states: 'Honor your father and your mother, that your days may be long upon the land which the Lord your God is giving you' (Exodus 20:12). It promotes family harmony.",
+    "extraKokoFact": "Apostle Paul points out in Ephesians 6:2 that this is the very first commandment accompanied by a specific, beautiful promise."
+  },
+  {
+    "id": "crs_063",
+    "category": "christian-religious-studies",
+    "question": "What term defines a state of mutual respect and cooperation where people live together without conflict?",
+    "options": ["Anarchy", "Peaceful co-existence", "Tribalism", "Aggression"],
+    "correctIndex": 1,
+    "explanation": "Peaceful co-existence means living harmoniously with others despite differences in tribe, religion, or background, as commanded by Christian teachings on love and tolerance.",
+    "extraKokoFact": "Romans 12:18 urges us: 'If it is possible, as much as depends on you, live peaceably with all men.'"
+  },
+  {
+    "id": "crs_064",
+    "category": "christian-religious-studies",
+    "question": "An individual who displays bad companionship might encourage you to perform which of the following activities?",
+    "options": ["Study hard for exams", "Attend church activities", "Engage in examination malpractice", "Respect school authorities"],
+    "correctIndex": 2,
+    "explanation": "Bad companions corrupt good character. They influence peers negatively, steering them toward destructive behaviors like stealing, cultism, or examination malpractice.",
+    "extraKokoFact": "1 Corinthians 15:33 delivers a clear, stern warning: 'Do not be deceived: Evil company corrupts good habits.'"
+  },
+  {
+    "id": "crs_065",
+    "category": "christian-religious-studies",
+    "question": "Which of the following is a direct, positive outcome of obeying school rules and societal laws?",
+    "options": ["Suspension from school", "Constant punishment", "Orderly and peaceful environment", "Rebellion and chaos"],
+    "correctIndex": 2,
+    "explanation": "Obedience to authority and established guidelines ensures order, safety, and academic success within a school, preventing confusion and maintaining a peaceful atmosphere.",
+    "extraKokoFact": "The Bible encourages submission to proper governance and authority structures, as they are instituted to maintain public order."
+  },
+  {
+    "id": "crs_066",
+    "category": "christian-religious-studies",
+    "question": "What attribute describes the capacity to remain calm and tolerant when facing delays, provocations, or hardships?",
+    "options": ["Impatience", "Patience (Long-suffering)", "Malice", "Jealousy"],
+    "correctIndex": 1,
+    "explanation": "Patience is a crucial fruit of the Spirit. It enables a Christian to handle challenging situations and difficult people calmly without losing their temper or seeking immediate revenge.",
+    "extraKokoFact": "Patience is highly highlighted in the life of Job, who remained completely faithful to God despite losing his wealth, health, and children."
+  },
+  {
+    "id": "crs_067",
+    "category": "christian-religious-studies",
+    "question": "Which historic leader was chosen by God to succeed Moses and lead the Israelites safely across the Jordan River into Canaan?",
+    "options": ["Caleb", "Joshua", "Gideon", "Aaron"],
+    "correctIndex": 1,
+    "explanation": "Joshua, the son of Nun, served as Moses' faithful assistant and was full of the spirit of wisdom. God appointed him to lead the nation across the Jordan into the Promised Land after Moses passed away (Joshua 1).",
+    "extraKokoFact": "Joshua and Caleb were the only two spies from the original twelve who brought back an encouraging report and trusted God to defeat the giants of Canaan."
+  },
+  {
+    "id": "crs_068",
+    "category": "christian-religious-studies",
+    "question": "What is the primary spiritual purpose of prayer in a Christian's daily life?",
+    "options": ["To show off spiritual maturity in public", "To communicate with God and build a close relationship", "To demand material riches constantly", "To judge the sins of other people"],
+    "correctIndex": 1,
+    "explanation": "Prayer is simply talking and listening to God. Its core purpose is to praise Him, seek forgiveness, make requests, and align our desires with His perfect will, deepening our personal faith.",
+    "extraKokoFact": "In Matthew 6, Jesus provided his disciples with a clear template for prayer, which we know affectionately as 'The Lord's Prayer.'"
+  },
+  {
+    "id": "crs_069",
+    "category": "christian-religious-studies",
+    "question": "Which of the following actions demonstrates a lack of self-control as a student?",
+    "options": ["Rushing into a physical fight over a minor insult", "Waiting patiently in a food queue", "Forgiving a classmate who accidentally bumps into you", "Focusing quietly on your assignment"],
+    "correctIndex": 0,
+    "explanation": "Self-control means managing your emotions, words, and actions. Exploding in anger and fighting demonstrates a lack of self-control, which goes against the teachings of Christ.",
+    "extraKokoFact": "Proverbs 25:28 states that a person who lacks self-control over their spirit is like a defenseless city with broken-down walls."
+  },
+  {
+    "id": "crs_070",
+    "category": "christian-religious-studies",
+    "question": "Who was the Roman emperor who ordered the census that forced Joseph and Mary to travel to Bethlehem?",
+    "options": ["Caesar Nero", "Caesar Augustus", "Tiberius Caesar", "Claudius Caesar"],
+    "correctIndex": 1,
+    "explanation": "Luke 2:1 records that Caesar Augustus issued a decree that a census should be taken of the entire Roman world, requiring everyone to travel to their ancestral town to register.",
+    "extraKokoFact": "Caesar Augustus was the very first official emperor of the Roman Empire, reigning during a period of relative peace known as the Pax Romana."
+  },
+  {
+    "id": "crs_071",
+    "category": "christian-religious-studies",
+    "question": "Which parable did Jesus share to explain who our 'neighbor' is, emphasizing compassion across cultural boundaries?",
+    "options": ["Parable of the Sower", "Parable of the Good Samaritan", "Parable of the Talents", "Parable of the Mustard Seed"],
+    "correctIndex": 1,
+    "explanation": "In the Parable of the Good Samaritan, a traveler is beaten and left half dead. While religious leaders walk past him, a Samaritan stops, treats his wounds, and pays for his care, proving to be a true neighbor (Luke 10).",
+    "extraKokoFact": "Jews and Samaritans generally detested each other during that era, which made the Samaritan's profound kindness incredibly shocking to Jesus' audience."
+  },
+  {
+    "id": "crs_072",
+    "category": "christian-religious-studies",
+    "question": "Who was the cousin of Jesus who leaped with joy inside his mother's womb during Mary's visit?",
+    "options": ["John the Baptist", "James the Just", "Timothy", "Apollos"],
+    "correctIndex": 0,
+    "explanation": "When Mary, pregnant with Jesus, visited her relative Elizabeth, who was six months pregnant with John the Baptist, the baby leaped inside Elizabeth's womb as she was filled with the Holy Spirit (Luke 1:41).",
+    "extraKokoFact": "Elizabeth exclaimed loudly: 'Blessed are you among women, and blessed is the child you will bear!'"
+  },
+  {
+    "id": "crs_073",
+    "category": "christian-religious-studies",
+    "question": "According to the Creation narrative, how did God form the very first man, Adam?",
+    "options": ["From a brilliant beam of celestial light", "From the dust of the ground and the breath of life", "From the spoken word alone, like the stars", "From a polished piece of marble stone"],
+    "correctIndex": 1,
+    "explanation": "Genesis 2:7 records that the Lord God formed man from the dust of the ground, and breathed into his nostrils the breath of life, and man became a living being.",
+    "extraKokoFact": "The name 'Adam' is closely connected to the Hebrew word 'Adamah,' which translates directly to ground or red earth."
+  },
+  {
+    "id": "crs_074",
+    "category": "christian-religious-studies",
+    "question": "Which dynamic duo was sent out by the church in Antioch on the very first official missionary journey?",
+    "options": ["Paul and Silas", "Paul and Barnabas", "Peter and John", "Philip and Nathaniel"],
+    "correctIndex": 1,
+    "explanation": "As the leaders at Antioch fasted and worshipped, the Holy Spirit instructed them to set apart Barnabas and Saul (Paul) for the specialized work of spreading the Gospel across Cyprus and Asia Minor (Acts 13).",
+    "extraKokoFact": "Barnabas was widely known as the 'Son of Encouragement' due to his incredibly generous nature and his willingness to welcome others."
+  },
+  {
+    "id": "crs_075",
+    "category": "christian-religious-studies",
+    "question": "What sign did God place in the sky after the Great Flood as a permanent promise never to destroy the earth with water again?",
+    "options": ["A brilliant comet", "A solar eclipse", "A rainbow", "A pillar of cloud"],
+    "correctIndex": 2,
+    "explanation": "God established a covenant with Noah, his descendants, and all living creatures, setting a rainbow in the clouds as a visual token of His promise that floodwaters would never wipe out all life again (Genesis 9).",
+    "extraKokoFact": "Every single time a rainbow appears in the sky after a rainstorm, it stands as an enduring symbol of God's faithfulness and mercy."
+  },
+  {
+    "id": "crs_076",
+    "category": "christian-religious-studies",
+    "question": "Which of Jesus' disciples was a professional tax collector before leaving his toll booth to follow Him?",
+    "options": ["Simon Peter", "Matthew (Levi)", "Judas Iscariot", "Thomas"],
+    "correctIndex": 1,
+    "explanation": "Jesus saw Matthew sitting at his tax collector's booth in Capernaum and simply said, 'Follow me.' Matthew stood up immediately, left everything behind, and hosted a grand banquet for Jesus (Matthew 9:9).",
+    "extraKokoFact": "Tax collectors were deeply despised by fellow Jews because they worked for the occupying Roman rulers and frequently overcharged people."
+  },
+  {
+    "id": "crs_077",
+    "category": "christian-religious-studies",
+    "question": "Who was the faithful daughter-in-law of Naomi who reluctantly returned to her homeland of Moab?",
+    "options": ["Ruth", "Orpah", "Michal", "Hannah"],
+    "correctIndex": 1,
+    "explanation": "When Naomi urged her widowed daughters-in-law to stay in Moab, Orpah kissed Naomi goodbye and returned to her people and her gods, while Ruth clung firmly to her (Ruth 1:14).",
+    "extraKokoFact": "Though Orpah chose to turn back, her initial willingness to walk part of the journey demonstrated deep affection for Naomi."
+  },
+  {
+    "id": "crs_078",
+    "category": "christian-religious-studies",
+    "question": "What deep spiritual lesson is taught through the Parable of the Unforgiving Servant?",
+    "options": ["The importance of wise investments", "We must forgive others generously, just as God forgives us", "How to manage large estates safely", "We should avoid borrowing funds from rulers"],
+    "correctIndex": 1,
+    "explanation": "In Matthew 18, a servant forgiven an immense debt refuses to forgive a tiny debt owed by a fellow servant. The master punishes him, showing that we must extend forgiveness to others just as God forgives us.",
+    "extraKokoFact": "When Peter asked Jesus if forgiving someone seven times was sufficient, Jesus answered that he must forgive seventy times seven!"
+  },
+  {
+    "id": "crs_079",
+    "category": "christian-religious-studies",
+    "question": "Which miraculous event featured Elijah calling down divine fire to defeat 450 prophets of Baal?",
+    "options": ["The Contest on Mount Carmel", "The Journey to Mount Horeb", "The Siege of Samaria", "The Crossing of Jordan"],
+    "correctIndex": 0,
+    "explanation": "Elijah challenged the prophets of Baal to a public contest on Mount Carmel to prove who the true God was. Baal's prophets failed, but the Lord sent down fire that consumed Elijah's water-soaked sacrifice (1 Kings 18).",
+    "extraKokoFact": "The watching crowd immediately fell prostrate and shouted enthusiastically: 'The Lord—He is God! The Lord—He is God!'"
+  },
+  {
+    "id": "crs_080",
+    "category": "christian-religious-studies",
+    "question": "Who was the father of King Saul, the first monarch of Israel?",
+    "options": ["Kish", "Jesse", "Elkanah", "Abner"],
+    "correctIndex": 0,
+    "explanation": "1 Samuel 9:1-2 states that Kish, a wealthy and influential man from the tribe of Benjamin, was the father of Saul, who was chosen to become Israel's first king.",
+    "extraKokoFact": "Saul was out looking for his father Kish's lost donkeys when he first met the prophet Samuel, who anointed him king."
+  },
+  {
+    "id": "crs_081",
+    "category": "christian-religious-studies",
+    "question": "Which specific Christian gift involves treating others with deep empathy, kindness, and practical help without expecting repayment?",
+    "options": ["Selfishness", "Generosity and Charity", "Greed", "Laziness"],
+    "correctIndex": 1,
+    "explanation": "Charity is love in action. It means sharing what you have with the poor, needy, and vulnerable, reflecting God's love and kindness toward humanity.",
+    "extraKokoFact": "1 Corinthians 13 describes love (charity) as the greatest of all spiritual virtues, outlasting even faith and hope."
+  },
+  {
+    "id": "crs_082",
+    "category": "christian-religious-studies",
+    "question": "What unique gift did Jacob present to his favorite son, Joseph, which sparked deep jealousy among his older brothers?",
+    "options": ["A golden signet ring", "A beautiful coat of many colors", "A fine flock of young sheep", "A silver ornamental cup"],
+    "correctIndex": 1,
+    "explanation": "Because Jacob loved Joseph more than any of his other sons, he made him a beautifully ornamented tunic or coat of many colors. This visible favoritism made his brothers resentful (Genesis 37:3).",
+    "extraKokoFact": "The intense jealousy peaked when Joseph shared dreams where his brothers' sheaves bowed down to his own sheaf."
+  },
+  {
+    "id": "crs_083",
+    "category": "christian-religious-studies",
+    "question": "Who was the first high priest of Israel and the biological brother of Moses?",
+    "options": ["Aaron", "Hur", "Eleazar", "Joshua"],
+    "correctIndex": 0,
+    "explanation": "Aaron was appointed by God to serve as Moses' spokesman before Pharaoh because he was eloquent. He was later anointed alongside his sons as the first official high priest of Israel (Exodus 28).",
+    "extraKokoFact": "Aaron used a wooden staff that miraculously budded, blossomed, and produced ripe almonds to confirm his divine selection."
+  },
+  {
+    "id": "crs_084",
+    "category": "christian-religious-studies",
+    "question": "Which of the following attributes is defined as an inner voice or moral sense that helps you distinguish right from wrong?",
+    "options": ["Conscience", "Intellect", "Memory", "Ambition"],
+    "correctIndex": 0,
+    "explanation": "Your conscience is the internal moral compass given by God. It prompts feelings of peace when you do right and guilt when you do wrong, guiding your ethical choices.",
+    "extraKokoFact": "Apostle Paul frequently spoke about the importance of maintaining a clear, blameless conscience before God and other people."
+  },
+  {
+    "id": "crs_085",
+    "category": "christian-religious-studies",
+    "question": "Who was the faithful king of Judah who cleared out pagan idols and prayed fervently when Sennacherib's army surrounded Jerusalem?",
+    "options": ["King Ahab", "King Hezekiah", "King Jeroboam", "King Manasseh"],
+    "correctIndex": 1,
+    "explanation": "King Hezekiah trusted completely in the Lord. When the Assyrian army threatened Jerusalem, he laid the enemy's threatening letter before God in the temple, and God sent an angel to rescue the city (2 Kings 19).",
+    "extraKokoFact": "When Hezekiah fell terminally ill, he prayed with tears and God added exactly fifteen years to his life, giving him a miraculous sign."
+  },
+  {
+    "id": "crs_086",
+    "category": "christian-religious-studies",
+    "question": "What island was the Apostle Paul shipwrecked on during his perilous voyage to face trial in Rome?",
+    "options": ["Cyprus", "Crete", "Malta", "Patmos"],
+    "correctIndex": 2,
+    "explanation": "Acts 28 records that after their ship was smashed by a violent storm, all 276 passengers swam safely to shore, discovering that the island was called Malta, where the locals showed them unusual kindness.",
+    "extraKokoFact": "While gathering firewood on Malta, Paul was bitten by a venomous viper but suffered no harm, causing the locals to think he was a god."
+  },
+  {
+    "id": "crs_087",
+    "category": "christian-religious-studies",
+    "question": "Which devout prophetess stayed in the temple night and day fasting and praying, recognizing baby Jesus as the long-awaited Redeemer?",
+    "options": ["Anna", "Elizabeth", "Deborah", "Huldah"],
+    "correctIndex": 0,
+    "explanation": "Anna was an 84-year-old widow and prophetess who never left the temple. She approached Mary and Joseph, gave thanks to God, and spoke about Jesus to everyone looking forward to the redemption of Jerusalem (Luke 2:36-38).",
+    "extraKokoFact": "Anna arrived at the exact moment that Simeon was holding baby Jesus and pronouncing his beautiful prophetic blessing."
+  },
+  {
+    "id": "crs_088",
+    "category": "christian-religious-studies",
+    "question": "Who was the youngest son of Jesse who was overlooked by his father when Samuel came to anoint the next king?",
+    "options": ["Eliab", "Abinadab", "Shammah", "David"],
+    "correctIndex": 3,
+    "explanation": "When Samuel arrived in Bethlehem, Jesse presented his seven oldest sons. However, God rejected them all, noting that He looks at the heart. Jesse then sent for David, who was tending the sheep (1 Samuel 16).",
+    "extraKokoFact": "As soon as David entered, the Lord told Samuel: 'Rise and anoint him; this is the one,' initiating his journey toward leadership."
+  },
+  {
+    "id": "crs_089",
+    "category": "christian-religious-studies",
+    "question": "What is the core meaning of the Christian principle of stewardship?",
+    "options": ["Owning as many earthly properties as possible", "Managing resources, time, and talents responsibly as a trust from God", "Refusing to work or study", "Dominating other people with authority"],
+    "correctIndex": 1,
+    "explanation": "Stewardship is the belief that everything we have belongs to God. A good steward manages their time, talents, academic opportunities, and wealth wisely and responsibly to honor Him.",
+    "extraKokoFact": "The Parable of the Talents teaches that God expects us to actively develop and multiply the gifts He has entrusted to our care."
+  },
+  {
+    "id": "crs_090",
+    "category": "christian-religious-studies",
+    "question": "Which prominent Pharisee and member of the Sanhedrin came to visit Jesus under the cover of darkness to ask about eternal life?",
+    "options": ["Cornelius", "Nicodemus", "Zacchaeus", "Stephen"],
+    "correctIndex": 1,
+    "explanation": "Nicodemus came to Jesus at night to avoid public scrutiny. Jesus shared profound truths with him, explaining that a person must be born again of water and the Spirit to see the Kingdom of God (John 3).",
+    "extraKokoFact": "Nicodemus later defended Jesus in the council and brought a massive, expensive mixture of myrrh and aloes to help wrap Jesus' body for burial."
+  },
+  {
+    "id": "crs_091",
+    "category": "christian-religious-studies",
+    "question": "Which of the following represents a healthy, scriptural way to handle conflict with a friend?",
+    "options": ["Spreading malicious gossip about them behind their back", "Discussing the issue privately with them to seek forgiveness and peace", "Stopping all communication completely", "Planning a physical revenge attack"],
+    "correctIndex": 1,
+    "explanation": "Matthew 18:15 outlines a constructive path for reconciliation. It instructs us to go directly to the person who offended us and talk through the matter privately to restore the relationship harmoniously.",
+    "extraKokoFact": "The Bible teaches that blessed are the peacemakers, for they will be called children of the Living God."
+  },
+  {
+    "id": "crs_092",
+    "category": "christian-religious-studies",
+    "question": "Who was the mother of John the Baptist, who was famously described as righteous before God along with her husband Zechariah?",
+    "options": ["Mary", "Elizabeth", "Hannah", "Sarah"],
+    "correctIndex": 1,
+    "explanation": "Elizabeth was barren and well advanced in years, but an angel promised her husband Zechariah that they would have a son. She gave birth to John the Baptist in her old age (Luke 1).",
+    "extraKokoFact": "Elizabeth was a close relative of Mary, the mother of Jesus, linking their two families in God's divine plan of salvation."
+  },
+  {
+    "id": "crs_093",
+    "category": "christian-religious-studies",
+    "question": "What city's walls collapsed completely after the Israelites marched around them for seven days blowing rams' horns?",
+    "options": ["Jerusalem", "Jericho", "Ai", "Babylon"],
+    "correctIndex": 1,
+    "explanation": "Under Joshua's leadership, the Israelites followed God's unique strategy: marching around Jericho once a day for six days, and seven times on the seventh day. When the priests blew the horns and the army shouted, the massive walls collapsed (Joshua 6).",
+    "extraKokoFact": "The city was entirely sealed tight out of fear of the Israelites, but no defense could stand against the power of God's command."
+  },
+  {
+    "id": "crs_094",
+    "category": "christian-religious-studies",
+    "question": "Which of Jesus' parables warns against hoarding earthly riches while remaining spiritually bankrupt toward God?",
+    "options": ["The Rich Fool", "The Good Samaritan", "The Lost Coin", "The Pearl of Great Price"],
+    "correctIndex": 0,
+    "explanation": "In the Parable of the Rich Fool, a wealthy man builds larger barns to store his massive harvest, planning to take life easy. However, God calls him a fool because his life is demanded that very night (Luke 12:13-21).",
+    "extraKokoFact": "Jesus concluded this powerful teaching by saying: 'This is how it will be with whoever stores up things for themselves but is not rich toward God.'"
+  },
+  {
+    "id": "crs_095",
+    "category": "christian-religious-studies",
+    "question": "Who was the Roman centurion whose deep faith amazed Jesus, prompting Him to say He hadn't found such faith even in Israel?",
+    "options": ["Cornelius", "The Centurion at Capernaum", "Julius", "Longinus"],
+    "correctIndex": 1,
+    "explanation": "A Roman centurion in Capernaum requested healing for his paralyzed servant but humbly stated he wasn't worthy to have Jesus enter his home, asking Jesus to simply speak the word from afar (Matthew 8:5-13).",
+    "extraKokoFact": "Jesus was astonished by his response, healed the servant immediately from a distance, and praised his exemplary faith."
+  },
+  {
+    "id": "crs_096",
+    "category": "christian-religious-studies",
+    "question": "Which dynamic prophetess served as a judge of Israel, holding court beneath a palm tree and leading the nation to victory over Sisera?",
+    "options": ["Miriam", "Deborah", "Ruth", "Esther"],
+    "correctIndex": 1,
+    "explanation": "Deborah was a highly respected prophetess and judge who summoned Barak to mobilize the army and secure a miraculous victory over Jabin's oppressive Canaanite forces led by Sisera (Judges 4).",
+    "extraKokoFact": "Deborah joined the army on the battlefield herself, showing incredible courage and inspiring the troops to victory."
+  },
+  {
+    "id": "crs_097",
+    "category": "christian-religious-studies",
+    "question": "What specific act of deep humility and service did Jesus perform for his disciples during their final evening meal together?",
+    "options": ["Anointing their heads with expensive oil", "Washing their feet", "Presenting them with beautiful white robes", "Distributing golden coins to them"],
+    "correctIndex": 1,
+    "explanation": "John 13 records that during the Last Supper, Jesus wrapped a towel around his waist, poured water into a basin, and washed his disciples' feet, setting an example of servant leadership for them to emulate.",
+    "extraKokoFact": "When Simon Peter initially protested out of deep respect, Jesus explained that unless He washed him, Peter had no part with Him."
+  },
+  {
+    "id": "crs_098",
+    "category": "christian-religious-studies",
+    "question": "Which son of Abraham was born to Sarah in her advanced old age, fulfilling God's long-standing promise?",
+    "options": ["Ishmael", "Isaac", "Jacob", "Esau"],
+    "correctIndex": 1,
+    "explanation": "God remained faithful to His covenant, and Sarah gave birth to Isaac when Abraham was 100 years old, bringing immense joy and laughter to their household (Genesis 21).",
+    "extraKokoFact": "The name Isaac translates to 'He laughs,' commemorating how both Abraham and Sarah had laughed when they first heard the promise."
+  },
+  {
+    "id": "crs_099",
+    "category": "christian-religious-studies",
+    "question": "Who was the wealthy dealer in purple cloth from the city of Thyatira who opened her heart and home to Paul and his companions in Philippi?",
+    "options": ["Priscilla", "Lydia", "Phoebe", "Dorcas"],
+    "correctIndex": 1,
+    "explanation": "Acts 16:14-15 records that as Lydia listened to Paul's preaching, the Lord opened her heart to respond. She and her entire household were baptised, and she invited the missionaries to stay at her home.",
+    "extraKokoFact": "Lydia was a successful businesswoman dealing in valuable purple dye and fabrics, which were highly prized by the wealthy and noble classes of that era."
+  },
+  {
+    "id": "crs_100",
+    "category": "christian-religious-studies",
+    "question": "Which beautiful garden was created by God as the initial home for Adam and Eve before they disobeyed Him?",
+    "options": ["Garden of Eden", "Garden of Gethsemane", "Garden of Jericho", "Garden of Lebanon"],
+    "correctIndex": 0,
+    "explanation": "The Lord God planted the lush Garden of Eden in the east, placing the first humans there to care for it. It featured beautiful trees, flowing rivers, and abundant food options (Genesis 2:8).",
+    "extraKokoFact": "Four major ancient rivers flowed out from the Garden of Eden to water the surrounding lands: the Pishon, Gihon, Tigris, and Euphrates."
+  }
+]

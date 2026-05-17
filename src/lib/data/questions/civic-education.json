@@ -1,0 +1,1137 @@
+[
+  {
+    "id": "cived_001",
+    "category": "civic-education",
+    "question": "Citizenship means:",
+    "options": [
+      "Voting during election",
+      "People who live in cities",
+      "The state of being granted all legal rights and privileges by a country",
+      "People who enter ships"
+    ],
+    "correctIndex": 2,
+    "explanation": "Citizenship is the legal status that gives a person rights and duties within a country, such as the right to vote and the duty to obey the law.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_002",
+    "category": "civic-education",
+    "question": "The Nigerian flag has how many colours?",
+    "options": ["1", "2", "3", "4"],
+    "correctIndex": 1,
+    "explanation": "The Nigerian flag has two colours: green and white. The green stripes represent Nigeria's forests and natural wealth, and the white stripe represents peace.",
+    "extraKokoFact": "Nigeria's flag was designed by Michael Taiwo Akinkunmi, a student, who won a competition in 1959 — the year before independence!"
+  },
+  {
+    "id": "cived_003",
+    "category": "civic-education",
+    "question": "One of the consequences of dishonesty is that:",
+    "options": [
+      "It leads to promotion",
+      "It creates employment opportunities",
+      "It leads to punishment",
+      "It opens doors of favour"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dishonesty leads to punishment, loss of trust, and damaged relationships. It has negative consequences in school, at home, and in society.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_004",
+    "category": "civic-education",
+    "question": "The national motto of Nigeria is:",
+    "options": [
+      "Unity, Faith, Peace and Progress",
+      "Peace, Unity and Progress",
+      "Work, Wisdom and Wonder",
+      "Forward Together"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nigeria's national motto is 'Unity, Faith, Peace and Progress'. It appears on the Nigerian coat of arms.",
+    "extraKokoFact": "The Nigerian coat of arms has a black shield (representing Nigeria's fertile soil), two white wavy lines (the River Niger and Benue), and an eagle on top."
+  },
+  {
+    "id": "cived_005",
+    "category": "civic-education",
+    "question": "Which of the following is a fundamental human right?",
+    "options": [
+      "Right to life",
+      "Right to drive a car",
+      "Right to free luxury housing",
+      "Right to break minor laws"
+    ],
+    "correctIndex": 0,
+    "explanation": "The right to life is a fundamental human right guaranteed to every human being from birth. Rights like driving are privileges that require qualifications.",
+    "extraKokoFact": "Human rights are protected by Chapter IV of the 1999 Constitution of the Federal Republic of Nigeria."
+  },
+  {
+    "id": "cived_006",
+    "category": "civic-education",
+    "question": "What is the minimum voting age in Nigeria?",
+    "options": ["15 years", "18 years", "21 years", "25 years"],
+    "correctIndex": 1,
+    "explanation": "According to the Nigerian constitution and electoral laws, a citizen must be at least 18 years old to register and vote in general elections.",
+    "extraKokoFact": "Voters must be registered by INEC (Independent National Electoral Commission) and hold a Permanent Voter's Card (PVC) to cast their ballot."
+  },
+  {
+    "id": "cived_007",
+    "category": "civic-education",
+    "question": "Which of the following is a duty of a good citizen?",
+    "options": [
+      "Paying taxes promptly",
+      "Evading community service",
+      "Criticizing neighbors without proof",
+      "Ignoring traffic regulations"
+    ],
+    "correctIndex": 0,
+    "explanation": "Paying taxes promptly is a civic duty that helps the government fund social amenities like roads, schools, hospitals, and security.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_008",
+    "category": "civic-education",
+    "question": "What does the rule of law mean?",
+    "options": [
+      "The law is supreme and applies to everyone equally",
+      "Only the police must obey the law",
+      "Rich people can write their own laws",
+      "Judges can ignore rules when they want"
+    ],
+    "correctIndex": 0,
+    "explanation": "The rule of law means that the law is supreme. No individual, no matter how rich or powerful, is above the law, and everyone is equal before it.",
+    "extraKokoFact": "The concept of the rule of law was popularized by a legal scholar named Professor A.V. Dicey."
+  },
+  {
+    "id": "cived_009",
+    "category": "civic-education",
+    "question": "Which arm of government is responsible for making laws in Nigeria?",
+    "options": ["The Legislature", "The Executive", "The Judiciary", "The Civil Service"],
+    "correctIndex": 0,
+    "explanation": "The Legislature (the National Assembly, which consists of the Senate and House of Representatives) has the primary power to make laws.",
+    "extraKokoFact": "At the state level in Nigeria, laws are made by the State House of Assembly."
+  },
+  {
+    "id": "cived_010",
+    "category": "civic-education",
+    "question": "What is the meaning of democracy?",
+    "options": [
+      "Government of the people, by the people, and for the people",
+      "Government ruled by a single military commander",
+      "Government controlled entirely by rich traditional rulers",
+      "Government where laws are ignored by citizens"
+    ],
+    "correctIndex": 0,
+    "explanation": "Democracy is a system of government where the supreme power belongs to the people, usually exercised through elected representatives.",
+    "extraKokoFact": "This famous definition of democracy was given by Abraham Lincoln, the 16th president of the United States."
+  },
+  {
+    "id": "cived_011",
+    "category": "civic-education",
+    "question": "The working together of people for the purpose of achieving their collective goals is known as:",
+    "options": ["Values", "Honesty", "Cooperation", "Self-reliance"],
+    "correctIndex": 2,
+    "explanation": "Cooperation involves individuals combining efforts, skills, and resources to accomplish a shared goal or common purpose.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_012",
+    "category": "civic-education",
+    "question": "Someone who is honest is known with all the following qualities EXCEPT one:",
+    "options": ["Sincere", "Faithful", "Trustworthy", "Unreliable"],
+    "correctIndex": 3,
+    "explanation": "An honest person is dependable, true, and sincere. Being unreliable means they cannot be trusted, which is the opposite of honesty.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_013",
+    "category": "civic-education",
+    "question": "Which of the following is a core national value in Nigeria?",
+    "options": ["Selfishness", "Integrity", "Nepotism", "Indolence"],
+    "correctIndex": 1,
+    "explanation": "Integrity refers to being honest, transparent, and possessing strong moral uprightness. It is heavily emphasized in Civic Education.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_014",
+    "category": "civic-education",
+    "question": "The three arms of government are designed to ensure:",
+    "options": [
+      "Absolute control by the president",
+      "Separation of powers and checks and balances",
+      "That laws are never modified",
+      "That elections are held every single year"
+    ],
+    "correctIndex": 1,
+    "explanation": "Separation of powers ensures that no single arm of government becomes too powerful, as each arm checks the activities of the others.",
+    "extraKokoFact": "The three arms of government in Nigeria are the Executive, the Legislature, and the Judiciary."
+  },
+  {
+    "id": "cived_015",
+    "category": "civic-education",
+    "question": "The head of the executive arm of government at the state level in Nigeria is the:",
+    "options": ["President", "Governor", "Chairman", "Chief Judge"],
+    "correctIndex": 1,
+    "explanation": "The Governor is the chief executive of a state, responsible for implementing laws made by the State House of Assembly.",
+    "extraKokoFact": "The Deputy Governor assists the Governor and steps in if the Governor is unavailable."
+  },
+  {
+    "id": "cived_016",
+    "category": "civic-education",
+    "question": "National symbols are important because they:",
+    "options": [
+      "Divide the nation into sections",
+      "Represent the unity and identity of the nation",
+      "Are used to decorate markets only",
+      "Make some citizens richer than others"
+    ],
+    "correctIndex": 1,
+    "explanation": "National symbols bring citizens together under a shared identity, reminding them of their history, values, and unity.",
+    "extraKokoFact": "Examples of national symbols include the Pledge, National Anthem, Flag, and Coat of Arms."
+  },
+  {
+    "id": "cived_017",
+    "category": "civic-education",
+    "question": "The primary duty of the Judiciary is to:",
+    "options": ["Make new laws", "Enforce road traffic rules", "Interpret laws and punish offenders", "Collect national taxes"],
+    "correctIndex": 2,
+    "explanation": "The Judiciary consists of courts and judges who interpret laws, settle disputes, and administer justice based on the constitution.",
+    "extraKokoFact": "The highest court in Nigeria is the Supreme Court, located in Abuja."
+  },
+  {
+    "id": "cived_018",
+    "category": "civic-education",
+    "question": "An example of a negative civic behavior is:",
+    "options": ["Vandalizing public property", "Obeying traffic signs", "Joining a community sanitation team", "Reporting crimes to law enforcement"],
+    "correctIndex": 0,
+    "explanation": "Vandalism is the deliberate destruction of public infrastructure, which harms society and wastes government funds.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_019",
+    "category": "civic-education",
+    "question": "What does the abbreviation NAFDAC stand for?",
+    "options": [
+      "National Agency for Food and Drug Administration and Control",
+      "Nigerian Association of Farmers and Development Councils",
+      "National Automated Freight Distribution and Cargo",
+      "Nigerian Agency for Financial Development and Commerce"
+    ],
+    "correctIndex": 0,
+    "explanation": "NAFDAC is a federal agency under the Federal Ministry of Health responsible for regulating and controlling the manufacture, importation, exportation, distribution, advertisement, sale, and use of food, drugs, and cosmetics.",
+    "extraKokoFact": "The late Professor Dora Akunyili achieved great fame for her courageous fight against fake drugs while leading NAFDAC."
+  },
+  {
+    "id": "cived_020",
+    "category": "civic-education",
+    "question": "The official language used for government administration and formal communication in Nigeria is:",
+    "options": ["Hausa", "Yoruba", "English", "Igbo"],
+    "correctIndex": 2,
+    "explanation": "English became Nigeria's official language during the colonial era and remains the main language for administration, lawmaking, and instruction in schools.",
+    "extraKokoFact": "Nigeria has over 500 native languages, with Hausa, Yoruba, and Igbo being the three major indigenous languages spoken."
+  },
+  {
+    "id": "cived_021",
+    "category": "civic-education",
+    "question": "Which of the following institutions is responsible for registering voters and conducting national elections in Nigeria?",
+    "options": ["EFCC", "INEC", "FRSC", "NEMA"],
+    "correctIndex": 1,
+    "explanation": "INEC (Independent National Electoral Commission) is the body authorized by the constitution to manage and organize national and state elections.",
+    "extraKokoFact": "INEC was established in 1998 ahead of the transition to democratic rule in 1999."
+  },
+  {
+    "id": "cived_022",
+    "category": "civic-education",
+    "question": "The ultimate or supreme law of Nigeria that outlines the structure of government and rights of citizens is the:",
+    "options": ["Criminal Code Booklet", "Constitution", "Police Manual", "Local Government By-laws"],
+    "correctIndex": 1,
+    "explanation": "The Constitution is the supreme law of the land. Any other law that contradicts it is invalid to the extent of its inconsistency.",
+    "extraKokoFact": "Nigeria currently operates under the 1999 Constitution, which has been amended several times."
+  },
+  {
+    "id": "cived_023",
+    "category": "civic-education",
+    "question": "Which agency is primarily tasked with maintaining order and safety on Nigerian federal and state highways?",
+    "options": ["NDLEA", "FRSC", "NTA", "NEMA"],
+    "correctIndex": 1,
+    "explanation": "The Federal Road Safety Corps (FRSC) minimizes road traffic crashes, clears obstructions, and educates drivers on safety practices.",
+    "extraKokoFact": "FRSC officers are famous for wearing distinct brown uniforms with black boots and red lanyards."
+  },
+  {
+    "id": "cived_024",
+    "category": "civic-education",
+    "question": "The ability of an individual to do things for themselves without depending entirely on others for survival is called:",
+    "options": ["Self-reliance", "Selfishness", "Nepotism", "Dictatorship"],
+    "correctIndex": 0,
+    "explanation": "Self-reliance means utilizing one's talents, skills, and hard work to build economic independence and meet basic needs.",
+    "extraKokoFact": "Governments encourage vocational skills in schools to foster self-reliance among Nigerian youths."
+  },
+  {
+    "id": "cived_025",
+    "category": "civic-education",
+    "question": "What do the two white wavy lines on the Nigerian Coat of Arms represent?",
+    "options": [
+      "The Atlantic Ocean and the Sahara Desert",
+      "River Niger and River Benue",
+      "Peace and Agriculture",
+      "The North and South Protectorates"
+    ],
+    "correctIndex": 1,
+    "explanation": "The wavy lines represent River Niger and River Benue, the two major rivers that flow through and meet at Lokoja in Nigeria.",
+    "extraKokoFact": "The point where the two rivers meet is called a confluence, making Lokoja known as the Confluence State."
+  },
+  {
+    "id": "cived_026",
+    "category": "civic-education",
+    "question": "Cultism is a dangerous societal vice. A major way students can avoid it is by:",
+    "options": [
+      "Joining secret nocturnal meetings",
+      "Choosing disciplined, goal-oriented friends",
+      "Threatening school authorities",
+      "Refusing to do homework assignments"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cultism thrives on peer pressure. Selecting upright friends helps young students resist temptation and avoid illegal groups.",
+    "extraKokoFact": "Cultism is strictly punishable by expulsion from schools and long prison sentences under Nigerian criminal laws."
+  },
+  {
+    "id": "cived_027",
+    "category": "civic-education",
+    "question": "The tier of government closest to the grassroots or rural communities in Nigeria is the:",
+    "options": ["Federal Government", "State Government", "Local Government", "Judicial Council"],
+    "correctIndex": 2,
+    "explanation": "The Local Government is the third tier of government, designed to bring government services and administration directly to the local community.",
+    "extraKokoFact": "There are exactly 774 Local Government Areas (LGAs) recognized by the constitution in Nigeria."
+  },
+  {
+    "id": "cived_028",
+    "category": "civic-education",
+    "question": "Which of the following is a physical manifestation of orderliness in public places?",
+    "options": [
+      "Queueing up patiently to board a bus",
+      "Shouting loudly to grab attention",
+      "Pushing ahead of others in a bank",
+      "Littering the streets with waste"
+    ],
+    "correctIndex": 0,
+    "explanation": "Queueing ensures that people are served fairly and sequentially, avoiding chaos, stampedes, and conflicts in busy public areas.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_029",
+    "category": "civic-education",
+    "question": "The Eagle sitting on top of the Nigerian Coat of Arms stands for:",
+    "options": ["Peace", "Strength and pride", "Fertile soil", "Agricultural wealth"],
+    "correctIndex": 1,
+    "explanation": "The eagle is a powerful bird known for its vision and power, representing the strength, resilience, and pride of Nigeria.",
+    "extraKokoFact": "The black shield beneath the eagle represents Nigeria's fertile agricultural land."
+  },
+  {
+    "id": "cived_030",
+    "category": "civic-education",
+    "question": "When a citizen demonstrates deep love, pride, and loyalty toward their fatherland, they are showing:",
+    "options": ["Patriotism", "Tribalism", "Egotism", "Sycophancy"],
+    "correctIndex": 0,
+    "explanation": "Patriotism means standing up for your nation, respecting its laws, honoring its symbols, and working toward its progress.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_031",
+    "category": "civic-education",
+    "question": "Human rights are called 'universal' because they:",
+    "options": [
+      "Apply only to citizens of wealthy countries",
+      "Belong to every human being regardless of nationality, race, or gender",
+      "Are decided by individual heads of households",
+      "Expire once a person changes their job"
+    ],
+    "correctIndex": 1,
+    "explanation": "Universal means they apply everywhere to everyone simply because they are human beings, and cannot be stripped away arbitrarily.",
+    "extraKokoFact": "The Universal Declaration of Human Rights (UDHR) was adopted by the United Nations in 1948."
+  },
+  {
+    "id": "cived_032",
+    "category": "civic-education",
+    "question": "Which agency is responsible for combating corruption and economic crimes among public officials in Nigeria?",
+    "options": ["EFCC", "FRSC", "NEMA", "SON"],
+    "correctIndex": 0,
+    "explanation": "The Economic and Financial Crimes Commission (EFCC) investigates and prosecutes financial crimes, fraud, money laundering, and embezzlement.",
+    "extraKokoFact": "The EFCC was established in 2003 partly in response to pressure from the international financial action task force."
+  },
+  {
+    "id": "cived_033",
+    "category": "civic-education",
+    "question": "Which of these is a major consequence of drug abuse on society?",
+    "options": [
+      "Increase in crime and insecurity",
+      "Improved academic performance among youths",
+      "Enhanced economic growth and productivity",
+      "Reduction in hospital expenses"
+    ],
+    "correctIndex": 0,
+    "explanation": "Drug abuse impairs judgment, fueling criminal behaviors, armed robbery, cult activities, and high medical burdens on families.",
+    "extraKokoFact": "The National Drug Law Enforcement Agency (NDLEA) is the federal body fighting drug trafficking in Nigeria."
+  },
+  {
+    "id": "cived_034",
+    "category": "civic-education",
+    "question": "The red light on a standard traffic signal means:",
+    "options": ["Move slowly", "Stop completely", "Get ready to go", "Turn left immediately"],
+    "correctIndex": 1,
+    "explanation": "Red signifies danger or mandatory stop. Disobeying a red light causes traffic jams and fatal accidents.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_035",
+    "category": "civic-education",
+    "question": "Traffic laws are put in place by the government to:",
+    "options": [
+      "Ensure accidents happen frequently",
+      "Protect lives and maintain smooth movement on roads",
+      "Help drivers waste fuel needlessly",
+      "Make pedestrians walk faster"
+    ],
+    "correctIndex": 1,
+    "explanation": "Traffic laws organize road users, preventing crashes and protecting both drivers and pedestrians.",
+    "extraKokoFact": "Pedestrians are legally advised to cross roads using designated pedestrian bridges or zebra crossings."
+  },
+  {
+    "id": "cived_036",
+    "category": "civic-education",
+    "question": "An example of a civic right that an alien (foreigner) living in Nigeria cannot enjoy is:",
+    "options": [
+      "The right to life",
+      "The right to vote and be voted for in general elections",
+      "The right to personal liberty",
+      "The right to freedom of thought"
+    ],
+    "correctIndex": 1,
+    "explanation": "Political rights like voting or running for office are strictly reserved for legal citizens of Nigeria.",
+    "extraKokoFact": "Foreigners can acquire Nigerian citizenship through naturalization if they fulfill constitutional requirements."
+  },
+  {
+    "id": "cived_037",
+    "category": "civic-education",
+    "question": "The current political system in Nigeria where leadership is changed through periodic voting is called:",
+    "options": ["Monarchy", "Oligarchy", "Representative Democracy", "Military Junta"],
+    "correctIndex": 2,
+    "explanation": "Nigeria uses representative democracy, meaning citizens elect leaders periodically to represent their interests in governace.",
+    "extraKokoFact": "Nigeria returned to democratic rule on May 29, 1999, after years of military dictatorships."
+  },
+  {
+    "id": "cived_038",
+    "category": "civic-education",
+    "question": "When people show respect for other people's opinions, religions, and ethnic cultures, they are practicing:",
+    "options": ["Tolerance", "Stubbornness", "Nepotism", "Bigotry"],
+    "correctIndex": 0,
+    "explanation": "Tolerance allows people from diverse backgrounds to coexist peacefully without violence or discrimination.",
+    "extraKokoFact": "Nigeria is a multi-ethnic country with over 250 distinct ethnic nationalities requiring tolerance."
+  },
+  {
+    "id": "cived_039",
+    "category": "civic-education",
+    "question": "Which of these traits is essential for ensuring accountability in community leadership?",
+    "options": ["Transparency", "Secretiveness", "Favoritism", "Arrogance"],
+    "correctIndex": 0,
+    "explanation": "Transparency ensures leaders show clear records of funds and decisions, building trust within the community.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_040",
+    "category": "civic-education",
+    "question": "The flowers on the base of the Nigerian Coat of Arms are:",
+    "options": ["Roses", "Hibiscus", "Costus Spectabilis", "Sunflowers"],
+    "correctIndex": 2,
+    "explanation": "Costus Spectabilis is a yellow wildflower that grows abundantly across Nigeria, chosen to decorate the base of the national coat of arms.",
+    "extraKokoFact": "Though the flower is yellow, it is often wrongfully represented in some low-quality prints as red."
+  },
+  {
+    "id": "cived_041",
+    "category": "civic-education",
+    "question": "What civic lesson does a school timetable teach students?",
+    "options": ["Discrimination", "Orderliness and time management", "Disobedience", "Laziness"],
+    "correctIndex": 1,
+    "explanation": "A school timetable allocates specific periods to specific subjects, training students to follow structured routines and respect time.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_042",
+    "category": "civic-education",
+    "question": "Which government body is responsible for certifying that manufactured goods meet safety standards in Nigeria?",
+    "options": ["SON", "NEMA", "EFCC", "INEC"],
+    "correctIndex": 0,
+    "explanation": "The Standards Organisation of Nigeria (SON) regulates the quality and safety of all manufactured goods and materials in Nigeria.",
+    "extraKokoFact": "Products tested and approved by SON carry the NIS (Nigerian Industrial Standards) mark of quality."
+  },
+  {
+    "id": "cived_043",
+    "category": "civic-education",
+    "question": "A situation where a citizen refuses to take bribes or cheat, choosing to do what is morally correct, demonstrates:",
+    "options": ["Integrity", "Foolishness", "Cowardice", "Greed"],
+    "correctIndex": 0,
+    "explanation": "Integrity is sticking to moral principles even when no one is watching or when temptation is high.",
+    "extraKokoFact": "National honors are sometimes bestowed on citizens who show exemplary integrity in public service."
+  },
+  {
+    "id": "cived_044",
+    "category": "civic-education",
+    "question": "The green color on the Nigerian flag specifically stands for:",
+    "options": ["Peace", "Agriculture and natural wealth", "Mineral oil resources", "The Atlantic Ocean"],
+    "correctIndex": 1,
+    "explanation": "Green represents the vast agricultural heritage, dense forests, and rich natural vegetation that Nigeria possesses.",
+    "extraKokoFact": "Nigeria has rich ecological zones ranging from mangrove swamps in the south to savannahs in the north."
+  },
+  {
+    "id": "cived_045",
+    "category": "civic-education",
+    "question": "The white color on the Nigerian flag stands for:",
+    "options": ["Peace and unity", "Snow", "Silver minerals", "The Sahara desert"],
+    "correctIndex": 0,
+    "explanation": "White represents the nation's desire for continuous peace, harmony, and co-existence among its diverse ethnic groups.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_046",
+    "category": "civic-education",
+    "question": "A major danger of electoral malpractice, such as rigging or vote-buying, is that it:",
+    "options": [
+      "Leads to the election of bad, unaccountable leaders",
+      "Saves the government electoral expenses",
+      "Increases the international value of the Naira",
+      "Helps schools function better"
+    ],
+    "correctIndex": 0,
+    "explanation": "When elections are rigged, the true choices of citizens are subverted, putting corrupt leaders in power who ignore public needs.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_047",
+    "category": "civic-education",
+    "question": "The two white horses on the Nigerian Coat of Arms represent:",
+    "options": ["Dignity and strength", "Speed and sportsmanship", "Agriculture", "The two main political parties"],
+    "correctIndex": 0,
+    "explanation": "The two white horses flanking the black shield symbolize the absolute dignity, pride, and structural strength of Nigeria.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_048",
+    "category": "civic-education",
+    "question": "Which of these options describes the correct attitude during the singing of the National Anthem?",
+    "options": [
+      "Standing at attention with arms at the side",
+      "Sitting down and chatting with classmates",
+      "Walking slowly toward the exit gate",
+      "Kneeling with eyes closed tightly"
+    ],
+    "correctIndex": 0,
+    "explanation": "Standing at attention is a universal sign of absolute respect for the country and its sovereign national symbol.",
+    "extraKokoFact": "Nigeria reverted back to its original National Anthem 'Nigeria, We Hail Thee' in 2024."
+  },
+  {
+    "id": "cived_049",
+    "category": "civic-education",
+    "question": "The most effective way to solve community water or security challenges is through:",
+    "options": [
+      "Collective community effort and collaboration",
+      "Leaving everything for the local government chairman alone",
+      "Moving to another state immediately",
+      "Fighting with neighbors over resources"
+    ],
+    "correctIndex": 0,
+    "explanation": "Community development associations combine small contributions and local efforts to fix immediate problems quickly.",
+    "extraKokoFact": "Many neighborhoods in Lagos form Community Development Associations (CDAs) to secure their streets."
+  },
+  {
+    "id": "cived_050",
+    "category": "civic-education",
+    "question": "Which of these is considered a civic obligation rather than a basic human right?",
+    "options": [
+      "Obeying constituted authority and traffic laws",
+      "Freedom of movement",
+      "Freedom of religion",
+      "Right to fair hearing"
+    ],
+    "correctIndex": 0,
+    "explanation": "An obligation is a duty you owe to the state, whereas rights are protections and freedoms the state owes to you.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_051",
+    "category": "civic-education",
+    "question": "Which of the following describes the composition of the National Assembly of Nigeria?",
+    "options": [
+      "The Senate and the House of Representatives",
+      "The Supreme Court and High Courts",
+      "The President and his Ministers",
+      "The Governors and Local Government Chairmen"
+    ],
+    "correctIndex": 0,
+    "explanation": "The National Assembly is Nigeria's federal bicameral legislature, made up of the Senate (upper chamber) and the House of Representatives (lower chamber).",
+    "extraKokoFact": "There are exactly 109 Senators and 360 members of the House of Representatives in Nigeria."
+  },
+  {
+    "id": "cived_052",
+    "category": "civic-education",
+    "question": "Who represents the head of state and head of government at the federal level in Nigeria?",
+    "options": [
+      "The President",
+      "The Senate President",
+      "The Chief Justice of Nigeria",
+      "The Speaker of the House"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nigeria operates a presidential system where the elected President holds the executive powers as both the Head of State and the Head of Government.",
+    "extraKokoFact": "The first executive president of Nigeria was Alhaji Shehu Shagari, elected in 1979."
+  },
+  {
+    "id": "cived_053",
+    "category": "civic-education",
+    "question": "The yellow light on a standard three-color traffic light means:",
+    "options": [
+      "Ready to stop or slow down",
+      "Speed up to pass quickly",
+      "Park your vehicle on the road",
+      "Turn off your car engine"
+    ],
+    "correctIndex": 0,
+    "explanation": "The yellow (amber) light serves as a warning that the signal is about to change to red, prompting drivers to slow down safely and prepare to stop.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_054",
+    "category": "civic-education",
+    "question": "A set of moral principles and values that govern the behavior of a person or group is called:",
+    "options": ["Ethics", "Biographies", "Politics", "Sovereignty"],
+    "correctIndex": 0,
+    "explanation": "Ethics defines what is good, bad, right, or wrong behavior in human interactions and public services.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_055",
+    "category": "civic-education",
+    "question": "The primary goal of Civic Education is to produce:",
+    "options": [
+      "Responsible, informed, and active citizens",
+      "Wealthy merchants who ignore regulations",
+      "Military officers for external defense",
+      "Experts in engineering and computing only"
+    ],
+    "correctIndex": 0,
+    "explanation": "Civic Education teaches individuals their rights, duties, and values needed to contribute positively to national development.",
+    "extraKokoFact": "Civic Education was made compulsory in Nigerian basic education curricula to foster national unity and patriotism."
+  },
+  {
+    "id": "cived_056",
+    "category": "civic-education",
+    "question": "When a citizen respects the national flag, they will never:",
+    "options": [
+      "Allow it to tear or touch the ground carelessly",
+      "Fly it on public buildings",
+      "Look at it during the morning assembly",
+      "Keep it clean and bright"
+    ],
+    "correctIndex": 0,
+    "explanation": "Allowing a national symbol like the flag to get torn, dirty, or drag on the floor is considered an act of desecration and disrespect.",
+    "extraKokoFact": "When a national flag is flown at half-mast (halfway up the pole), it signifies a period of national mourning."
+  },
+  {
+    "id": "cived_057",
+    "category": "civic-education",
+    "question": "The systematic mistreatment, intimidation, or dominance over a weaker classmate in school is called:",
+    "options": ["Bullying", "Cooperation", "Socialization", "Evaluation"],
+    "correctIndex": 0,
+    "explanation": "Bullying is a negative social behavior that harms the mental and physical health of victims and creates an unsafe school environment.",
+    "extraKokoFact": "Most schools in Nigeria have strict rules that can lead to suspension or expulsion for students caught bullying."
+  },
+  {
+    "id": "cived_058",
+    "category": "civic-education",
+    "question": "Which of the following is an example of a written constitution?",
+    "options": [
+      "A formal document containing all the basic laws of a nation in one booklet",
+      "Laws that are passed down only through storytelling",
+      "A collection of unrecorded decisions by historical kings",
+      "Daily announcements made by a local government council"
+    ],
+    "correctIndex": 0,
+    "explanation": "A written constitution has its provisions codified neatly in a single formal legal document, like the Nigerian 1999 Constitution.",
+    "extraKokoFact": "The United Kingdom is a famous example of a country with an unwritten constitution, meaning its laws are spread across many historical documents and customs."
+  },
+  {
+    "id": "cived_059",
+    "category": "civic-education",
+    "question": "What is the meaning of the acronym NDLEA?",
+    "options": [
+      "National Drug Law Enforcement Agency",
+      "Nigerian Defense and Land Environmental Authority",
+      "National Directorate for Legal and Executive Affairs",
+      "Nigerian Democratic League for Economic Assistance"
+    ],
+    "correctIndex": 0,
+    "explanation": "The NDLEA is the federal agency tasked with eliminating the cultivation, manufacturing, sale, and trafficking of illegal hard drugs.",
+    "extraKokoFact": "NDLEA checkpoints are frequently seen at international airports and border entries to prevent drug trafficking."
+  },
+  {
+    "id": "cived_060",
+    "category": "civic-education",
+    "question": "Why is hard work and honesty rewarded with prizes during school graduation ceremonies?",
+    "options": [
+      "To encourage other students to follow good values",
+      "To make lazy students feel angry",
+      "Because the school has too much money to spend",
+      "To show who has the richest parents"
+    ],
+    "correctIndex": 0,
+    "explanation": "Rewarding positive civic values provides role models and encourages a culture of excellence, honesty, and healthy competition.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_061",
+    "category": "civic-education",
+    "question": "The process where citizens select their political leaders by casting votes is called:",
+    "options": ["Election", "Census", "Referendum", "Inauguration"],
+    "correctIndex": 0,
+    "explanation": "Elections are democratic mechanisms through which citizens choose individuals to hold public offices.",
+    "extraKokoFact": "Nigeria holds its general elections every 4 years."
+  },
+  {
+    "id": "cived_062",
+    "category": "civic-education",
+    "question": "An individual who does not belong to the military or paramilitary forces is called a:",
+    "options": ["Civilian", "Soldier", "Marshal", "Politician"],
+    "correctIndex": 0,
+    "explanation": "A civilian is a member of the general public who is not part of the armed forces or law enforcement operations.",
+    "extraKokoFact": "In a democracy, the military is subordinate to elected civilian authorities."
+  },
+  {
+    "id": "cived_063",
+    "category": "civic-education",
+    "question": "Which of these traits prevents community conflicts?",
+    "options": ["Mutual respect", "Religious bias", "Selfishness", "Gossiping"],
+    "correctIndex": 0,
+    "explanation": "Mutual respect enables people of different cultures and viewpoints to interact civilly, preventing escalations into violence.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_064",
+    "category": "civic-education",
+    "question": "The badge or design worn by security officials to show their authority is called an emblem. Which of these is a national emblem?",
+    "options": ["The Coat of Arms", "A school badge", "A football club jersey", "A company logo"],
+    "correctIndex": 0,
+    "explanation": "The Coat of Arms is the official emblem of state sovereignty, appearing on official government letters, stamps, and passports.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_065",
+    "category": "civic-education",
+    "question": "What is a major consequence of examination malpractice on a student's future?",
+    "options": [
+      "Expulsion from school and loss of real knowledge",
+      "Automatic employment in big banks",
+      "Becoming the smartest person in the community",
+      "Receiving scholarship awards abroad"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cheating in exams destroys a student's self-confidence, leaves them uneducated, and brings heavy punishments like disqualification or expulsion.",
+    "extraKokoFact": "WAEC and NECO have strict penalties for any school or student caught in examination malpractice."
+  },
+  {
+    "id": "cived_066",
+    "category": "civic-education",
+    "question": "The group of people appointed to assist the President or a Governor in executing government policies are called:",
+    "options": ["Ministers or Commissioners", "Judges", "Senators", "Councilors"],
+    "correctIndex": 0,
+    "explanation": "Ministers assist the President at the federal level, while Commissioners assist Governors at the state level in managing specific ministries like Education or Health.",
+    "extraKokoFact": "The head of the Federal Ministry of Education in Nigeria is called the Minister of Education."
+  },
+  {
+    "id": "cived_067",
+    "category": "civic-education",
+    "question": "When a driver obeys the speed limit and stops for pedestrians at a zebra crossing, they show:",
+    "options": ["Civic responsibility", "Fear of cars", "Laziness", "Waste of time"],
+    "correctIndex": 0,
+    "explanation": "Obeying safety rules shows care for human lives and respect for the regulations that keep society orderly.",
+    "extraKokoFact": "Zebra crossings are painted white and black stripes on the road where pedestrians have the right of way to cross safely."
+  },
+  {
+    "id": "cived_068",
+    "category": "civic-education",
+    "question": "What does NEMA stand for in Nigerian civic administration?",
+    "options": [
+      "National Emergency Management Agency",
+      "Nigerian Environmental Maintenance Association",
+      "National Economic and Monetary Agency",
+      "Nigerian Electoral Management Authority"
+    ],
+    "correctIndex": 0,
+    "explanation": "NEMA manages disasters, coordinates relief materials, and assists victims of floods, fires, or structural collapses.",
+    "extraKokoFact": "NEMA works closely with State Emergency Management Agencies (SEMAs) across Nigeria."
+  },
+  {
+    "id": "cived_069",
+    "category": "civic-education",
+    "question": "A community where everyone obeys laws and cooperates with security officials will enjoy:",
+    "options": ["Peace and progress", "Chaos and robbery", "Stagnation and poverty", "Dictatorship"],
+    "correctIndex": 0,
+    "explanation": "Lawfulness creates a safe environment that attracts businesses, protects lives, and allows citizens to live happily.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_070",
+    "category": "civic-education",
+    "question": "The public announcement made by the government to count all people living in the country at a particular time is called a:",
+    "options": ["Census", "Manifesto", "Electoral register", "Referendum"],
+    "correctIndex": 0,
+    "explanation": "A population census counts citizens to help the government plan schools, roads, healthcare, and economic resources.",
+    "extraKokoFact": "The National Population Commission (NPC) is the agency responsible for conducting censuses in Nigeria."
+  },
+  {
+    "id": "cived_071",
+    "category": "civic-education",
+    "question": "Which of these behaviors shows disregard for the environment?",
+    "options": [
+      "Dumping refuse into drainage gutters during rain",
+      "Planting trees in the school field",
+      "Sweeping the classroom daily",
+      "Participating in environmental sanitation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dumping waste into gutters blocks the flow of water, leading to severe flooding and damage to roads and buildings.",
+    "extraKokoFact": "Lagos State has strict environmental laws against illegal dumping of wastes in drainages."
+  },
+  {
+    "id": "cived_072",
+    "category": "civic-education",
+    "question": "The right to express your thoughts and opinions without fear of arbitrary arrest is called freedom of:",
+    "options": ["Expression", "Association", "Movement", "Religion"],
+    "correctIndex": 0,
+    "explanation": "Freedom of expression allows citizens to speak, write, and share information, which is a key pillar of democracy.",
+    "extraKokoFact": "This right does not permit spreading lies (slander/libel) or inciting violent riots."
+  },
+  {
+    "id": "cived_073",
+    "category": "civic-education",
+    "question": "The head of a Local Government Area in Nigeria is officially called the:",
+    "options": ["Chairman", "Governor", "Mayor", "Traditional Ruler"],
+    "correctIndex": 0,
+    "explanation": "The Local Government Chairman leads the executive council of the local government, overseeing community projects and markets.",
+    "extraKokoFact": "The lawmakers at the local government level are called Councilors, representing different wards."
+  },
+  {
+    "id": "cived_074",
+    "category": "civic-education",
+    "question": "If you witness a traffic accident or a fire outbreak, the first right civic action is to:",
+    "options": [
+      "Call emergency numbers or report to nearby safety officials",
+      "Take photos and make jokes on social media",
+      "Run away and blame the government",
+      "Crowd the scene and block ambulances"
+    ],
+    "correctIndex": 0,
+    "explanation": "Prompt reporting helps emergency agencies like the police, FRSC, or fire service arrive quickly to save lives.",
+    "extraKokoFact": "Nigeria has unified emergency response numbers like 112 to connect citizens with relief agencies."
+  },
+  {
+    "id": "cived_075",
+    "category": "civic-education",
+    "question": "A major benefit of maintaining clean personal hygiene is:",
+    "options": [
+      "Prevention of infectious diseases",
+      "Becoming automatically wealthy",
+      "Getting high marks without studying",
+      "Gaining power to control classmates"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hygiene practices like bathing and washing hands eliminate germs and prevent diseases like cholera, typhoid, and flu.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_076",
+    "category": "civic-education",
+    "question": "The system where powers are shared between a central national government and component states is called:",
+    "options": ["Federalism", "Unitary system", "Monarchy", "Anarchy"],
+    "correctIndex": 0,
+    "explanation": "Federalism splits governance duties, allowing the central government to handle national affairs (defense, currency) while states handle local matters.",
+    "extraKokoFact": "Nigeria is a Federal Republic made up of 36 States and the Federal Capital Territory, Abuja."
+  },
+  {
+    "id": "cived_077",
+    "category": "civic-education",
+    "question": "Which of these is a civic responsibility of a student in school?",
+    "options": [
+      "Obeying school rules and respecting teachers",
+      "Writing on walls and breaking desks",
+      "Arriving late for lessons daily",
+      "Refusing to participate in assembly"
+    ],
+    "correctIndex": 0,
+    "explanation": "Students have a duty to respect the school authorities, look after school property, and study hard to be useful citizens.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_078",
+    "category": "civic-education",
+    "question": "The quality of being content with what you have without being greedy or stealing is called:",
+    "options": ["Contentment", "Avarice", "Poverty", "Laziness"],
+    "correctIndex": 0,
+    "explanation": "Contentment brings peace of mind and prevents individuals from engaging in corruption, theft, or fraudulent schemes.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_079",
+    "category": "civic-education",
+    "question": "The motto 'Unity and Faith, Peace and Progress' can be found written boldly on which national symbol?",
+    "options": ["The Coat of Arms", "The National Flag", "The National Passport", "The Driving License"],
+    "correctIndex": 0,
+    "explanation": "The national motto is written on a scroll at the very base of the Nigerian Coat of Arms.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_080",
+    "category": "civic-education",
+    "question": "Which of these options represents a peaceful way of settling an argument with a classmate?",
+    "options": [
+      "Reporting the issue to a teacher or prefect for mediation",
+      "Fighting during closing time outside the school gate",
+      "Damaging the other person's school bag secretly",
+      "Gathering a group of friends to bully the student"
+    ],
+    "correctIndex": 0,
+    "explanation": "Reporting to authority ensures fair dialogue and peaceful conflict resolution, keeping the environment safe.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_081",
+    "category": "civic-education",
+    "question": "What is the primary significance of the black shield on the Nigerian Coat of Arms?",
+    "options": [
+      "The rich, fertile agricultural soil of Nigeria",
+      "The minerals and gold buried underground",
+      "The strength of the military forces",
+      "The darkness of historical colonial times"
+    ],
+    "correctIndex": 0,
+    "explanation": "The black shield represents the highly productive and fertile soil of Nigeria, highlighting the nation's agricultural potential.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_082",
+    "category": "civic-education",
+    "question": "A government system where political power is inherited by birth within a royal family is called a:",
+    "options": ["Monarchy", "Democracy", "Republic", "Oligarchy"],
+    "correctIndex": 0,
+    "explanation": "Monarchies are ruled by Kings, Queens, or traditional emperors whose titles pass down through bloodlines.",
+    "extraKokoFact": "While Nigeria is a democracy, it retains traditional monarchies (like Obas, Emirs, and Obis) to preserve cultural heritage."
+  },
+  {
+    "id": "cived_083",
+    "category": "civic-education",
+    "question": "Which of these bodies regulates and ensures the safety of aviation (air travel) within Nigeria?",
+    "options": ["NCAA", "FRSC", "NEMA", "NNPC"],
+    "correctIndex": 0,
+    "explanation": "The Nigerian Civil Aviation Authority (NCAA) oversees air safety, inspects airplanes, and licenses commercial pilots.",
+    "extraKokoFact": "The busiest airport in Nigeria is the Murtala Muhammed International Airport located in Ikeja, Lagos."
+  },
+  {
+    "id": "cived_084",
+    "category": "civic-education",
+    "question": "When public funds meant for building schools or roads are illegally taken by government officers for personal use, it is called:",
+    "options": ["Embezzlement", "Taxation", "Budgeting", "Privatization"],
+    "correctIndex": 0,
+    "explanation": "Embezzlement is a severe economic crime that steals opportunities and infrastructure away from everyday citizens.",
+    "extraKokoFact": "The ICPC and EFCC are two agencies focused on arresting public officers who embezzle state funds."
+  },
+  {
+    "id": "cived_085",
+    "category": "civic-education",
+    "question": "Why does the Nigerian constitution protect the right to 'freedom of movement'?",
+    "options": [
+      "To allow citizens to live, work, and travel to any part of Nigeria safely",
+      "To let people run across highways without traffic stops",
+      "To encourage people to trespass into private homes",
+      "To allow citizens to leave school without permission"
+    ],
+    "correctIndex": 0,
+    "explanation": "Freedom of movement guarantees that no citizen can be barred from entering or living in any state within the federation.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_086",
+    "category": "civic-education",
+    "question": "The formal document that details an elected leader's promises and plans for the public before an election is called a:",
+    "options": ["Manifesto", "Certificate", "Affidavit", "Constitution"],
+    "correctIndex": 0,
+    "explanation": "A manifesto is a published statement of aims and policies used by political parties to convince voters during campaigns.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_087",
+    "category": "civic-education",
+    "question": "Which of these habits helps in conserving national electricity resources?",
+    "options": [
+      "Switching off lights and fans when leaving a room",
+      "Leaving all home appliances running throughout the day",
+      "Bypassing electrical meters illegally",
+      "Using high-energy appliances unnecessarily"
+    ],
+    "correctIndex": 0,
+    "explanation": "Conserving electricity saves energy for other regions and reduces utility costs for families.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_088",
+    "category": "civic-education",
+    "question": "National integration means:",
+    "options": [
+      "Bringing people from different tribes and cultures together in unity",
+      "Dividing the country into smaller independent pieces",
+      "Allowing only one major tribe to rule the country",
+      "Replacing formal education with military training"
+    ],
+    "correctIndex": 0,
+    "explanation": "National integration builds peace by emphasizing national brotherhood over ethnic divisions.",
+    "extraKokoFact": "The National Youth Service Corps (NYSC) was set up in 1973 specifically to promote national integration."
+  },
+  {
+    "id": "cived_089",
+    "category": "civic-education",
+    "question": "The red cross or crescent symbol on an ambulance vehicle indicates it is used for:",
+    "options": [
+      "Emergency medical services and health care rescue",
+      "Transporting consumer goods to markets",
+      "Carrying building materials for construction",
+      "VIP political transport"
+    ],
+    "correctIndex": 0,
+    "explanation": "The red cross is an internationally recognized symbol for medical aid, granting the vehicle immediate priority in heavy traffic.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_090",
+    "category": "civic-education",
+    "question": "The constitutional body that confirms or approves the appointment of Ministers chosen by the President is the:",
+    "options": ["The Senate", "The Judiciary", "The Police Force", "The Local Government Council"],
+    "correctIndex": 0,
+    "explanation": "Under the principle of checks and balances, the Senate screens and confirms ministerial nominees to prevent favoritism or unqualified appointments.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_091",
+    "category": "civic-education",
+    "question": "A state of lawlessness and total absence of government control or societal order is called:",
+    "options": ["Anarchy", "Democracy", "Bureaucracy", "Autocracy"],
+    "correctIndex": 0,
+    "explanation": "Anarchy happens when laws are broken completely, courts cannot function, and there is no authority to preserve order.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_092",
+    "category": "civic-education",
+    "question": "Which of these describes a public utility provided by the government for general wellbeing?",
+    "options": [
+      "Public pipe-borne water supply",
+      "Private luxury sports cars",
+      "Designer fashion boutiques",
+      "Personal swimming pools"
+    ],
+    "correctIndex": 0,
+    "explanation": "Public utilities are basic infrastructure services essential for modern life, funded by government revenues for everyone's use.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_093",
+    "category": "civic-education",
+    "question": "What civic obligation should be fulfilled before an individual can legally drive a vehicle on public roads?",
+    "options": [
+      "Obtaining a valid Driver's License from the appropriate authority",
+      "Buying the most expensive vehicle available",
+      "Learning how to fix car engines completely",
+      "Joining a public transport union"
+    ],
+    "correctIndex": 0,
+    "explanation": "A driver's license proves that an individual has undergone formal testing, knows traffic regulations, and can drive safely.",
+    "extraKokoFact": "In Nigeria, the Federal Road Safety Corps (FRSC) and VIO manage licensing and vehicle roadworthiness tests."
+  },
+  {
+    "id": "cived_094",
+    "category": "civic-education",
+    "question": "The term 'civic engagement' refers to:",
+    "options": [
+      "Active participation by citizens in improving their community conditions",
+      "Planning expensive marriage ceremonies in the city",
+      "Refusing to watch national news broadcasts",
+      "Moving to another country for career training"
+    ],
+    "correctIndex": 0,
+    "explanation": "Civic engagement means voting, joining community cleaning days, volunteering, and speaking up during local government town halls.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_095",
+    "category": "civic-education",
+    "question": "The official currency notes and coins issued and recognized for trade within Nigeria are managed by the:",
+    "options": [
+      "Central Bank of Nigeria (CBN)",
+      "National Bureau of Statistics",
+      "Federal Ministry of Commerce",
+      "Commercial Banks Association"
+    ],
+    "correctIndex": 0,
+    "explanation": "The CBN is the sole authority responsible for printing banknotes, minting coins, and controlling the money supply to ensure economic stability.",
+    "extraKokoFact": "The Nigerian Naira was introduced in 1973, replacing the Nigerian Pound."
+  },
+  {
+    "id": "cived_096",
+    "category": "civic-education",
+    "question": "A great way to show honor to national heroes who sacrificed their lives for Nigeria's unity is by:",
+    "options": [
+      "Living peacefully and preserving the unity they fought for",
+      "Renaming all streets after your own family members",
+      "Refusing to vote during national elections",
+      "Abolishing the constitution completely"
+    ],
+    "correctIndex": 0,
+    "explanation": "Honoring historical figures means protecting the peace, liberty, and structural integration they labored to build.",
+    "extraKokoFact": "Nigeria marks Armed Forces Remembrance Day every January 15th to honor fallen soldiers."
+  },
+  {
+    "id": "cived_097",
+    "category": "civic-education",
+    "question": "Which of these features protects human rights from being easily abused by a dictatorial leader?",
+    "options": [
+      "An independent judiciary and constitutional guarantees",
+      "A weak and uneducated population",
+      "Allowing the police to operate without laws",
+      "Abolishing all written legal codes"
+    ],
+    "correctIndex": 0,
+    "explanation": "An independent judiciary can rule against government actions if they violate citizens' constitutionally protected rights.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_098",
+    "category": "civic-education",
+    "question": "The dynamic process of training youths to acquire skills, morals, and knowledge to become useful members of society is called:",
+    "options": ["Socialization", "Isolation", "Vandalism", "Stagnation"],
+    "correctIndex": 0,
+    "explanation": "Socialization happens through homes, schools, places of worship, and communities, passing positive cultural and civic values to children.",
+    "extraKokoFact": "The family is widely considered the primary and most important agent of socialization."
+  },
+  {
+    "id": "cived_099",
+    "category": "civic-education",
+    "question": "When a student reports a damaged electrical wire in the classroom to the headteacher immediately, they are helping to prevent:",
+    "options": ["Fire outbreaks and electrical shocks", "Excessive school fees", "Unnecessary examinations", "Late closing hours"],
+    "correctIndex": 0,
+    "explanation": "Reporting safety hazards early protects lives and property from preventable accidents, showcasing excellent civic awareness.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "cived_100",
+    "category": "civic-education",
+    "question": "The act of taking up arms, plotting with foreign entities, or actively working to overthrow your own country's government is called:",
+    "options": ["Treason", "Patriotism", "Diplomacy", "Arbitration"],
+    "correctIndex": 0,
+    "explanation": "Treason is a severe criminal offense against state sovereignty, involving a total betrayal of allegiance to the fatherland.",
+    "extraKokoFact": "Under Nigerian criminal law, treason is classified as a capital offense carrying the maximum penalty."
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "id": "math_001",
+    "category": "mathematics",
+    "question": "The Roman numerals CCCXCVI represent the number:",
+    "options": ["394", "396", "314", "315"],
+    "correctIndex": 1,
+    "explanation": "Break it down: CCC = 300, XC = 90 (100 minus 10), VI = 6. Add them: 300 + 90 + 6 = 396.",
+    "extraKokoFact": "Roman numerals have no symbol for zero! That is why it was so hard to do maths in ancient Rome."
+  },
+  {
+    "id": "math_002",
+    "category": "mathematics",
+    "question": "What is the place value of 4 in 7835.04?",
+    "options": ["Tenths", "Hundredths", "Hundreds", "Thousands"],
+    "correctIndex": 1,
+    "explanation": "After the decimal point: the first digit is tenths, the second is hundredths. The 4 is in the second decimal place, so it is in the hundredths position.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "math_003",
+    "category": "mathematics",
+    "question": "Write in figures: Seven hundred and ninety nine thousand, four hundred and fifty two.",
+    "options": ["799,254", "799,452", "799,542", "799,245"],
+    "correctIndex": 1,
+    "explanation": "Seven hundred and ninety nine thousand = 799,000. Four hundred = 400. Fifty two = 52. Together: 799,000 + 400 + 52 = 799,452.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "math_004",
+    "category": "mathematics",
+    "question": "A chord that passes through the centre of a circle is called a/an:",
+    "options": ["Arc", "Chord", "Diameter", "Radius"],
+    "correctIndex": 2,
+    "explanation": "A diameter is a special chord that passes exactly through the centre of the circle, dividing it into two equal halves.",
+    "extraKokoFact": "The diameter is always exactly twice the length of the radius!"
+  },
+  {
+    "id": "math_005",
+    "category": "mathematics",
+    "question": "Find the perimeter of a rectangle whose breadth is 5cm and length 6cm.",
+    "options": ["60cm", "35cm", "30cm", "22cm"],
+    "correctIndex": 3,
+    "explanation": "Perimeter of a rectangle = 2 × (length + breadth) = 2 × (6 + 5) = 2 × 11 = 22cm.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "math_006",
+    "category": "mathematics",
+    "question": "A plastic factory produces 1800 plastics in 40 hours. What is the production rate per hour?",
+    "options": ["40", "45", "80", "90"],
+    "correctIndex": 1,
+    "explanation": "Rate per hour = Total produced ÷ Number of hours = 1800 ÷ 40 = 45 plastics per hour.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "math_007",
+    "category": "mathematics",
+    "question": "Find the area of a rectangle whose length is 8cm and breadth 3cm.",
+    "options": ["5cm²", "11cm²", "22cm²", "24cm²"],
+    "correctIndex": 3,
+    "explanation": "Area of a rectangle = length × breadth = 8 × 3 = 24cm².",
+    "extraKokoFact": null
+  },
+  {
+    "id": "math_008",
+    "category": "mathematics",
+    "question": "What is 402 thousandths in decimal fraction?",
+    "options": ["0.42", "0.402", "0.0402", "0.00402"],
+    "correctIndex": 1,
+    "explanation": "Thousandths means divided by 1000. 402 ÷ 1000 = 0.402.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "math_009",
+    "category": "mathematics",
+    "question": "If 2540cm is increased by 15%, the result is:",
+    "options": ["381cm", "2159cm", "2921cm", "3810cm"],
+    "correctIndex": 2,
+    "explanation": "Find 15% of 2540: (15 ÷ 100) × 2540 = 381. Add to original: 2540 + 381 = 2921cm.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "math_010",
+    "category": "mathematics",
+    "question": "How many vertices does a cube have?",
+    "options": ["12", "8", "6", "5"],
+    "correctIndex": 1,
+    "explanation": "A cube has 8 corners (vertices) — think of the 8 corners of a box. It has 12 edges and 6 faces.",
+    "extraKokoFact": "A cube has 6 faces, 8 vertices and 12 edges. You can remember this with the formula F + V - E = 2!"
+  },
+  {
+    "id": "math_011",
+    "category": "mathematics",
+    "question": "Find the HCF of 24, 30 and 42.",
+    "options": ["2", "3", "6", "12"],
+    "correctIndex": 2,
+    "explanation": "Factors of 24: 1,2,3,4,6,8,12,24. Factors of 30: 1,2,3,5,6,10,15,30. Factors of 42: 1,2,3,6,7,14,21,42. The highest factor common to all three is 6.",
+    "extraKokoFact": "HCF stands for Highest Common Factor. Another name for it is GCD — Greatest Common Divisor."
+  },
+  {
+    "id": "math_012",
+    "category": "mathematics",
+    "question": "Calculate the circumference of a circle whose radius is 7cm. (Take π = 22/7)",
+    "options": ["22cm", "36cm", "44cm", "154cm"],
+    "correctIndex": 2,
+    "explanation": "Circumference = 2πr = 2 × (22/7) × 7 = 2 × 22 = 44cm.",
+    "extraKokoFact": "The area of the same circle would be πr² = (22/7) × 7 × 7 = 154cm². Notice that was one of the wrong options!"
+  },
+  {
+    "id": "math_013",
+    "category": "mathematics",
+    "question": "Which of the following is an acute angle?",
+    "options": ["40°", "90°", "95°", "180°"],
+    "correctIndex": 0,
+    "explanation": "An acute angle is any angle less than 90°. Only 40° is less than 90°. 90° is a right angle, 95° is obtuse, 180° is a straight angle.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "math_014",
+    "category": "mathematics",
+    "question": "In a community, 48% of the population are students. If the total population is 600 persons, how many students are in the community?",
+    "options": ["120", "288", "312", "480"],
+    "correctIndex": 1,
+    "explanation": "48% of 600 = (48 ÷ 100) × 600 = 0.48 × 600 = 288 students.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "math_015",
+    "category": "mathematics",
+    "question": "If 6 men can dig a pit in 4 days, how long will it take 4 men working at the same rate to dig the same pit?",
+    "options": ["14 days", "8 days", "6 days", "4 days"],
+    "correctIndex": 2,
+    "explanation": "Total man-days needed = 6 × 4 = 24. With 4 men: 24 ÷ 4 = 6 days. When fewer men work, it takes more time — this is inverse proportion.",
+    "extraKokoFact": "This is called 'inverse proportion'. More workers = less time. Fewer workers = more time."
+  },
+  {
+    "id": "math_016",
+    "category": "mathematics",
+    "question": "Ejiro is 8 years older than her younger sister. The sum of their ages is 64 years. What is Ejiro's age?",
+    "options": ["20", "28", "36", "56"],
+    "correctIndex": 2,
+    "explanation": "Let sister's age = x. Then Ejiro's age = x + 8. x + (x + 8) = 64 → 2x + 8 = 64 → 2x = 56 → x = 28. Ejiro = 28 + 8 = 36.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "math_017",
+    "category": "mathematics",
+    "question": "The scores of students in a test are: 34, 31, 75, 49, 36, 48 and 57. What is the range of the scores?",
+    "options": ["31", "44", "48", "75"],
+    "correctIndex": 1,
+    "explanation": "Range = Highest score − Lowest score = 75 − 31 = 44.",
+    "extraKokoFact": "Range tells us how spread out the data is. A large range means very different scores!"
+  },
+  {
+    "id": "math_018",
+    "category": "mathematics",
+    "question": "Find the median of the goals scored: 2, 3, 2, 3, 4, 1, 2.",
+    "options": ["1", "2", "3", "4"],
+    "correctIndex": 1,
+    "explanation": "First arrange in order: 1, 2, 2, 2, 3, 3, 4. There are 7 values, so the median is the 4th value = 2.",
+    "extraKokoFact": "The median is the MIDDLE value when data is arranged in order. The mode here is also 2 — it appears most often!"
+  },
+  {
+    "id": "math_019",
+    "category": "mathematics",
+    "question": "Express ₦32.00 as a ratio of ₦72.00.",
+    "options": ["34:16", "16:34", "9:4", "4:9"],
+    "correctIndex": 3,
+    "explanation": "32:72 — both divide by 8 to give 4:9.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "math_020",
+    "category": "mathematics",
+    "question": "All the following are properties of an equilateral triangle EXCEPT:",
+    "options": ["All the angles are equal", "All the sides are equal", "Each angle is 60°", "There is only one line of symmetry"],
+    "correctIndex": 3,
+    "explanation": "An equilateral triangle has THREE lines of symmetry — one from each vertex to the opposite midpoint. All other options are correct.",
+    "extraKokoFact": "An equilateral triangle is the most symmetrical triangle. A scalene triangle has NO lines of symmetry!"
+  },
+  {
+    "id": "math_021",
+    "category": "mathematics",
+    "question": "Find the perimeter of a rectangle whose breadth is 8cm and length is 12cm.",
+    "options": ["20cm", "40cm", "96cm", "24cm"],
+    "correctIndex": 1,
+    "explanation": "Perimeter = 2 × (length + breadth) = 2 × (12 + 8) = 2 × 20 = 40cm.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "math_022",
+    "category": "mathematics",
+    "question": "What is 35% of 200?",
+    "options": ["35", "60", "70", "75"],
+    "correctIndex": 2,
+    "explanation": "35% of 200 = (35 ÷ 100) × 200 = 0.35 × 200 = 70.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "math_023",
+    "category": "mathematics",
+    "question": "Find the LCM of 4, 6 and 9.",
+    "options": ["12", "18", "24", "36"],
+    "correctIndex": 3,
+    "explanation": "Multiples of 9: 9, 18, 27, 36... Multiples of 6: 6, 12, 18, 24, 30, 36... Multiples of 4: 4, 8, 12, 16, 20, 24, 28, 32, 36. The first number that appears in all three lists is 36.",
+    "extraKokoFact": "LCM stands for Lowest Common Multiple. It is very useful for adding fractions with different denominators!"
+  },
+  {
+    "id": "math_024",
+    "category": "mathematics",
+    "question": "A bag of rice costs ₦3,500. A trader buys 4 bags. How much does she spend in total?",
+    "options": ["₦12,000", "₦14,000", "₦13,500", "₦16,000"],
+    "correctIndex": 1,
+    "explanation": "Total cost = 4 × ₦3,500 = ₦14,000.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "math_025",
+    "category": "mathematics",
+    "question": "Which of the following numbers is a prime number?",
+    "options": ["9", "15", "21", "23"],
+    "correctIndex": 3,
+    "explanation": "A prime number has exactly two factors: 1 and itself. 9 = 3×3, 15 = 3×5, 21 = 3×7. Only 23 cannot be divided by anything except 1 and 23.",
+    "extraKokoFact": "1 is NOT a prime number! A prime must have exactly 2 factors, but 1 only has one factor: itself."
+  },
+  {
+    "id": "eng_001",
+    "category": "english",
+    "question": "In the passage about the two goats, where did the goats meet?",
+    "options": ["Near the River Mosale", "Under the narrow wooden bridge", "In the middle of a bridge", "At the end of the bridge"],
+    "correctIndex": 2,
+    "explanation": "The passage says: 'Two goats once met in the middle of a wooden bridge over the River Mosale.' They met in the middle of the bridge, not near the river or at the end.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "eng_002",
+    "category": "english",
+    "question": "In the goat passage, what caused the argument between them?",
+    "options": ["River Mosale was deep and narrow", "They met in the middle of the bridge", "The goats were foolish", "Each goat wanted to cross first"],
+    "correctIndex": 3,
+    "explanation": "The bridge was too narrow for both goats to pass at once, and each one refused to go back — they both wanted to cross first. That is what caused the argument.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "eng_003",
+    "category": "english",
+    "question": "Choose the word NEAREST in meaning to the underlined word: 'Joshua DOUBTED whether his sister's explanation was truthful.'",
+    "options": ["Considered", "Pondered", "Questioned", "Mistrusted"],
+    "correctIndex": 2,
+    "explanation": "'Doubted' means was not sure or questioned something. 'Questioned' is the closest in meaning here.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "eng_004",
+    "category": "english",
+    "question": "Choose the word NEAREST in meaning: 'Our team succeeded in BEATING our opponents in the football match.'",
+    "options": ["Punishing", "Defeating", "Fighting", "Overrunning"],
+    "correctIndex": 1,
+    "explanation": "'Beating' in the context of a match means winning against, which is the same as 'defeating'.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "eng_005",
+    "category": "english",
+    "question": "Choose the word OPPOSITE in meaning: 'I don't know how Bose became so PROUD; her parents have always been so _______.'",
+    "options": ["Humble", "Mild", "Lowly", "Reserved"],
+    "correctIndex": 0,
+    "explanation": "The opposite of proud is humble. Someone who is humble does not boast or think too highly of themselves.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "eng_006",
+    "category": "english",
+    "question": "Choose the word OPPOSITE in meaning: 'He SELDOM drives his father's car and was ____ very careful when he did.'",
+    "options": ["Frequently", "Often", "Sometimes", "Never"],
+    "correctIndex": 0,
+    "explanation": "'Seldom' means rarely or not often. Its opposite is 'frequently', which means very often.",
+    "extraKokoFact": "Other words that mean 'seldom': rarely, hardly ever, infrequently."
+  },
+  {
+    "id": "eng_007",
+    "category": "english",
+    "question": "I did not go to the market today because the children _____ too naughty.",
+    "options": ["Shall be", "Were", "Will be", "Will have been"],
+    "correctIndex": 1,
+    "explanation": "The sentence is about the past ('did not go'), so we need a past tense verb. 'Were' is the correct past tense of 'are'.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "eng_008",
+    "category": "english",
+    "question": "Monisola will not be able to go with us _______ her father arrives.",
+    "options": ["Except", "Provided that", "But", "Unless"],
+    "correctIndex": 3,
+    "explanation": "'Unless' means 'except if'. The sentence means she cannot go EXCEPT IF her father arrives. 'Unless' is the correct linking word here.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "eng_009",
+    "category": "english",
+    "question": "In phonetics, which word does NOT have the same vowel sound as the others? Egg / Leg / Cat / Pen",
+    "options": ["Egg", "Leg", "Cat", "Pen"],
+    "correctIndex": 2,
+    "explanation": "Egg, Leg and Pen all use a short 'e' sound (/ɛ/). Cat uses a short 'a' sound (/æ/), which is different.",
+    "extraKokoFact": "In phonetics, we study the sounds of language, not the spelling. 'Cat' and 'Pen' are spelled differently AND sound different!"
+  },
+  {
+    "id": "eng_010",
+    "category": "english",
+    "question": "In phonetics, which word does NOT have the same vowel sound as the others? Bee / Seed / Key / Kin",
+    "options": ["Bee", "Seed", "Key", "Kin"],
+    "correctIndex": 3,
+    "explanation": "Bee, Seed and Key all make a long 'ee' sound (/iː/). Kin makes a short 'i' sound (/ɪ/), which is different.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "eng_011",
+    "category": "english",
+    "question": "Choose the word NEAREST in meaning: 'This SPECIES of bird is very rare in the tropics.'",
+    "options": ["Sparse", "Uncommon", "Slim", "Obscure"],
+    "correctIndex": 1,
+    "explanation": "'Rare' means not often seen or found. 'Uncommon' means not common — that is the closest in meaning.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "eng_012",
+    "category": "english",
+    "question": "The children are all very enthusiastic _______ the upcoming festival.",
+    "options": ["For", "About", "On", "In"],
+    "correctIndex": 1,
+    "explanation": "The correct preposition after 'enthusiastic' is 'about'. We say 'enthusiastic about something'.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "eng_013",
+    "category": "english",
+    "question": "A collective noun for a group of birds flying together is a:",
+    "options": ["Herd", "Pack", "Flock", "School"],
+    "correctIndex": 2,
+    "explanation": "A flock is the correct collective noun for birds. A herd is for cattle, a pack for wolves, and a school for fish.",
+    "extraKokoFact": "A group of crows is called a 'murder'! Collective nouns can be very unusual."
+  },
+  {
+    "id": "eng_014",
+    "category": "english",
+    "question": "Choose the correct sentence:",
+    "options": ["Neither the boys nor their teacher are ready.", "Neither the boys nor their teacher is ready.", "Neither the boys nor their teacher were ready.", "Neither the boys nor their teacher am ready."],
+    "correctIndex": 1,
+    "explanation": "With 'neither...nor', the verb agrees with the subject closest to it. 'Their teacher' is singular, so the verb must be 'is'.",
+    "extraKokoFact": "This is called subject-verb agreement. It is one of the most tested grammar topics in Common Entrance!"
+  },
+  {
+    "id": "eng_015",
+    "category": "english",
+    "question": "Which word is the antonym (opposite) of 'ancient'?",
+    "options": ["Old", "Historic", "Modern", "Traditional"],
+    "correctIndex": 2,
+    "explanation": "'Ancient' means very old. Its opposite is 'modern', which means recent or new.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "science_001",
+    "category": "science",
+    "question": "Which generation of computer is based on artificial intelligence?",
+    "options": ["First generation", "Second generation", "Fourth generation", "Fifth generation"],
+    "correctIndex": 3,
+    "explanation": "Fifth generation computers are based on artificial intelligence (AI) and are designed to think and make decisions like humans.",
+    "extraKokoFact": "You are using AI right now when you use KokoPrep! AI helps computers understand language and answer questions."
+  },
+  {
+    "id": "science_002",
+    "category": "science",
+    "question": "Who is regarded as the father of the computer?",
+    "options": ["John Newton", "Charles Babbage", "Blaise Pascal", "Bill Gates"],
+    "correctIndex": 1,
+    "explanation": "Charles Babbage designed the first mechanical computer called the 'Analytical Engine' in the 1800s, earning him the title 'Father of the Computer'.",
+    "extraKokoFact": "Charles Babbage's Analytical Engine was never fully built in his lifetime, but it had all the key ideas of a modern computer!"
+  },
+  {
+    "id": "science_003",
+    "category": "science",
+    "question": "A computer stores its programs and data in its:",
+    "options": ["ALU", "Control Unit", "Monitor", "Memory"],
+    "correctIndex": 3,
+    "explanation": "Memory (RAM and storage) is where the computer keeps programs and data. The ALU does calculations, the Control Unit directs operations, and the Monitor just displays output.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "science_004",
+    "category": "science",
+    "question": "Which of the following is the most powerful type of computer?",
+    "options": ["Super micro", "Super computer", "Minicomputer", "Mega computer"],
+    "correctIndex": 1,
+    "explanation": "A supercomputer is the most powerful type of computer. They are used for very complex tasks like weather forecasting and space research.",
+    "extraKokoFact": "Nigeria's first supercomputer was installed at NIMET — the Nigerian Meteorological Agency — to help predict the weather!"
+  },
+  {
+    "id": "science_005",
+    "category": "science",
+    "question": "Any chemical substance that affects the action of the body when taken is called:",
+    "options": ["Food", "Drug", "Water", "Air"],
+    "correctIndex": 1,
+    "explanation": "A drug is any chemical substance that changes how the body works when taken. This includes medicines as well as harmful substances.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "science_006",
+    "category": "science",
+    "question": "Which of the following is NOT an example of a drug?",
+    "options": ["Kola nut", "Cigarette", "Indian hemp", "Cashew"],
+    "correctIndex": 3,
+    "explanation": "Cashew is a food, not a drug. Kola nut, cigarettes and Indian hemp all contain substances that affect the body's functions.",
+    "extraKokoFact": "Kola nut contains caffeine, the same stimulant found in tea and coffee. It is part of many Nigerian cultural traditions."
+  },
+  {
+    "id": "science_007",
+    "category": "science",
+    "question": "The release of harmful substances into the atmosphere is called:",
+    "options": ["Water pollution", "Soil pollution", "Vomiting", "Air pollution"],
+    "correctIndex": 3,
+    "explanation": "When harmful substances are released into the air, it is called air pollution. Factories, cars and burning waste are common causes.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "science_008",
+    "category": "science",
+    "question": "The primary source of energy for our brain is:",
+    "options": ["Sun", "Carbohydrate", "Water", "Protein"],
+    "correctIndex": 1,
+    "explanation": "Carbohydrates are broken down into glucose, which is the main fuel for the brain. That is why eating a good breakfast helps you concentrate!",
+    "extraKokoFact": "The brain uses about 20% of all the energy your body produces, even though it is only about 2% of your body weight!"
+  },
+  {
+    "id": "science_009",
+    "category": "science",
+    "question": "Hand washing should be done with:",
+    "options": ["Water only", "Soap only", "Soap and water", "Shampoo"],
+    "correctIndex": 2,
+    "explanation": "Soap and water together are needed for effective hand washing. Soap breaks down the germs and water washes them away.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "science_010",
+    "category": "science",
+    "question": "Which of the following is NOT a product of technology?",
+    "options": ["Car", "Gas cooker", "Stone", "Television"],
+    "correctIndex": 2,
+    "explanation": "A stone is a natural object found in nature. Cars, gas cookers and televisions are all made by humans using technology.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "science_011",
+    "category": "science",
+    "question": "The ability of a material to be stretched and return to its original position is known as:",
+    "options": ["Elasticity", "Conductivity", "Ductility", "Malleability"],
+    "correctIndex": 0,
+    "explanation": "Elasticity is the property of a material that lets it stretch and then spring back to its original shape. A rubber band is a good example.",
+    "extraKokoFact": "Ductility means a material can be drawn into thin wires (like copper). Malleability means it can be hammered into flat sheets (like gold)."
+  },
+  {
+    "id": "science_012",
+    "category": "science",
+    "question": "Which of the following materials is provided by nature?",
+    "options": ["Plastic", "Wood", "Ceramics", "Glass"],
+    "correctIndex": 1,
+    "explanation": "Wood comes directly from trees — it is a natural material. Plastic, ceramics and glass are all manufactured by humans from raw materials.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "science_013",
+    "category": "science",
+    "question": "Which item is used in the workshop to protect the eyes during welding?",
+    "options": ["Mask", "Helmet", "Gloves", "Goggles"],
+    "correctIndex": 3,
+    "explanation": "Goggles protect the eyes from sparks and bright light during welding. A helmet protects the head and gloves protect the hands.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "science_014",
+    "category": "science",
+    "question": "What sanitation means is:",
+    "options": ["Daily removal of sewage", "The efficient removal of dirt from home", "The arrangements to protect individual and public health", "Care of the house only"],
+    "correctIndex": 2,
+    "explanation": "Sanitation refers to the systems and arrangements put in place to protect human health by providing clean environments — including waste disposal, clean water, and hygiene.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "science_015",
+    "category": "science",
+    "question": "How many times should we brush our teeth each day?",
+    "options": ["Once a day", "Twice a day", "Three times a day", "Monthly"],
+    "correctIndex": 1,
+    "explanation": "Dentists recommend brushing teeth twice a day — once in the morning and once before bed — to keep teeth and gums healthy.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "social_001",
+    "category": "social",
+    "question": "What is described as the sum total way of life of a people?",
+    "options": ["Family", "Socialization", "Enculturation", "Culture"],
+    "correctIndex": 3,
+    "explanation": "Culture is the complete way of life of a group of people — including their language, food, clothing, traditions, values and beliefs.",
+    "extraKokoFact": "Nigeria has over 250 ethnic groups, each with their own culture! This makes Nigeria one of the most culturally diverse countries in the world."
+  },
+  {
+    "id": "social_002",
+    "category": "social",
+    "question": "The major concern of Social Studies is to study:",
+    "options": ["Society", "Plants", "Man", "Animals"],
+    "correctIndex": 0,
+    "explanation": "Social Studies is primarily concerned with the study of society — how people live together, relate to each other, and organise themselves.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "social_003",
+    "category": "social",
+    "question": "Children perform the following roles and responsibilities in the family EXCEPT:",
+    "options": ["Help in domestic chores", "Running errands for their parents", "Providing food for their parents", "Taking care of their young ones"],
+    "correctIndex": 2,
+    "explanation": "Providing food for parents is not the responsibility of children in the family — that is the role of the parents. Children help with chores, run errands, and help with younger siblings.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "social_004",
+    "category": "social",
+    "question": "The family is an example of a _______ social group.",
+    "options": ["Secondary", "Tertiary", "Informal", "Primary"],
+    "correctIndex": 3,
+    "explanation": "The family is a primary social group — it is the first group a person belongs to, and relationships within it are close and personal.",
+    "extraKokoFact": "A secondary group is a larger, less personal group like a school or workplace."
+  },
+  {
+    "id": "social_005",
+    "category": "social",
+    "question": "The components of culture are grouped as _________ and _________.",
+    "options": ["Man and Woman", "Material and Food", "Material and Non-material", "Man and Food"],
+    "correctIndex": 2,
+    "explanation": "Culture is divided into material culture (physical objects like tools, clothing, buildings) and non-material culture (ideas, beliefs, language, values).",
+    "extraKokoFact": null
+  },
+  {
+    "id": "social_006",
+    "category": "social",
+    "question": "Citizenship means:",
+    "options": ["Voting during election", "People who live in cities", "The state of being granted all legal rights and privileges by a country", "People who enter ships"],
+    "correctIndex": 2,
+    "explanation": "Citizenship is the legal status that gives a person rights and duties within a country, such as the right to vote and the duty to obey the law.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "social_007",
+    "category": "social",
+    "question": "The Nigerian flag has how many colours?",
+    "options": ["1", "2", "3", "4"],
+    "correctIndex": 1,
+    "explanation": "The Nigerian flag has two colours: green and white. The green stripes represent Nigeria's forests and natural wealth, and the white stripe represents peace.",
+    "extraKokoFact": "Nigeria's flag was designed by Michael Taiwo Akinkunmi, a student, who won a competition in 1959 — the year before independence!"
+  },
+  {
+    "id": "social_008",
+    "category": "social",
+    "question": "The working together of people to achieve collective goals is known as:",
+    "options": ["Values", "Honesty", "Cooperation", "Self-reliance"],
+    "correctIndex": 2,
+    "explanation": "Cooperation is the act of working together towards a shared goal. It is a key civic value and makes communities stronger.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "social_009",
+    "category": "social",
+    "question": "One of the consequences of dishonesty is that:",
+    "options": ["It leads to promotion", "It creates employment opportunities", "It leads to punishment", "It opens doors of favour"],
+    "correctIndex": 2,
+    "explanation": "Dishonesty leads to punishment, loss of trust, and damaged relationships. It has negative consequences in school, at home, and in society.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "social_010",
+    "category": "social",
+    "question": "A group of people who are related by blood or adoption is called:",
+    "options": ["Community", "Primary social group", "Family", "Parents"],
+    "correctIndex": 2,
+    "explanation": "A family is a group connected by blood (biological relatives) or by adoption. It is the basic unit of society.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "social_011",
+    "category": "social",
+    "question": "Which of the following is NOT a natural resource?",
+    "options": ["Water", "Forests", "Livestock", "Cars"],
+    "correctIndex": 3,
+    "explanation": "Cars are manufactured by humans — they are not natural resources. Water, forests and livestock exist in nature.",
+    "extraKokoFact": "Nigeria's most important natural resource is crude oil, but it also has natural gas, solid minerals, and fertile farmland."
+  },
+  {
+    "id": "social_012",
+    "category": "social",
+    "question": "Which of the following is NOT part of the material components of culture?",
+    "options": ["Language", "Dressing", "Baskets", "Food"],
+    "correctIndex": 0,
+    "explanation": "Language is a non-material component of culture — you cannot touch or hold it. Dressing, baskets and food are all physical, material things.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "social_013",
+    "category": "social",
+    "question": "The following are common agents of socialisation EXCEPT:",
+    "options": ["Peer group", "Family", "Animals", "Mass media"],
+    "correctIndex": 2,
+    "explanation": "Agents of socialisation are groups or institutions that teach us how to behave in society. Animals do not do this. Family, peers and mass media all shape our behaviour.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "social_014",
+    "category": "social",
+    "question": "Nigeria gained independence in which year?",
+    "options": ["1957", "1960", "1963", "1966"],
+    "correctIndex": 1,
+    "explanation": "Nigeria gained independence from Britain on 1st October 1960. This date is celebrated every year as Nigeria's Independence Day.",
+    "extraKokoFact": "Nigeria became a Republic in 1963, which means the head of state changed from the British Queen to a Nigerian President."
+  },
+  {
+    "id": "social_015",
+    "category": "social",
+    "question": "The national motto of Nigeria is:",
+    "options": ["Unity, Faith, Peace and Progress", "Peace, Unity and Progress", "Work, Wisdom and Wonder", "Forward Together"],
+    "correctIndex": 0,
+    "explanation": "Nigeria's national motto is 'Unity, Faith, Peace and Progress'. It appears on the Nigerian coat of arms.",
+    "extraKokoFact": "The Nigerian coat of arms has a black shield (representing Nigeria's fertile soil), two white wavy lines (the River Niger and Benue), and an eagle on top."
+  },
+  {
+    "id": "crs_001",
+    "category": "crs",
+    "question": "The first miracle performed by Jesus was:",
+    "options": ["Healing of the blind", "Raising the dead", "Feeding of the five thousand", "Turning water to wine"],
+    "correctIndex": 3,
+    "explanation": "Jesus' first miracle was turning water into wine at a wedding in Cana of Galilee (John 2:1-11), at the request of his mother Mary.",
+    "extraKokoFact": "Jesus performed this miracle at a wedding because the host had run out of wine — a very embarrassing situation in that culture!"
+  },
+  {
+    "id": "crs_002",
+    "category": "crs",
+    "question": "What did God create on the second day?",
+    "options": ["Dry land and plants", "Light", "Moon and stars", "Firmament"],
+    "correctIndex": 3,
+    "explanation": "On the second day, God created the firmament (the sky/expanse) and separated the waters above from the waters below (Genesis 1:6-8).",
+    "extraKokoFact": "Day 1: Light. Day 2: Sky/Firmament. Day 3: Dry land and plants. Day 4: Sun, moon and stars. Day 5: Birds and fish. Day 6: Animals and humans. Day 7: Rest!"
+  },
+  {
+    "id": "crs_003",
+    "category": "crs",
+    "question": "What happened to Adam and Eve after eating the fruit of the knowledge of good and evil?",
+    "options": ["Their eyes were opened", "They looked like God", "They were satisfied", "They saw God"],
+    "correctIndex": 0,
+    "explanation": "Genesis 3:7 says 'Then the eyes of both of them were opened, and they realized they were naked.' They became aware of good and evil.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "crs_004",
+    "category": "crs",
+    "question": "The act of becoming friends again after a quarrel is known as:",
+    "options": ["Restitution", "Friendship", "Reconciliation", "Ratification"],
+    "correctIndex": 2,
+    "explanation": "Reconciliation means restoring a friendly relationship after a disagreement. It involves forgiveness and the desire to make peace.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "crs_005",
+    "category": "crs",
+    "question": "How many books are in the Bible?",
+    "options": ["75", "66", "27", "65"],
+    "correctIndex": 1,
+    "explanation": "The Bible has 66 books in total: 39 in the Old Testament and 27 in the New Testament.",
+    "extraKokoFact": "The New Testament alone has 27 books. The longest book in the Bible is Psalms, and the shortest is 3 John!"
+  },
+  {
+    "id": "crs_006",
+    "category": "crs",
+    "question": "Who was thrown into the lions' den but was protected by God?",
+    "options": ["Shadrach", "David", "Daniel", "Elijah"],
+    "correctIndex": 2,
+    "explanation": "Daniel was thrown into a lions' den by King Darius because he refused to stop praying to God. God sent an angel to shut the lions' mouths and Daniel was unharmed (Daniel 6).",
+    "extraKokoFact": null
+  },
+  {
+    "id": "crs_007",
+    "category": "crs",
+    "question": "Jesus fed five thousand people with how many loaves and fish?",
+    "options": ["5 loaves and 3 fish", "7 loaves and 2 fish", "5 loaves and 2 fish", "3 loaves and 5 fish"],
+    "correctIndex": 2,
+    "explanation": "Jesus fed 5,000 people using 5 loaves of bread and 2 fish, with 12 baskets of leftovers remaining (Matthew 14:17-21).",
+    "extraKokoFact": null
+  },
+  {
+    "id": "crs_008",
+    "category": "crs",
+    "question": "Which disciple denied Jesus three times before the cock crowed?",
+    "options": ["John", "James", "Judas", "Peter"],
+    "correctIndex": 3,
+    "explanation": "Peter denied knowing Jesus three times on the night of Jesus' arrest, just as Jesus had predicted (Luke 22:54-62).",
+    "extraKokoFact": null
+  },
+  {
+    "id": "crs_009",
+    "category": "crs",
+    "question": "The fruit of the Spirit listed in Galatians 5 includes all the following EXCEPT:",
+    "options": ["Love", "Joy", "Anger", "Peace"],
+    "correctIndex": 2,
+    "explanation": "The fruit of the Spirit in Galatians 5:22-23 are: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control. Anger is not on the list.",
+    "extraKokoFact": "There are 9 fruits of the Spirit in total. Try to memorise them all!"
+  },
+  {
+    "id": "crs_010",
+    "category": "crs",
+    "question": "Moses received the Ten Commandments on which mountain?",
+    "options": ["Mount Zion", "Mount Carmel", "Mount Sinai", "Mount Olive"],
+    "correctIndex": 2,
+    "explanation": "God gave Moses the Ten Commandments on Mount Sinai, written on two tablets of stone (Exodus 20).",
+    "extraKokoFact": "The Ten Commandments begin with 'I am the Lord your God, who brought you out of Egypt, out of the land of slavery.'"
+  },
+  {
+    "id": "agric_001",
+    "category": "agriculture",
+    "question": "Agriculture can be defined as the art of cultivation of crops and rearing of animals for human benefit. The area dealing with honey bees is called:",
+    "options": ["Agriculture", "Cuniculture", "Sericulture", "Apiculture"],
+    "correctIndex": 3,
+    "explanation": "Apiculture is the keeping and management of honey bees. The document listed 'sericulture' but the correct answer for honey bees is apiculture. Sericulture is the rearing of silkworms.",
+    "extraKokoFact": "Cuniculture is the rearing of rabbits! Agriculture has special names for every type of farming."
+  },
+  {
+    "id": "agric_002",
+    "category": "agriculture",
+    "question": "A monocotyledon plant has:",
+    "options": ["Two seed leaves", "One seed leaf", "No seed leaves", "Three seed leaves"],
+    "correctIndex": 1,
+    "explanation": "Mono means one. A monocotyledon (monocot) has one seed leaf (cotyledon). Examples include maize, rice and grass.",
+    "extraKokoFact": "Di means two. Dicotyledons (dicots) have two seed leaves. Examples include beans, mango and cashew."
+  },
+  {
+    "id": "agric_003",
+    "category": "agriculture",
+    "question": "The use of simple tools like cutlass and hoes is common among:",
+    "options": ["Traditional farmers", "Commercial farmers", "Wildlife farmers", "All of the above"],
+    "correctIndex": 0,
+    "explanation": "Traditional (subsistence) farmers use simple hand tools like cutlasses and hoes. Commercial farmers use machines like tractors and harvesters.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_004",
+    "category": "agriculture",
+    "question": "All of these are importance of agriculture EXCEPT:",
+    "options": ["Provision of food", "Source of income", "Provision of shelters", "Poor farm tools"],
+    "correctIndex": 3,
+    "explanation": "Poor farm tools are a problem for agriculture, not a benefit. Agriculture provides food, income, raw materials and employment — not poor tools.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_005",
+    "category": "agriculture",
+    "question": "Which type of soil is the most fertile and best for farming?",
+    "options": ["Sandy soil", "Clay soil", "Loamy soil", "Rocky soil"],
+    "correctIndex": 2,
+    "explanation": "Loamy soil is the best for farming because it contains a good balance of sand, silt and clay, holds moisture well, and is rich in nutrients.",
+    "extraKokoFact": "Sandy soil drains too quickly. Clay soil holds too much water. Loamy soil is just right — like Goldilocks!"
+  },
+  {
+    "id": "agric_006",
+    "category": "agriculture",
+    "question": "Which of the following is a cash crop grown in Nigeria?",
+    "options": ["Yam", "Cassava", "Cocoa", "Maize"],
+    "correctIndex": 2,
+    "explanation": "Cocoa is Nigeria's main cash crop — it is grown mainly for export and earning foreign income. Yam, cassava and maize are food crops grown for eating.",
+    "extraKokoFact": "Nigeria was once the world's largest producer of cocoa! Cocoa beans are used to make chocolate."
+  },
+  {
+    "id": "agric_007",
+    "category": "agriculture",
+    "question": "The rearing of fish in controlled conditions is called:",
+    "options": ["Apiculture", "Aquaculture", "Poultry farming", "Cuniculture"],
+    "correctIndex": 1,
+    "explanation": "Aquaculture (also called fish farming or pisciculture) is the controlled rearing of fish and other aquatic animals. It is increasingly important in Nigeria.",
+    "extraKokoFact": null
+  },
+  {
+    "id": "agric_008",
+    "category": "agriculture",
+    "question": "Which of the following is a leguminous crop?",
+    "options": ["Maize", "Cassava", "Groundnut", "Yam"],
+    "correctIndex": 2,
+    "explanation": "Groundnut (peanut) is a leguminous crop — it belongs to the legume family, along with beans, soya beans and cowpeas. Legumes are special because their roots add nitrogen to the soil.",
+    "extraKokoFact": "Farmers sometimes plant groundnuts between other crops to improve the soil — this is called crop rotation!"
+  }
+]

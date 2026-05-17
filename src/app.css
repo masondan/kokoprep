@@ -1,0 +1,194 @@
+@import "tailwindcss";
+
+:root {
+  --color-primary: #ff0094;
+  --color-primary-light: #ff66c4;
+  --color-bg: #fafafa;
+  --color-card: #ffffff;
+  --color-text: #1a1a2e;
+  --color-muted: #6b7280;
+  --color-correct: #16a34a;
+  --color-incorrect: #dc2626;
+  --radius-card: 16px;
+  --radius-btn: 12px;
+  --shadow-card: 0 4px 20px rgba(0, 0, 0, 0.08);
+  --max-width: 480px;
+  --font-main: 'Nunito', sans-serif;
+
+  /* Category colors */
+  --cat-mathematics: #2563eb;
+  --cat-english: #7c3aed;
+  --cat-science: #0d9488;
+  --cat-social: #ea580c;
+  --cat-crs: #d97706;
+  --cat-agriculture: #16a34a;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  font-family: var(--font-main);
+  background-color: #f0f0f0;
+}
+
+body {
+  max-width: 480px;
+  margin: 0 auto;
+  min-height: 100vh;
+  color: var(--color-text);
+  line-height: 1.6;
+}
+
+#svelte {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  max-width: 480px;
+  margin: 0 auto;
+  background: white;
+}
+
+main {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1rem;
+}
+
+/* Tailwind utilities */
+@layer components {
+  .btn-primary {
+    @apply px-6 py-3 bg-[var(--color-primary)] text-white font-bold rounded-[var(--radius-btn)] cursor-pointer transition-all active:scale-95;
+  }
+
+  .btn-primary:disabled {
+    @apply bg-gray-300 cursor-not-allowed;
+  }
+
+  .card {
+    @apply bg-white rounded-[var(--radius-card)] shadow-[var(--shadow-card)] p-4;
+  }
+
+  .touch-target {
+    @apply min-h-[44px] flex items-center justify-center;
+  }
+}
+
+/* Fade transition */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.2s ease-in-out;
+}
+
+/* Pulse animation for timer */
+@keyframes pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+.pulse {
+  animation: pulse 1s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* Focus ring for accessibility */
+:focus-visible {
+  outline: 3px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
+button:focus-visible {
+  outline: 3px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
+/* PWA Splash Screen */
+@keyframes splash-fade-out {
+  0% {
+    opacity: 1;
+    z-index: 9999;
+  }
+  99% {
+    opacity: 0;
+    z-index: 9999;
+  }
+  100% {
+    opacity: 0;
+    z-index: -1;
+    display: none;
+  }
+}
+
+.pwa-splash {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(135deg, #ff0094 0%, #ff66c4 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  animation: splash-fade-out 3s ease-out forwards;
+}
+
+.pwa-splash-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.pwa-splash-logo {
+  width: 192px;
+  height: 192px;
+  background: white;
+  border-radius: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2);
+}
+
+.pwa-splash-logo img {
+  width: 160px;
+  height: 160px;
+  object-fit: contain;
+}
+
+.pwa-splash-text {
+  color: white;
+  text-align: center;
+  font-weight: 700;
+  font-size: 2rem;
+  font-family: var(--font-main);
+  letter-spacing: -0.5px;
+}
+
+/* Hide splash screen after load */
+@media (prefers-reduced-motion: reduce) {
+  .pwa-splash {
+    animation: splash-fade-out 0.5s ease-out forwards;
+  }
+}
