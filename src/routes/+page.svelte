@@ -200,7 +200,7 @@
 					<h3 class="past-kocos-title">🏆 Scoreboard</h3>
 					{#if $testHistory.length === 0}
 						<p class="past-kocos-empty">
-							No Kocos yet — press Start Now to begin your first one! 🚀
+							Ready to show your scores here
 						</p>
 					{:else}
 						{@const visibleCount = showAllHistory ? 15 : 3}
