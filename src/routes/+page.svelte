@@ -253,7 +253,7 @@
 		display: flex;
 		flex-direction: column;
 		min-height: 100vh;
-		background: #ffffff;
+		background: var(--color-primary);
 	}
 
 	.app-header {
@@ -314,7 +314,7 @@
 		display: flex;
 		border-radius: 12px;
 		overflow: hidden;
-		border: 1.5px solid #e0e0e0;
+		border: 1.5px solid #ff0094;
 		background: #f0f0f0;
 	}
 
@@ -357,7 +357,7 @@
 		appearance: none;
 		-webkit-appearance: none;
 		background: #fce7f3;
-		border: 1.5px solid #fbcfe8;
+		border: 1.5px solid #ff0094;
 		border-radius: 12px;
 		padding: 14px 44px 14px 16px;
 		font-size: 0.95rem;
@@ -388,7 +388,7 @@
 	}
 
 	.topic-select:hover {
-		border-color: #f9a8d4;
+		border-color: #ff0094;
 	}
 
 	.select-chevron {
