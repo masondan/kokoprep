@@ -259,12 +259,14 @@
 	.app-header {
 		background: var(--color-primary);
 		padding: 20px 24px;
+		margin: 0;
 		display: flex;
 		justify-content: center;
 		align-items: center;
 		position: sticky;
 		top: 0;
 		z-index: 10;
+		border: none;
 	}
 
 	.header-logo {
