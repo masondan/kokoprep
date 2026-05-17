@@ -6,8 +6,8 @@
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "theme_color": "#D946EF",
-  "background_color": "#FFFFFF",
+  "theme_color": "#ff0094",
+  "background_color": "#ff0094",
   "icons": [
     {
       "src": "/logos/favicon-kokoprep.svg",

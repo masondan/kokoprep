@@ -258,7 +258,7 @@
 
 	.app-header {
 		background: var(--color-primary);
-		padding: 24px 24px;
+		padding: 20px 24px;
 		display: flex;
 		justify-content: center;
 		align-items: center;
@@ -268,7 +268,7 @@
 	}
 
 	.header-logo {
-		height: 48px;
+		height: 35px;
 		width: auto;
 		object-fit: contain;
 	}
